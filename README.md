@@ -54,3 +54,11 @@
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 <externallink>https://pastebin.com/raw/LvgELKqc</externallink>
 </item>
+
+<item>
+<title>[COLOR lightblue][B]* CRIS EL PURETE[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://png.pngtree.com/element_origin_min_pic/16/11/08/205821c38376b2e.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://pastebin.com/raw/LvgELKqc</externallink>
+</item>
