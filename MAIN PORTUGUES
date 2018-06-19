@@ -162,24 +162,14 @@
 <fanart>http://i.imgur.com/8nNDMzm.png</fanart>
 <info>Tiago criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/MegaBoxtvKODI</info>
 </channel>
- 
- 
- 
+
 <channel>
-<name>[COLOR red][B]Desenhos[/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/HBFcgvI.png</thumbnail>
-<externallink>https://gist.githubusercontent.com/Gunboybr/4b875236aec471a095556b9df5f34bf9/raw/kids</externallink>
-<fanart></fanart>
+<name>[COLOR red][B]Series de TV[/B][/COLOR]</name>
+<thumbnail>http://i.imgur.com/YieBGi1.png</thumbnail>
+<externallink>https://www.dropbox.com/s/p3jof7jfb6kypif/SERIES.txt?dl=1</externallink>
+<fanart>http://i.imgur.com/8nNDMzm.png</fanart>
 <info>Tiago criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/MegaBoxtvKODI</info>
-</channel>
+</channel> 
  
- 
- 
-<channel>
-<name>[COLOR green][B]Café Tecnológico [/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/8GiHQQP.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/NcUYtmsF</externallink>
-<fanart>http://i.imgur.com/zIxkM6G.jpg</fanart>
-<info>Tudo sobre tecnologia e Novidades No Mundo das BoxTV E Kodi -- Youtube Café Tecnológico </info>
-</channel>
+
  
