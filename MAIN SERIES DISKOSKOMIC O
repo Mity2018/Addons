@@ -50,6 +50,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/MvVOzez.jpg</thumbnail>
-<fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
+<thumbnail>http://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg</thumbnail>
+<fanart>http://www.granpremiere.com/wp-content/uploads/2014/04/alias-el-mexicano-teaser1.jpg</fanart>
 </item>
