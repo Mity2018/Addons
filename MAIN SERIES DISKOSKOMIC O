@@ -20,7 +20,7 @@
 
 
 <item>
-<title>[COLOR orange]Dragon Ball[/COLOR]</title>
+<title>[COLOR orange]ALIAS EL MEXICANO[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -32,7 +32,7 @@
         <fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/retrogames33/db-74096/list,1,9</page>
+<page>http://diskokosmiko.mx/FLAYSINA/alia-el-mexicano-completa-42040/list,1,4</page>
 <cookieJar></cookieJar>
 </regex>
  
