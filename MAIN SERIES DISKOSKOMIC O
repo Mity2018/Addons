@@ -1,5 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
 <item>
-<title>[COLOR orange]ALIAS EL MEXICANO[/COLOR]</title>
+<title>----------[COLOR orange]BIENVENIDOS A MUNDO[/COLOR][COLOR red]DRAGON[/COLOR][COLOR yellow]BALL 2.0[/COLOR]--------------</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>https://i.imgur.com/i3KaazF.jpg<thumbnail>
+<fanart>https://i.imgur.com/hB2D7AA.jpg</fanart>
+</item>
+
+
+<item>
+<title>----------[COLOR yellow]Novedades: ------14/06/2018-----SUBIDO CAPITULO 072,073 Y 074 DRAGON BALL SUPER EN CASTELLANO( capitulos diarios de lunes a jueves de dragon ball super )-----[/COLOR]--------------</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>https://i.imgur.com/i3KaazF.jpg<thumbnail>
+<fanart>https://i.imgur.com/hB2D7AA.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR orange]Dragon Ball[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -11,7 +32,7 @@
         <fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>diskokosmiko.mx/FLAYSINA/alia-el-mexicano-completa-42040/list,1,4</page>
+<page>http://diskokosmiko.mx/retrogames33/db-74096/list,1,9</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -48,6 +69,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg</thumbnail>
-<fanart>http://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg</fanart>
+<thumbnail>https://i.imgur.com/MvVOzez.jpg</thumbnail>
+<fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
 </item>
