@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-<item>
-<title>----------[COLOR orange]BIENVENIDOS A MUNDO[/COLOR][COLOR red]DRAGON[/COLOR][COLOR yellow]BALL 2.0[/COLOR]--------------</title>
-<link>http://ignorame</link>
-<externallink>http://ignorame</externallink>
-<thumbnail>https://i.imgur.com/i3KaazF.jpg<thumbnail>
-<fanart>https://i.imgur.com/hB2D7AA.jpg</fanart>
-</item>
-
-
-<item>
-<title>----------[COLOR yellow]Novedades: ------14/06/2018-----SUBIDO CAPITULO 072,073 Y 074 DRAGON BALL SUPER EN CASTELLANO( capitulos diarios de lunes a jueves de dragon ball super )-----[/COLOR]--------------</title>
-<link>http://ignorame</link>
-<externallink>http://ignorame</externallink>
-<thumbnail>https://i.imgur.com/i3KaazF.jpg<thumbnail>
-<fanart>https://i.imgur.com/hB2D7AA.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLOR orange]ALIAS EL MEXICANO[/COLOR]</title>
 <link>$doregex[makelist]</link>
