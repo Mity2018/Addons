@@ -9,8 +9,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.imgur.com/MvVOzez.jpg</thumbnail>
-        <fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
+        <thumbnail>http://foxtelecolombia.com/wp-content/uploads/2017/05/660x440aliaselmexicano.jpg</thumbnail>
+        <fanart>http://www.granpremiere.com/wp-content/uploads/2014/04/alias-el-mexicano-teaser1.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/FLAYSINA/alia-el-mexicano-completa-42040/list,1,4</page>
@@ -63,8 +63,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <listrepeat><![CDATA[
         <title>[COLOR white]+- [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.imgur.com/MvVOzez.jpg</thumbnail>
-        <fanart>https://i.imgur.com/3eHSOlc.jpg</fanart>
+        <thumbnail>http://image.tmdb.org/t/p/w396/nC2qpFcGadj3ckhqsKZseZPXhBK.jpg</thumbnail>
+        <fanart>https://http2.mlstatic.com/pablo-escobar-el-patron-del-mal-serie-completa-en-dvd-D_NQ_NP_675615-MLA25279642169_012017-F.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/titotv/escobar-el-patron-del-mal-2799/list,1,5</page>
