@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>                          [COLOR tomato][B]´´ BIENVENIDOS A CRIS IPTV ´´[/B][/COLOR]   </title>
+<title>                          [COLOR tomato][B]´´ BIENVENIDOS A Cris IPTV ´´[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                   [COLOR silver][B]Peliculas, series y muchos mas...[/B][/COLOR]</title>
+<title>                       [COLOR silver][B]Peliculas, series y muchos mas...[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
