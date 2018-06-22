@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                       [COLOR silver][B]Peliculas, series y muchos mas...[/B][/COLOR]</title>
+<title>                         [COLOR silver][B]Peliculas, series y muchos mas...[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
@@ -67,6 +67,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>             [COLOR silver][B]lo mas interesante es en dos idiomas...[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
+<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>             [COLOR yellow][B]hecho por ´´Cristhian Santander´´[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
