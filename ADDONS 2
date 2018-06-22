@@ -21,7 +21,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
 <item>
@@ -29,7 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://icons.iconarchive.com/icons/kalangozilla/skrynium-black/256/punisher-icon.png</thumbnail>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/16/197406/54df26048323f74b219da0dca522e1cb.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
  
@@ -53,7 +53,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex><thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
 
@@ -62,7 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
 <item>
@@ -70,7 +70,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
 <item>
@@ -78,7 +78,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
 <item>
@@ -86,14 +86,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <externallink>http://main.txt</externallink>
 <thumbnail>http://www.hdfondos.net/file/248/728x410/16:9/bandera-de-paraguay_812910374.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-w28pj1yqWks/Wv9Ttj4NstI/AAAAAAAAAFU/OBfjyFwkVhUZnOBxto4lUbqJRMq0Z839ACLcBGAs/s1600/LOGO%2BCRIS%2B2.jpg</fanart>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 </item>
 
  <item>
 <title>[COLOR lightblue][B]Idioma Español[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
-<fanart>http://legionworldtv.com/240x240/fanart.jpg</fanart>
+<thumbnail>http://www.hdfondos.net/file/248/728x410/16:9/bandera-de-paraguay_812910374.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-w28pj1yqWks/Wv9Ttj4NstI/AAAAAAAAAFU/OBfjyFwkVhUZnOBxto4lUbqJRMq0Z839ACLcBGAs/s1600/LOGO%2BCRIS%2B2.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN%20ESPA%C3%91OL</externallink>
 </item>
 
