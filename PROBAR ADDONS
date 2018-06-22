@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>                          [COLOR tomato][B]W E L C O M E  TO    F R E E W O R L D[/B][/COLOR]   </title>
+<title>                          [COLOR tomato][B]´´ BIENVENIDOS A CRIS IPTV ´´[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>       [COLOR silver][B]Do not host any these streams,that can be found online[/B][/COLOR]</title>
+<title>       [COLOR silver][B]CRIS IPTV te Brinda el mejor que hay en canales[/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                      [COLOR silver][B]Copyrigth violation issues to the company[/B][/COLOR]</title>
+<title>                      [COLOR silver][B]Peliculas, series y muchos mas[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                     [COLOR silver][B]That host these files[/B][/COLOR]</title>
+<title>                                     [COLOR silver][B]lo mas interesante es en dos idiomas...[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
