@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>       [COLOR silver][B]CRIS IPTV te Brinda el mejor que hay en canales[/B][/COLOR]</title>
+<title>       [COLOR silver][B]CRIS IPTV te Brinda el mejor que hay en Canales[/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>                         [COLOR silver][B]Peliculas, series y muchos mas...[/B][/COLOR]</title>
+<title>                         [COLOR silver][B]Peliculas, Series y muchos mas...[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
