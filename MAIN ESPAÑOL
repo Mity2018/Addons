@@ -53,6 +53,46 @@
    <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/SERIE%20LUIS%20MIGUEL</externallink>
 </channel>
   </channels>
+  
+  <channels>
+
+<channel>
+<name>TV En Vivo</name>
+<thumbnail>http://tvmaniacs.eu/600.jpg</thumbnail>
+<externallink>http://tvmaniacs.eu/tvm/LiveTV/home.txt</externallink>
+<fanart>http://tvmaniacs.eu/600.jpg</fanart>
+</item>
+<info>Tv En Vivo</info>
+</channel>
+
+<channel>
+<name>Peliculas</name>
+<thumbnail>http://tvmaniacs.eu/600.jpg</thumbnail>
+<externallink>http://tvmaniacs.eu/tvm/Movies/home.txt</externallink>
+<fanart>http://tvmaniacs.eu/600.jpg</fanart>
+</item>
+<info>Peliculas</info>
+</channel>
+
+<channel>
+<name>Series (Mantenimiento)</name>
+<thumbnail>http://tvmaniacs.eu/600.jpg</thumbnail>
+<externallink>http://tvmaniacs.eu/tvm/Series/home.txt</externallink>
+<fanart>http://tvmaniacs.eu/600.jpg</fanart>
+</item>
+<info>Series</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+</item>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
 
 
 
