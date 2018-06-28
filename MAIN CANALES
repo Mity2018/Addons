@@ -60,16 +60,16 @@
 	<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/0a/f9/6b/0af96b62-25fa-42c0-7579-8ac571911055/AppIcon-1x_U007emarketing-85-220-0-5.png/1200x630bb.jpg</thumbnail>
 	<fanart>http://www.lg.com/us/images/TV/features/c7-true-cinema.jpg</fanart>
 	
-	<item>
-<title>[COLOR lime] •[/COLOR][COLOR red] Nuevo Rico Nuevo Pobre [/COLOR]</title>
-<thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
+  <item>
+<title>[COLOR lime] •[/COLOR][COLOR red] La Doble Vida De Esthela Carrillo [/COLOR]</title>
+<thumbnail>http://i.imgur.com/lviMCZB.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[getMP4]</link>
-<thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/lviMCZB.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
 <page>http://www.tusnovelas.net/ver-telenovela/nuevo-riconuevo-pobre</page>
@@ -94,4 +94,3 @@
 </includeheaders>
 </regex>
 </item>
-   
