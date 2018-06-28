@@ -283,3 +283,39 @@
 <externallink>http://exabytetv.info/series.m3u</externallink>
 </item
 
+<item>
+<title>[COLOR lime] PELICULAS [/COLOR][COLOR yellow][B] HD 1080p [/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://i.imgur.com/icXO8oH.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/danonaba89/fileuploader-46197/list,1,600</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/danonaba89/fileuploader-46197/list,1,600</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/8hj0mrk8zw6wtTQdD69PlTopY3k.jpg</thumbnail>
+</item>
+
