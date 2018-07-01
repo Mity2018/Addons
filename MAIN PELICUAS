@@ -16,7 +16,7 @@
                     
 
 <item>
-<title>[COLOR lightblue][B]* Peliculas Estrenos DDDD[/B][/COLOR]</title>
+<title>[COLOR lightblue][B]* Peliculas Estrenos [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.dibujosparapintar.com/archivos/peliculas_logo.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
@@ -159,14 +159,5 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://legionworldtv.com/goldentv/images/icon.png</thumbnail>
-  </item>
-  
-  <item>
-<title>[COLOR lightblue][B]* TV 2018[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://www.dibujosparapintar.com/archivos/peliculas_logo.png</thumbnail>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<externallink>https://pastebin.com/raw/bdJ131MP</externallink>
-</item>
-  
+  </item> 
  
