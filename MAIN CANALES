@@ -319,3 +319,21 @@
 <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/8hj0mrk8zw6wtTQdD69PlTopY3k.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR blue]LISTAS IPTV[/COLOR] [COLOR white]DEL DIA DOMINGO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR white][makelist.param1][/COLOR]</title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>https://www.freeiptv.life//p/today-m3u-playlist-iptv-links.html</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
