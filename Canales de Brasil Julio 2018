@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 ,[COLOR red][B]-=-= CrisIPTV -=-=[/B][/COLOR]
+http://
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICK
 http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
 
