@@ -1,0 +1,2074 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",ATRESSERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ESPN HD  HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Maceio
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Esporte Interativo 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",PORTAL GOSPEL TV HD
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",EI Maxx HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV Geral BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARABE",ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",NRB Network (USA)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",GAME SHOW TV -
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",MEGA SD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB"s TV CLIPES",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",A3 LATINO
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on?AndreOid
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",TV KIDMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Escola
+http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV APARECIDA HD
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Record News - TV Guará (MA)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Boa Vontade
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Vem & Vê TV 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",FUSION TV
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Puc TV (GO)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",RT DOCUMENTARY CHANNEL
+http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV DIARIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV VIA MIDIA
+http://d3e1993t7xu9fk.cloudfront.net/viamidia/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",1HD MUSIC TELEVISION
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV CAPITAL  HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MUSICA",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Paca pca
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Retrô
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",DJING HD
+http://www.djing.com/tv/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Origem (DF)
+http://stmv2.srvstm.com/jorsilei2749/jorsilei2749/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB"s TV CLIPES",TV PORTAL DA BAHIA
+http://173.236.10.10:1935/tvportal/tvportal/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB"s TV CLIPES",BR: MKK WEB TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Itapetinga (SP)
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV MAR HD
+http://209.126.127.101:1935/tvmar/tvmar/chunklist_w1365320512.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",NHK
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",TSN
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",ALL SPORTS HD
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Record Internacional
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV ESCOLA *
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Abu Dabi Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?CompartilhandoIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARABE",Arabic: sky news arabia
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?EmersonIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",SBT BA
+http://ns.tvaratu.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Portla FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1496592366.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",26 TV DIARIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Gospel Music TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Portal Gospel 24H
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",NOVA CINEMA 04
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",NOVA CINEMA 05
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",RTP 3
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",RTP AÇORES
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",RTP MEMÓRIA
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARGENTINA",Canal 26 ARGENTINA
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARGENTINA",Canal 79 ARGENTINA
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARGENTINA",DEPORT TV ARGENTINA
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARGENTINA",Garage TV ARGENTINA
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",UESTV CHILE
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",Pinguino TV CHILE
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",Niu TV CHILE
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",ITV CHILE
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",Canal Carnaval 38 CHILE
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",Carolina TV CHILE
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",TVMas MEXICO
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",RTQ MEXICO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",RCG 3 TV MEXICO
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",RCG 2 TV MEXICO
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",ADN 40 MEXICO
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",Willax TV PERU
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",Ovacion PERU
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",Top Latino PERU
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",RBC TV PERU
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",BHtv PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PERU",Antares TV PERU
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VENEZUELA",TVO VENEZUELA
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",CBS News [Estados Unidos]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",Breakfast CANADA
+http://bthls-i.akamaihd.net/hls/live/264151/BTTORHLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",CPAC CANADA
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",CTV News Live Events 1 CANADA
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",CTV News Live Events 2 CANADA
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",CTV News Live Events 3 CANADA
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANADA",CTV News Live Events 4 CANADA
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",SKY TG 24 ITALIA
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ISLANDIA",N4 Islandia
+http://tv.vodafoneplay.is/n4/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",RTV Ruanda
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",Al Nabaa Libia
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",Mekameleen Egito
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",CBC Egito
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",RTP ÁFRICA
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",China Business Network
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",TRO Soyuz RUSSIA
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",Moya Planeta RUSSIA
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",Mir 24 RUSSIA
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",RZD TV RUSSIA
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",World Fashion RUSSIA
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",RBC RUSSIA
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",O2 TV RUSSIA
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",Kanal Omsk RUSSIA
+http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",Impact RUSSIA
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",ID Fashion RUSSIA
+http://95.67.8.22/hls/idfashion/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",Akudji TV RUSSIA
+http://hls.goodgame.ru/hls/5346.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",9 Volna RUSSIA
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Asia",7 TV RUSSIA
+http://78.40.108.218/7channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",AT5 Holanda
+http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Klipkar TV Holanda
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",NH Holanda
+http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Omroep Ede Holanda
+http://live.streamone.nl/livestream/yEr2XzzAi311/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Omroep Flevoland Holanda
+http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Omroep West Holanda
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",RTV Rijnmond Holanda
+http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Omrop Fryslan Holanda
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="HOLANDA",Silence TV Holanda
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Investigation Discovery
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SUECIA",24 Corren Suecia
+http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SUECIA",Himlen TV7 Suecia
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SUECIA",Kanal 10 Suecia
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SUECIA",Oppna Kanalen Suecia
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SUECIA",Vastmanlands TV Suecia
+http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PANAMA",NexTV PANAMA
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",HEARTV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Real Madrid TV SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",SBT | HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",AXN HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",CANAL 13
+http://tvpremiumhd.club/lista-gratuita/hate/s826.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",GOLDEN PLUS
+http://tvpremiumhd.club/lista-gratuita/hate/s211.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/hate/s2.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",MULTIPREMIER
+http://tvpremiumhd.club/lista-gratuita/hate/s185.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",RCN - TELENOVELAS
+http://tvpremiumhd.club/lista-gratuita/hate/s113.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TELECAFE
+http://tvpremiumhd.club/lista-gratuita/hate/s228.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TELEMUNDO
+http://tvpremiumhd.club/lista-gratuita/hate/s233.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ARGENTINA",GARAGE  TV
+http://tvpremiumhd.club/lista-gratuita/hate/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MEXICO",TL NOVELAS
+http://tvpremiumhd.club/lista-gratuita/hate/s83.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",KIDS CHANNEL
+http://tvpremiumhd.club/lista-gratuita/hate/s697.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",MOVIESTAR ACCION
+http://tvpremiumhd.club/lista-gratuita/hate/s704.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",MOVIESTAR COMEDIA
+http://tvpremiumhd.club/lista-gratuita/hate/s701.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",MOVIESTAR  D CINE
+http://tvpremiumhd.club/lista-gratuita/hate/s702.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Mexiquense Toluca
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",canal claro hd
+http://tvpremiumhd.club/lista-gratuita/hate/s110.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TELEPINX
+http://tvpremiumhd.club/lista-gratuita/hate/telepinx.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",ADN 40
+http://tvpremiumhd.club/lista-gratuita/hate/adn40.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",AIRE DE SANTA FE
+http://tvpremiumhd.club/lista-gratuita/hate/airesantafe-ar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",OCHO TV -8
+http://tvpremiumhd.club/lista-gratuita/hate/ochotv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TELE SISTEMA
+http://tvpremiumhd.club/lista-gratuita/hate/s913.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV MAS
+http://tvpremiumhd.club/lista-gratuita/hate/teleuv.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV MILENIO
+http://tvpremiumhd.club/lista-gratuita/hate/mileniotv.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Kids
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TCM LATINO",TCM LATINO
+http://tvpremiumhd.club/lista-gratuita/hate/s88.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHILE",PINGUITO TV
+http://tvpremiumhd.club/lista-gratuita/hate/s879.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",RECORD
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",MTV clipes 2
+http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",E!
+http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Bis
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",AMAZON SAT
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",MULTISHOW
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY XD
+http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",CANCAO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Esporte Interativo HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="JAPÃO",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",Tv Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOTICIAS",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",multimedios
+http://tvpremiumhd.club/lista-gratuita/hate/multimedios.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",canal once 11
+http://tvpremiumhd.club/lista-gratuita/hate/canalonce.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",3 ABN KIDS
+http://aos01.3abn.adaptive.level3.net/hls-live/mediaoppremux-kids_multi/_definst_/live/stream3.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TV Mar (AL)
+http://209.126.127.101:1935/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Esporte Interativo BR HD
+http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Esporte Interativo 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",TRU TV
+http://tvpremiumhd.club/lista-gratuita/lg/s202.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",HBO
+http://tvpremiumhd.club/lista-gratuita/lg/s198.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",HBO PLUS
+http://tvpremiumhd.club/lista-gratuita/lg/s1.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",HBO SIGNATURE
+http://tvpremiumhd.club/lista-gratuita/lg/s5.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",HBO FAMILY
+http://tvpremiumhd.club/lista-gratuita/lg/s50.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",UNIVERSAL CHANNEL
+http://tvpremiumhd.club/lista-gratuita/lg/s91.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",PARAMOUNT
+http://tvpremiumhd.club/lista-gratuita/lg/s109.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",CINEMAX
+http://tvpremiumhd.club/lista-gratuita/lg/s90.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",MAX PRIME
+http://tvpremiumhd.club/lista-gratuita/lg/s103.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",SPACE
+http://tvpremiumhd.club/lista-gratuita/lg/s30.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",FOX CINEMA
+http://tvpremiumhd.club/lista-gratuita/lg/s2.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",FOX PREMIUN ACTION
+http://tvpremiumhd.club/lista-gratuita/lg/s8.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",SONY
+http://tvpremiumhd.club/lista-gratuita/lg/s93.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",MP
+http://tvpremiumhd.club/lista-gratuita/lg/s239.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",CINEMAX
+http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFhddV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",GLOBO SP HD
+http://185.152.66.81:25461/live/ezequiel/12345/1810.m3u8?token=SUZYUxZQRwJGVgFXUAcGDwQGA1VVUFJUDQwOBQkGA1wEUQJRAQ5QWVQRFERGFhddV1loCFdHC1cMBAkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAlMGAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVwcDG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",NUEVA VIDA
+http://s6.jcwebnew.com:7370/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",TVI
+http://www.iptvsaga.com/play/tv3/0021.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES",Telecine4
+http://www.tv-msn.com/master.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",SBT SP
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1986574047.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",Fox News Channel (No Audio)
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",KXAN News (Austin)
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",WGN 9 News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="USA",KOB 4 News (Santa Fe)
+https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Canal Rural X
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",Gospel Music TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",TELECINE ACTION
+http://185.152.66.81:25461/live/ezequiel/12345/1725.m3u8?token=SUZYUxZQRwJGAlpWAwdUXAVWBgBXBlVRBwcKAAUHDQJWU1MLUQ4GCAcRFERGFhddV1loCFdHC1cDBwwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVC1UGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAJVBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQIVwIEG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",VEM & VÊ
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS",VEM & VÊ 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="RELIGIOSO",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",REDE GRAVA
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV AREADO
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV HIT SAM
+http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV MAR
+http://209.126.127.101:1935/tvmar/tvmar/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV PAJEÚ
+http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV RIO LARGO
+http://stmv4.euroti.com.br:1935/tvriolargo/tvriolargo/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV RP
+http://painel.serveron.com.br:1935/8042/8042/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",CANAL 8
+http://canaloitocampinas.flashplayer.acessaradios.com.br:1935/canaloitocampinas/canaloitocampinas/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",TV UNIÃO DE NATAL
+http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",ADINET TV
+http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB's TV CLIPES",CARIOCA TV
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",Arroios TV
+http://213.13.26.41:1935/live/luis/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Africa",TVM 2
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w1008687264_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",Porto Canal
+http://213.13.26.41:1935/live/portocanal/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",TV Maná
+http://195.22.11.11:1935/tvmana/tvmana3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TBC
+http://rsync.com.br:8081/rtsp/tbc/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TVRP
+https://57ae34bc31d8d.streamlock.net/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Aperipê
+http://cdn2.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Convert TV
+http://stmv2.srvstm.com/tvconnvert/tvconnvert/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Pampa
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV UP!
+http://stmv5.srvstm.com/tvup/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV União de Natal
+http://flash5.locamega.com.br:1935/locamega/_definst_/locamega/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB"s TV CLIPES",WebTV Fronteira
+http://stmv4.srvstm.com/aguiberto6360/aguiberto6360/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="WEB"s TV CLIPES",WebTV Santana
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Jornal
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Diário do Sertão
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Arapuan
+https://v5.ciclano.io:1443/8064/8064/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",WTJ TV Minas
+http://video01.tvdigitalhd.org/wladimir23243/wladimir23243/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Fonte TV
+http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Gazeta MA
+http://stmv3.pagehost.com.br/wagner7534/wagner7534/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Difusora Sul
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",TV Pantanal
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Caxias TV Com
+http://stmv4.srvstm.com/tvriocarlos/tvriocarlos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Rede Petrópolis
+http://stmv3.hostbh.com.br/neviton5281/neviton5281/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SporTV 3 HD
+http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/3910.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",COMBATE
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Al Kass Sports 3 (Qatar)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Arryadia (Morocco)
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Dubai Sports (UAE)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",KTV Sport (Kuwait)
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Oman Sports (Oman)
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",YAS Sports (UAE)
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",SBT Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Canal Rural (SP)
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Diário - Ceará
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Meio Norte - Piauí
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Guarani - WebTV
+http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",SPORTV 3
+http://apk.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",RTP 1 HD
+http://62.28.213.14:9981/stream/channelid/1439506767
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",RTP 2
+http://62.28.213.14:9981/stream/channelid/1580833545
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="PORTUGAL",PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",MULTISHOW
+http://185.152.66.81:25461/live/ezequiel/12345/1785.m3u8?token=SUZYUxZQRwJGClkFBVMGDQFWVFgFVVRXBgIBAgdXBFJXUwcHUQEHDQcRFERGFhddV1loCFdHC1cDDQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQBFMJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVZCl0TShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVBVMIREk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1863.ts?token=SUZYUxZQRwJGClxSBVZWWwUFDgVWUQgEV1QMVVNaBlZRVQUCBAtWC1wRFERGFhddV1loCFdHC1cMAwofExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVwdTHkZAWwEaXxpWAwFVAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwdUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgILAgVASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",DISNEY JUNIOR
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1831.ts?token=SUZYUxZQRwJGBQ0HVANUDg5XUVcHVAgCUlQAUlBWUwADXAVWBgFdD1MRFERGFhddV1loCFdHC1cMBggfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUQJcHkZAWwEaXxpWBQlWAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgVUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcMCgFTFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VARIEDADES",CBS News
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Mar
+http://209.126.127.101:1935/tvmar/tvmar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Maceió
+http://173.236.10.10:1935/toptv/toptv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Rio Largo
+http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV CN Agitos
+http://stmv4.srvstm.com/tvcnagitos/tvcnagitos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV A Crítica
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Web Bahia
+http://streaming42.sitehosting.com.br:1935/xcfilmes/smil:xcfilmes.smil/chunklist_w1691297418_b600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Geral
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",RTVM
+http://stmv5.srvstm.com/rtvm/rtvm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Capital
+http://stmv3.srvstm.com/canal54/canal54/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Metrópole
+http://stmv2.conectastm.com/enivaldo4603/enivaldo4603/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Verde Vale
+https://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV da Gente
+https://595b85410a151.streamlock.net/tvdagente/smil:tvdagente.smil/chunklist_b1300000_slen.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Guarany
+http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",All Sports TV
+https://5a0c3936c25c8.streamlock.net:1443/allsportstv/allsportstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NACIONAL",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NACIONAL",Rede Globo
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NACIONAL",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Rede Plenitude
+http://iaptd3.paineldecontrole.info:1935/live/smil:plenitude.smil/chunklist_b828000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",SBT Interior
+http://srv6.zoeweb.tv:1935/z343-live/stream/chunklist_w1927351172.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Kiss TV
+http://sateg.cdnseguro.com/kisstv/kisstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Classique TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Milk TV
+http://stmv1.srvstm.com:1935/jtvmilk/jtvmilk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Produto
+https://v7.ciclano.io:1443/tvproduto/_definst_/tvproduto/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Mega TV
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Itapetininga
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NACIONAL",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Rede Família
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Cinec
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Mundo Maior
+https://prod-video-sa-east-1.periscope.tv/4Ph4Gqc1sevO_kREqCejwBoK1nF9eLFpZHgTNqJu3GHKpRpFrIbY7sKDHTqC1UagBslcU_B240_IqbU2hY8WFQ/replay/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/playlist_16927888798200123102.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Guarulhos
+http://138.97.241.156:8081/tvguarulhos/tvguarulhos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Alvorada Espírita
+http://78.46.36.212:1935/tvalvorada/tvalvorada/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Eco TV
+http://streaming.engelhosting.com.br:1935/8010/8010/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV A Caminho da Luz
+http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Clima
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Destak
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",MCI TV
+http://sateg.cdnseguro.com/mcitv/mcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",CEAK TV
+http://stmv3.srvstm.com/ceak/ceak/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Internauta
+http://stmv4.srvstm.com/luiseduardo8204/luiseduardo8204/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",UP TV
+http://uptv.flashplayer.acessaradios.com.br:443/uptv/uptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Mackenzie
+http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Mol
+https://5a0c3936c25c8.streamlock.net:1443/tvmol/_definst_/tvmol/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",MKK Web TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Serra Azul
+http://stmv2.srvstm.com/tvserrazuladm/tvserrazuladm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Adonai WebTV
+http://stmv1.srvstm.com/adonaitv/adonaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Missão
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Canal 8
+http://stmv2.conectastm.com/matheus3411/matheus3411/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV DC 46
+http://stmv3.srvstm.com/dc46/dc46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Sec TV
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Nova TV Vale
+https://57ae34bc31d8d.streamlock.net/8016/8016/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Espírita
+http://stmv4.srvstm.com/tveespirita/tveespirita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Gostei Gospel TV
+https://59f1cbe63db89.streamlock.net:1443/gospeltv/gospeltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Carioca TV
+http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Carioca.NET
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Luau TV
+http://server-1.locaaovivo.com.br/liveStream/36711571249/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Record News ES
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Sim
+http://stmv4.srvstm.com/tvsimvitoria/tvsimvitoria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Vitória
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Canal Promessas
+http://177.153.227.41:1935/canal/cpro/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Vivam
+http://stmv2.srvstm.com/vivamwebradio/vivamwebradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TBC
+http://rsync.com.br:1935/rsync00026/rsync.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Guará
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Água Boa
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Sete Lagoas
+http://wz4.dnip.com.br/tvsetelagoas/tvsetelagoas.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Atividade
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Andradas
+http://69.46.0.170:1935/tvandradas/antv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Viçosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Creative TV
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Portal Midia
+http://video02.kshost.com.br/tvportalmidia/tvportalmidia/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",WebTV Nova Nordeste
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",SIC TV
+https://5a0c3936c25c8.streamlock.net:1443/tvsicmais/tvsicmais/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Caiuá
+http://midia.radiosaqui.com.br:1935/tvcaiua/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",1001 Noites
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Unicesumar
+https://caikron.com.br:8082/cesumar/cesumar/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Mundo TV
+https://v6.ciclano.io:1443/mundotvpgm/_definst_/mundotvpgm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Jornal Caruaru
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",One TV
+http://wse8.player.tv.br:1935/ontv/ontv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/renatoolx/iNHOSnw0DM/4021.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Cabo Mossoró
+http://cw.tcm10.com.br/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Urbana
+http://srv9.zoeweb.tv:1935/zw923/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Imagem
+http://stmv2.srvstm.com/tvimagem/tvimagem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Univates
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Furg TV
+http://stream.furg.br/hls/furgtv_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Vale TV
+http://wse6.player.tv.br:1935/valetvplay/valetvplay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Nova Era TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Mocinha
+http://173.236.10.10:1935/tvmocinha/tvmocinha/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Litoral Panorama
+http://streaming03.zas.media:1935/panorama/panorama/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Yeeah! Teen
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Escola
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Maná
+http://c3.manasat.com:1935/tvbr/tvbrasil1/chunklist_w715784201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TV Verdade
+https://5a0ce63f4b70f.streamlock.net:9443/public/247_br/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV LOCAL",IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",CINE CLARO
+https://593d7fe3c9b0d.streamlock.net/tvcariocanet/tvcariocanet/chunklist_w485056137.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Rede Tv
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Tv Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA",Record News
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/290.ts?token=TxAMVEBeQwMQVVRcBAVaUAUHBVFRXwBWBQMDVwBQBgZQC1ZWVw5YAAcUGxoRRRBRV1hpXFYbDwEIUh5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUDVlNOFkINUREMQwgGAg4OQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwcDAwoXHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UBwECAgEXTg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES/SERIES",MEGAPIX
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/1787.ts?token=SUZYUxZQRwJGBA5SUFEBDVRWBFgEVQZRAgMBBgJbAVIGUwMKUF4HXgERFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYCVQVdHkZAWwEaXxpVCwhWB0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwZaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJBQlVFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",SBT CARUARU
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",CULTURA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",CULTURA
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist_w313534657.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1787465552.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",REDE TV RJ
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV CAMARA
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CALABRIA",Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="EMILIA ROMAGNA",Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FRIULI VENEZIA GIULIA",Telefriuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="LAZIO",Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="LOMBARDIA",TSN Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="LOMBARDIA",TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="LOMBARDIA",Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="LOMBARDIA",Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="SICILIA",Radio Taormina TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="UMBRIA-MARCHE",Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="MARCHE",TVRS
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Rete 4
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Canale 5
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Italia 1
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",20mediaset
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Iris
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",La5
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Mediaset Extra
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Italia 2
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Top Crime
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Tgcom24
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",R101 TV
+http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Virgin Tv
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Radio Montecarlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Il Meteo.It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Il Meteo.It Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ITÁLIA",Il Meteo.It Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",SBT Recife HD*
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",ADONAI WEB TV
+http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",RECORD NEWS ES
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",UPTV
+http://uptv.flashplayer.acessaradios.com.br:1935/uptv/uptv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VALE TV PLAY
+http://wse6.player.tv.br:1935/valetvplay/valetvplay/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VEM E VÊ TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VEM E VÊ TV 2
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VEM E VÊ TV 3
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VERBO TV
+http://srv9.zoeweb.tv:1935/zw936/stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",VIN TV
+http://painel.serveron.com.br:1935/8044/8044/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Eurosport
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Fight Network
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Geraes TV
+http://stmv1.euroti.com.br:1935/tv465/tv465/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",O!2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8?fix
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",One TV
+http://wse8.player.tv.br:1935/ontv/ontv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Portal FOX Mix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Radio Monte Carlo TV
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",RadioU TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=77182114
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Rede TV! [Paraiba]
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Soy Rock
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Sporting TV HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?CeceGeek.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Belo Horizonte
+http://stmv2.euroti.com.br:1935/tvbelohorizonte/tvbelohorizonte/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Betel
+http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Camara [Canal 2]
+http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV Camara Caxias do Sul
+http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV Caxias
+http://45.43.208.98:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV Eloi Mendes
+http://stmv2.euroti.com.br:1935/tveloimendes/tveloimendes/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Ilha Digital
+http://tv02.logicahost.com.br:1935/ilhadigital/ilhadigital/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Machado
+http://stmv2.euroti.com.br:1935/tvmachado/tvmachado/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Mackenzie
+http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Origem
+http://stmv2.euroti.com.br:1935/jorsilei2749/jorsilei2749/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Sao Paulo
+http://stmv2.euroti.com.br:1935/tvsaopaulo/tvsaopaulo/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TV Web Parana
+http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TVi 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1059498431_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w1107171210_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",Web TV Capitando
+http://tv01.logicahost.com.br:1935/linkmnet/linkmnet/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",Web TV Minas
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",Web TV Sul
+http://stmv1.euroti.com.br:1935/2017/2017/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",WTJ TV Minas
+http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",AMAZON SAT
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",ARROIOS TV
+http://213.13.26.11:1935/live/luis/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ 2",AR TV
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",BEM TV
+http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ",BOA VONTADE TV
+http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",AD Sports Extra
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Anistorpic
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",FIGHT NETWORK
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Futebol ao vivo
+http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Futebol ao vivo
+http://apk.goo.ac:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Futebol ao vivo
+http://apk.goo.ac:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Futebol ao vivo
+http://apk.goo.ac:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Futebol ao vivo
+http://apk.goo.ac:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",ESPN
+http://apk.goo.ac:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",NBA TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ASSISTA TV 24 HORAS",CHAVES
+http://142.44.137.22:8080/live/Adelino/Adelino/835.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISCOVERY CHANNEL HD
+http://142.44.137.22:8080/live/Adelino/Adelino/1030.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISCOVERY CHANNEL SD
+http://142.44.137.22:8080/live/Adelino/Adelino/824.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FOOD NETWORK HD
+http://142.44.137.22:8080/live/Adelino/Adelino/1002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Band Sports HD
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/1600.ts?token=TxAMVEBeQwMQVANZWgMGAVNRAwBQXwwECQcLVlRWBgZWUV1WBwdRWgsUGxoRRRBRV1hpXFYbDwIHUgJOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVlRaGBAUXFcUWxsKAQAAQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFwQBCw8XHxMBXRdfEBAbFghGd2EUTRtXTkNdDEILW1gXDBdGShcfEwtBPUMBERZGVwVYVkRDAxAGFRRAXANMaVZZW1xcVkdYDVwRE15AUxYeRlhcWAhNXURoSAtVQA4UDQECARtI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Combate HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1601.ts?token=TxAMVEBeQwMQBQ8PUAADVgAFBVEEWAEHV1oKUwNUBAANBlNUCg9UAFcUGxoRRRBRV1hpXFYbDwIHUgNOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QJVVtTGBAUXFcUWxsAAwMKVRNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg4BER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwMHAQwXTg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",ESPN
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/232.ts?token=TxAMVEBeQwMQUw5cAFJSAwcCV1NTDgIGCQAKAwUHU1MHBVAABA9QAAYUGxoRRRBRV1hpXFYbDwECUB5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUHU1ZOFkINUREMQw0EBhUUQFQaQFNHWFReZlFWRwtRBxNeDBdYXkgXXFg+XVdbVlYGE1gWBxcaF1tKRRELQGQLRwtCMRpzShcfFANQRkRWTAcTWBYDDQ4XHhtWXEQMRhBIRlhAdmBGGRFTGU1XWERRDV9ADhRBRRceG1xAbhBXEUUWBwNZVxYXCRRRGx4UWlkabgFbWFtTVkZQWl1CQAhAAEZOQFldClxHWRNmQl9TGlgTUQ0EF0s=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Fox Sports 2
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/367.ts?token=TxAMVEBeQwMQBwMPBAdbUQYEA1FXWAAHAFVTB1UHVFVRB1MCVgMACQMUGxoRRRBRV1hpXFYbDwAHVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUEV1JOFkINUREMQwoCAQYOQB1AUU5BU0dcWFlsVQdEC1IBQFhaRwhZHxQOV21SUlUDXwYWDBcHFx4bXEBBQAhAZw0UDRRhSnQdFE0bUF9DSgNFBxYMFw4HBRsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYEDQMBBxtI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Fox Sports 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1499.ts?token=TxAMVEBeQwMQA1JaUwhXAlMFAwEAD1YGVQADVglXBABWBAcCCgBWD1cUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGUVNXGBAUXFcUWxsAAQUNURNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBg8HER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQBBwwBEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FOX SPORTS 2 HD
+http://178.132.4.88:25461/live/cliente1/zgoJ4CjWeV/1499.ts?token=TxAMVEBeQwMQAQJdVlBQUlICBlcGCVcCAloGBlVTUAAHU1ZWBA4CAVEUGxoRRRBRV1hpXFYbDwIFWwtOExERB0ZtDVERDEMLBAQDCVITThZCXFtQEAMEBgNRAVQFUFRXGBAUXFcUWxsADg8MVxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkEER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQNCggMEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",NBA TV
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/12236.ts?token=TxAMVEBeQwMQBlUOBAcEUAZRUgMACgFWUgcKBwlVUQYFClZTUVBYXAEUGxoRRRBRV1hpXFYbDwIDUAFUHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHXFBbAB5GRVpSQwMQBAQKVAFAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAQEBCxNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQEBA4AAhMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SporTV 2 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1619.ts?token=TxAMVEBeQwMQAgVdB1QGAFUBBgEHDVZXVwEFU1IFB1cHBQYECwFZC1YUGxoRRRBRV1hpXFYbDwIHUwtOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1ZTGBAUXFcUWxsDDgUOWxNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkBER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBA8DEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SporTV 3 HD
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1620.ts?token=TxAMVEBeQwMQB1ENWgkHAQEHAgFUDVYEVFEBVFcGVAAMAldRAwRVDAUUGxoRRRBRV1hpXFYbDwIHUAJOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QGV1VUGBAUXFcUWxsABAMBVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBwkMER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwcFAgAGEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Record Portugal
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/289.ts?token=TxAMVEBeQwMQBlQAWwlWAAEABwALAVNQUlEFBghQVFZRAFUDVVUDDQsUGxoRRRBRV1hpXFYbDwEJWx5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFQBU1FOFkINUREMQw0KBAMaThMHTEJQRFtTVWpXVBRbAVRGWAxBXggZEVkPZlZTWlkMVUAOFAQUGRBQRkMTWBA0WBINQmccJRsRGkNbW0JFWRZUQA4UBAICChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYFBQQCBRtI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",A & E HD
+http://185.152.66.81:25461/live/finais2_jbnehu/xvolgz/3371.ts?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",ANIMAL PLANET
+http://185.152.66.81:25461/live/leticia/123456/1864.m3u8?token=SUZYUxZQRwJGAFoABVpTDwIFAQdXBAMCDVdYUQIADFQFXFRTVQFXD1QRFERGFTVdV1loCFdHC1cMAw0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBddAFEIEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQA10HRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DClcAVhZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",AXN
+http://185.152.66.81:25461/live/ezequiel/12345/1860.m3u8?token=SUZYUxZQRwJGVwoDU1cDAVQDBVFWUFJVBlMPAwNaUQFTXFUFVVlUXgYRFERGFTVdV1loCFdHC1cMAwkfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1YFBUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlUGVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQJVQUAG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",BOOMERANG
+http://185.152.66.81:25461/live/ezequiel/12345/1852.m3u8?token=SUZYUxZQRwJGUV1fU1pSWgcBAwRQAQhfVVQNBQZQBFUFXAlTVg9UAV0RFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdQAFYHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVYBlYTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVVA1IHREk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",BOOMERANG
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.ts?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CARTOON NETWORK
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1847.ts?token=SUZYUxZQRwJGBFpVU1NUWlMAVAIHVAlSAAcNBwlWDAEHVlIGUAFUAQURFERGFhddV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVwdUHkZAWwEaXxpXAgtWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgwOBBNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNfAQEAEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CARTOON NETWORK
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1847.ts?token=SUZYUxZQRwJGBFpVU1NUWlMAVAIHVAlSAAcNBwlWDAEHVlIGUAFUAQURFERGFTVdV1loCFdHC1cMAQ4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVwdUHkZAWwEaXxpXAgtWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgwOBBNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNfAQEAEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CARTOON NETWORK HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3369.ts?token=SUZYUxZQRwJGAAEFBVFcXFMEAAJSV1AHA1MOVwdRAlNRVgcHAAtWC1QRFERGFhddV1loCFdHC1UHAwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVw1QHkZAWwEaXxpVAwFSBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcKBAdaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQMBANWFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CINEMAX
+http://185.152.66.81:25461/live/genaro/12345/1846.m3u8?token=SUZYUxZQRwJGUAtXBARcDQ5XU1kDUlJRVg0PBgJSAlVRUlEBA11RD1IRFERGFTVdV1loCFdHC1cMAQ8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSBFQJEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBVAIXhZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",COMEDY CENTRAL
+http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFhddV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISCOVERY  CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1840.m3u8?token=SUZYUxZQRwJGBVsFDQYADwUEU1hWBwheAQNfBwRTDQcAAAkEUF4DXFERFERGFhddV1loCFdHC1cMAQkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAV0BCkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEGUBYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVYBVQ0HG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Discovery Channel
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1841.ts?token=SUZYUxZQRwJGVglWAQMDWwcDDlIDVwIDBFMOVwFXUFdTAlRRXV4ADlQRFERGFhddV1loCFdHC1cMAQgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVABVHkZAWwEaXxpXAgpXF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgQACghAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUBChMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Discovery Channel
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1841.ts?token=SUZYUxZQRwJGVglWAQMDWwcDDlIDVwIDBFMOVwFXUFdTAlRRXV4ADlQRFERGFTVdV1loCFdHC1cMAQgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVABVHkZAWwEaXxpXAgpXF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgQACghAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUBChMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Discovery Kids
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1836.ts?token=SUZYUxZQRwJGVg0ABQAHDFRQDlEHBghfBwcBUFUDDFwCBgICUABdXFIRFERGFhddV1loCFdHC1cMBg8fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUwVUHkZAWwEaXxpVCgpUA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAQhSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQIAQlASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Discovery Kids HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3367.ts?token=SUZYUxZQRwJGAA4AAFBdWwAMAVJSBgBSAlQLBlQGU1YCVwRQBA8DAVQRFERGFhddV1loCFdHC1UHAw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUAdTHkZAWwEaXxpRAwtEGUAAQEJRRQ9SCW4CUUNQUFRADwpHCFweR1cLZwBWVQdbBkcCFAUVTREMQhYWDxtyUgcVJ10JVUAGUQoYARNrA0cUDFtZRxcFVkV4CFJaS15QFlwHU0R8RgFZRRVEfn1EGUAHUUJGVhVWRwtEBw0BABNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNeBAIbTg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Discovery Kids
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3367.ts?token=SUZYUxZQRwJGAA4AAFBdWwAMAVJSBgBSAlQLBlQGU1YCVwRQBA8DAVQRFERGFTVdV1loCFdHC1UHAw4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUAdTHkZAWwEaXxpRAwtEGUAAQEJRRQ9SCW4CUUNQUFRADwpHCFweR1cLZwBWVQdbBkcCFAUVTREMQhYWDxtyUgcVJ10JVUAGUQoYARNrA0cUDFtZRxcFVkV4CFJaS15QFlwHU0R8RgFZRRVEfn1EGUAHUUJGVhVWRwtEBw0BABNOFwddEV5GF0FHAkZxakQZQABAQlFZEloKX0QOF01AE04XDUE7QlcWTBddBV5dFBdYRwgUGBUMUh1uBVtbV1ZSFlwLXBcSCEcJRxRGXlcIXBYKSmlEXgURXxNeBAIbTg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISNEY JUNIOR
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1831.ts?token=SUZYUxZQRwJGBQ0HVANUDg5XUVcHVAgCUlQAUlBWUwADXAVWBgFdD1MRFERGFTVdV1loCFdHC1cMBggfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHUQJcHkZAWwEaXxpWBQlWAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAgVUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcMCgFTFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",ESPN
+http://185.152.66.81:25461/live/ezequiel/12345/1824.m3u8?token=SUZYUxZQRwJGUl4DBwcHAVcBUwQLUQcABAMBBQQBVlUFAAkDAQlTXgcRFERGFhddV1loCFdHC1cMBw0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAFUHEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQBl0IRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVcAVBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FOX
+http://185.152.66.81:25461/live/genaro/12345/1820.m3u8?token=SUZYUxZQRwJGAF1RAFYHW1QMUgJXVgECBgQAAlRXU1xTVVUFUw1WC10RFERGFTVdV1loCFdHC1cMBwkfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWBlcHA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlAAXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcFVQYCG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FOX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2160.ts?token=SUZYUxZQRwJGVl4FBlYACwEEBAdXBAACAARbVlABAQcGVlQAUF5TDAYRFERGFhddV1loCFdHC1QFAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGUQNWHkZAWwEaXxpdBQxSF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcNBQBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEDQcLBxMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FOX SPORTS
+http://185.152.66.81:25461/live/leticia/123456/1815.m3u8?token=SUZYUxZQRwJGUVwDBFRWCQJWBAQDB1VXVQYIUAdVUFEAUQkFBlsAXlERFERGFhddV1loCFdHC1cMBAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVBlUDB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlADVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFVwQFG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FX
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1812.ts?token=SUZYUxZQRwJGAlwCDFcEAAQMVANRUQhVBFEBBwgBUFMFUVQKUVtXCAIRFERGFhddV1loCFdHC1cMBAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWgNRHkZAWwEaXxpXAglfAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICgZWF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYIAglbFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",FX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2157.ts?token=SUZYUxZQRwJGUFxUA1YDWg9WBVEGBFAFBgRcBwVUDFwEXVRUBFsEAAURFERGFhddV1loCFdHC1QFAA4fExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGWwJUHkZAWwEaXxpVCg5fAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAlUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFg0KAwBASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",GLOBO RJ HD
+http://185.152.66.81:25461/live/ezequiel/12345/1811.m3u8?token=SUZYUxZQRwJGVwpXVlIDXgUGA1EDAVcHAAQMAVBWAgcKVVQDAQhUDAcRFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVB1QIBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVAAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEUAcAG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Gloob
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1808.ts?token=SUZYUxZQRwJGAgxVBldXDVQFUgNQU1NeBAMIVVBTBFBUXVIEAFpcCAIRFERGFhddV1loCFdHC1cMBQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUwBWHkZAWwEaXxpVBApUAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAZTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQPAglWFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Gloob
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1808.ts?token=SUZYUxZQRwJGAgxVBldXDVQFUgNQU1NeBAMIVVBTBFBUXVIEAFpcCAIRFERGFTVdV1loCFdHC1cMBQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUwBWHkZAWwEaXxpVBApUAUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAAZTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQPAglWFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO 2 BR
+http://185.152.66.81:25461/live/leticia/123456/1798.m3u8?token=SUZYUxZQRwJGBFkDVAdRCFUFAAdSVwUDBgZdB1MEDAcHBgBTBF1UDVwRFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWAlACAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClIDRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVUCXgMXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO PLUS BR
+http://185.152.66.81:25461/live/ezequiel/12345/2154.m3u8?token=SUZYUxZQRwJGBV5fUFRVD1MFBVFQVQFRV1FaBAVXVlYCUQFTUwsHXFMRFERGFTVdV1loCFdHC1QFAA0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXClYDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTB1wJRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAF0BUBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO SIGNATURE
+http://185.152.66.81:25461/live/ezequiel/12345/1799.m3u8?token=SUZYUxZQRwJGUVxRAVtTDgVSVlVSXQkDDQ0PUVQDVgULBQlRXApXAFQRFERGFhddV1loCFdHC1cDDAAfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HISTORY 2
+http://185.152.66.81:25461/live/ezequiel/12345/1806.m3u8?token=SUZYUxZQRwJGBghVDVVcDAcBAQMGBwEDUQBdUVNQAgYEXQUDXV1XCV0RFERGFhddV1loCFdHC1cMBQ8fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWB1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlwJXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUAMDG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",MAX
+http://185.152.66.81:25461/live/ezequiel/12345/3358.m3u8?token=SUZYUxZQRwJGVloAV1ddXAIEU1kLUlJUAFMABwBbAFRWBgkCVA1TCgARFERGFhddV1loCFdHC1UHAAEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",MAX PRIME BR
+http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFhddV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",MEGA PIX
+http://185.152.66.81:25461/live/ezequiel/12345/1787.m3u8?token=SUZYUxZQRwJGBAlTBgFWDFUEVFgFUFVfUg0AVQlWUVUAXQgLA1wEXlERFERGFhddV1loCFdHC1cDDQ4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWC1YAAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEFUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIVw0HG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",MEGAPIX HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2111.ts?token=SUZYUxZQRwJGAQ1fUVpSDg8BU1UKXVADVlZfCgZRBlNXAQACAV4HCFARFERGFhddV1loCFdHC1QFBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBUw1RHkZAWwEaXxpWAw9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwBbF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgwPAwdASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",PARAMOUNT CHANNEL
+http://185.152.66.81:25461/live/ezequiel/12345/2117.m3u8?token=SUZYUxZQRwJGV1lWV1NcAFBSBlRWVlcFUlMIA1IHBVBXBlMAUQFVDFwRFERGFTVdV1loCFdHC1QFBA4fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXAFYEAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVEHVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBXgQHG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPACE
+http://185.152.66.81:25461/live/genaro/12345/1742.m3u8?token=SUZYUxZQRwJGBFwCVwEDDQ4CBFkLXVMCUQUJAFAHAlVUUAlRVwhUDVwRFERGFhddV1loCFdHC1cDAQsfExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdWB1YAAUcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcEVwENG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORTV
+http://185.152.66.81:25461/live/ezequiel/12345/1738.m3u8?token=SUZYUxZQRwJGAVoHVFVTAFcEA1BSVQJeUQRcC1NVAVZQAQAEXAEAC1QRFERGFTVdV1loCFdHC1cDBgEfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdXBlwFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1YBRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlwIVgwXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SYFY
+http://185.152.66.81:25461/live/ezequiel/12345/1732.m3u8?token=SUZYUxZQRwJGAABeBAEGDFMMBVYDAQQFVVBcBAAAAwUEXAICBglWWlERFERGFTVdV1loCFdHC1cDBgsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBFMJB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQAURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQHUwYBG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TCM
+http://185.152.66.81:25461/live/leticia/123456/1726.m3u8?token=SUZYUxZQRwJGVQtTBARXCAEDBlABUwdRVlYPAQRVV1VRUQcCUwFWCwERFERGFhddV1loCFdHC1cDBw8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdQAFIFEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDlkUXwkdRFdaTF1FEExGCEZyYEcUR10cR10IRgsKVhQOFQwAEAlEGBdQQG4QUBdGFlVTCF0XGl4RCEQZQAhZTmtUDl0LVAVAXFZdQkAPRgNGHBAIVwtREFxKOUULARoMFgNTAVYTGw
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE FUN
+http://185.152.66.81:25461/live/ezequiel/12345/1723.m3u8?token=SUZYUxZQRwJGBw8HU1pRAVUEUQcDB1IEDVYPBQUGBFZWVgRQBA4HAF0RFERGFTVdV1loCFdHC1cDBwofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWBFAJBkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlQIUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcHUgwNG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE ACTION HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1730.ts?token=SUZYUxZQRwJGUAlWDVZVDFRRBVQFUAdfVlAPBQNRDVwAB1EAUABQDl0RFERGFhddV1loCFdHC1cDBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVwJWHkZAWwEaXxpWAg9SAkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLAAhUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcIBQdQFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE Fun HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1729.ts?token=SUZYUxZQRwJGUlwAUVdSC1dRUVVWUgADBVBdCwBRBlRWUAgBBwpUWQcRFERGFhddV1loCFdHC1cDBwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBVQRWHkZAWwEaXxpWAghSBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcICwlSF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgcJCwhTFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE PREMIUM
+http://185.152.66.81:25461/live/ezequiel/12345/1721.m3u8?token=SUZYUxZQRwJGBAxRDFQEDQMFAlVSUQNUBVMMBVAEAlUKBlQKVgBWWQYRFERGFhddV1loCFdHC1cDBwgfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWAVACB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEDURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQBVgUGG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE TOUCH HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2148.ts?token=SUZYUxZQRwJGUFlXDVdXXgICAFYHU1BWBAYNVghQA1RQBwBRUg1VClwRFERGFhddV1loCFdHC1QFAQEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEAUgFVHkZAWwEaXxpTBAtUF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcKAQJAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAwMOBxMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",UNIVERSAL CHANNEL
+http://185.152.66.81:25461/live/leticia/123456/1707.m3u8?token=SUZYUxZQRwJGAg1XBlAHDgRVBVAGBwJfBg0JAwFUDQUDXQELUQ5WXlYRFERGFhddV1loCFdHC1cDBQ4fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdVAF0IC0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlEJVxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQDXwwHG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",WARNER
+http://185.152.66.81:25461/live/ezequiel/12345/1704.m3u8?token=SUZYUxZQRwJGVQsHUQBSAAcDU1VRAFdXVlYNAVNTBlxXBwJWBgBRWlwRFERGFhddV1loCFdHC1cDBQ0fExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1UIAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClQFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVQAUAQXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",BAND SP
+http://185.152.66.81:25461/live/leticia/123456/1855.m3u8?token=SUZYUxZQRwJGVV5XAFEAXVcCD1YFAQNRAFZcCwJQDAECB1MLVg5XXVwRFERGFTVdV1loCFdHC1cMAAwfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXBVYEEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVTAlMCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAVIDVgEXRA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TNT SERIES
+http://185.152.66.81:25461/live/leticia/123456/1714.m3u8?token=SUZYUxZQRwJGUFlXUwEEXg8GUlEEXFBSVwANUAIBUwIBUwEHAw5VWVURFERGFhddV1loCFdHC1cDBA0fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdXA10FEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQAlUFRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAFQGVBZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",BAND SPORT
+http://185.152.66.81:25461/live/leticia/123456/1856.m3u8?token=SUZYUxZQRwJGAFsHVFBcWQMBVFZWAwhfV1QOBFADAlUKBQRTUgBQAAERFERGFTVdV1loCFdHC1cMAA8fExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1wFA0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlECVhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcIUwYDG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",CARTOON NETWORK TV
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/3369.ts?token=SUZYUxZQRwJGAAEFBVFcXFMEAAJSV1AHA1MOVwdRAlNRVgcHAAtWC1QRFERGFTVdV1loCFdHC1UHAwAfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEVw1QHkZAWwEaXxpVAwFSBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcKBAdaF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQMBANWFxk=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",COMEDY CENTRAL
+http://185.152.66.81:25461/live/ezequiel/12345/1843.m3u8?token=SUZYUxZQRwJGAl0FA1cAD1RWAlMGVlVVB1dYAAUGV1YFXQhQXQlXClQRFERGFTVdV1loCFdHC1cMAQofExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlEEB0cUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DClwCRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DAlEEUgUXRA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISNEY XD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1830.ts?token=SUZYUxZQRwJGCwpeAwMHXFUEU1IHBAcAB1ENAwEGA1dQAglTUwxQAAARFERGFTVdV1loCFdHC1cMBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHVgJcHkZAWwEaXxpWBA9RAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwZAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgIJBQZASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",DISNEY XD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1830.ts?token=SUZYUxZQRwJGCwpeAwMHXFUEU1IHBAcAB1ENAwEGA1dQAglTUwxQAAARFERGFhddV1loCFdHC1cMBgkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIHVgJcHkZAWwEaXxpWBA9RAEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwZAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgIJBQZASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Futura
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Globo News
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/227.ts?token=TxAMVEBeQwMQUwENUQYABwJQBAACAQAGVFZRAFNQBAYGBlcAAwMTVwMUGxoRRRBRV1hpXFYbDwEDVR5ARBcHEGtbABcJFFIJAA8AC0AdQEBfWFMXCAgAAQJXBFUAVldOFkINUREMQwgLAgcaThMHTEJQRFtTVWpXVBRbAVRGWAxBXggZEVkPZlZTWlkMVUAOFAQUGRBQRkMTWBA0WBINQmccJRsRGkNbW0JFWRZUQA4UBAcNChsZEVINRwxFFhtADhAmZxEaQ1xKQlJWEVgNWhQPFEFBGxkRWBFtEFQXFhBRUwlQQRRbGwIUGxoPUBprVVpYW1daQVpeDEFAC0ZTQBgQCVpdXxVWQGlHUQYTWBYHBgIGBhtI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO FAMILY HD
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFhddV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO FAMILY
+http://185.152.66.81:25461/live/genaro/12345/1803.m3u8?token=SUZYUxZQRwJGClpTAAEDClcEBVQGVFAFUlAACgUHUwUEVANUVA9RXV0RFERGFTVdV1loCFdHC1cMBQofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",MAX PRIME
+http://185.152.66.81:25461/live/leticia/123456/1790.m3u8?token=SUZYUxZQRwJGAglVA1VVXgAAVFgDXVIHBQZcCwJUAQFUXQIBUgoGWVIRFERGFTVdV1loCFdHC1cDDAkfExdGAUA7WVZHAkcJUgQAVAVASRpCXVoEEV8BShZFUFcTWBdWC1YGBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlcDXhYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcAUwwMG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",STUDIO UNIVERSAL
+http://185.152.66.81:25461/live/genaro/12345/1733.m3u8?token=SUZYUxZQRwJGAAkHB1ZcWQYFBwJVU1dfDQUMUAIHAQEFUgQGAAlVAQcRFERGFhddV1loCFdHC1cDBgofExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdSC1MDEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVWClQTShZWVkZfFkcdEF4ScDcaSRoBS0wDWxEMV1gWDUNeVkReFhkbWkI9RwFBEEJXBFUASkYJGlYXTkdVV0xoAlwLXwNXQVBcXxEXXhBVEh5HVQpWDUdXFGoSDFwUDhVXClAHREk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TBS
+http://185.152.66.81:25461/live/ezequiel/12345/1731.m3u8?token=SUZYUxZQRwJGCw5TBwdRAAZSVlYLUQNfAwVfBVJTVlwHAFQBXA4HWgARFERGFTVdV1loCFdHC1cDBggfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWFsRXggcEABAEV0WXVkKagYATl9XUkMJC0QKWBkbXF89UQFfBV5WRwJHCUYfGg9GEkcCFHZFAEAMXUZgUFVWUg1YRGFKcRxHFEdaDUdKB0EHRwJYQVsNH0dSCUFbTUFIQA9GcDYSHkddHUwBXUsPWgxHAhRZBBQLRx1EXUZmQVQRQRZXBV1XFxpfGlQRFERYAx1nVVtZD1YGRQ9bW0oRC0AERh5GXV0LURFXFmxID1FAX1ZDWFsc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE PIPOCA
+http://185.152.66.81:25461/live/ezequiel/12345/1722.m3u8?token=SUZYUxZQRwJGB1pUVFEDW1AFBAIAAwkEBgIMAAEGDVxXAAcGV1lUDVERFERGFhddV1loCFdHC1cDBwsfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdVBlECBEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAlMBURYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVQFUwYHG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TELECINE PIPOCA HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1728.ts?token=SUZYUxZQRwJGUQgAAgNUAA4EDgALVQMEA1APC1dXUVIKUAYBAFsAXVcRFERGFhddV1loCFdHC1cDBwEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQEBWgVQHkZAWwEaXxpWAw1XDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYPBwhASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",HBO2
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1798.ts?token=SUZYUxZQRwJGB1pXAlNVXQZVBFUDUAQEUA0ABlVaAgULXFYFUA5RDFURFERGFhddV1loCFdHC1cDDAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJWwZXHkZAWwEaXxpWAA1UBEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcACgFAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBgUBAwRASA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SIC INTERNACIONAL
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2353.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SIC CARAS HD
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2349.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SIC KIDS
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2352.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SIC NOTICIAS
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2350.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",TVI HD
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2348.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/magellan.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",BTV
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2305.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",A BOLA TV SD
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2327.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",EUROSPORT 1
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2304.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORT TV 1 HD - PT
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2302.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORT TV 2 HD - PT
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2301.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORT TV 3 HD - PT
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2300.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORT TV 4 HD - PT
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2299.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",SPORT TV 4 HD - PT
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2298.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",VIVA
+http://185.152.66.81:25461/live/ezequiel/12345/1705.m3u8?token=SUZYUxZQRwJGV11UBlVXWlMHBlABBABRAQddBwhWV11UAgYAUgEAWQERFERGFhddV1loCFdHC1cDBQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdSB1MCEEkaAEAQVkoIVA46XFNCXgJWRwsIQVlVHxMNWztWAV1TC1xHAkYCGkoXCxZIFA4VI0EEQg9YFW1WXQdWC19EYxwkFkcURlFREkcDEV0UDhVQB1cHRBgXWlxEDEEWS0YKECdqRxRGVkASUAwWUVlaFVsRCAITDBcVEVgRahZXF0RAAFkIXRYRAkQFQEkaW1VPPlAKXwhRVk1aXgxGRghGARBJGghXClpMCUc9FVFSFg1DBlIGVxZI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",COMBATE
+http://185.152.66.81:25461/live/ezequiel/12345/1845.m3u8?token=SUZYUxZQRwJGVw9QAAAEDA4FU1JQAANWDAYKAlcAB1xXVFQGVQhTCwARFERGFhddV1loCFdHC1cMAQwfExdGAUA7WVZHAkcJUgALUwVASRpCXVoEEV8BShZFUFcTWBdWA1MCAEcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAVQCUxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcBUA0MG04=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",ESPN BR
+http://185.152.66.81:25461/live/genaro/12345/1866.m3u8?token=SUZYUxZQRwJGBV4DVwNUXgRRVVEFUldWAARYVlNRU1RXUwhXAApSXVARFERGFhddV1loCFdHC1cMAw8fExdGAUA7WVZHAkcKVAUIVgJASRpCXVoEEV8BShZFUFcTWBdVA1UCAkcUR10cR10UWwMJZ1JRQQhQABNcWkBVXx1AWgptAFVfBFYBGl4RCUQZQAxLRhYNQ3EXUBVdWRlnVA5QB10JEGFLeUsaSBFaD0EQBExTFg1DAl0BXxYZG1BeF1sQQB0SCEd6NxpIEV0eQQcLS19bWUMJR1xVQQ0bHxMLRjtAAUNGF10EVQFBGlwXUkcUFFlWGWwGXghaUFpHWA1bFxBeEgNHFEdVC11REloQOkhfUBVbEVcDVgIAG04
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",Globo RJ  TV
+http://185.2.83.16:25461/live/4gX6Nq5SN6/ry6fP3tzux/12991.ts?token=TxAMVEBeQwMQVAUKAwBWUlMNVVAKCwUHBlQCBAQAAQQBAFwEUA4CClAUGxoRRRBRV1hpXFYbDwIDWwtTHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHUVNRBx5GRVpSQwMQBw4OWgdAGBRQTkFXS1tSXT1WB0cNAQcWCApAX1pNG11YaFwHXANaUhcMFwMbGRFYEUJAC0Y0C0JdRGYdd08bHhRVURZDA0BTFwwXAA0GARNOEAFeEQwWRktGDxF0MxseFFJAFlQMR19aWBcIG0FAE04QC0I7EAdHRhZQUlsESxAMFQhAHUBZV01pVl1XW1ZSFlsNXxdAWBYDRhkRWw5XW0JYSj1BC1AUDxQECw0MARMf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",SBT Nordeste
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/17178.ts?token=TxAMVEBeQwMQVw8BVwZTVwBWUAQEWAUHCVIEUQldVANRVAdUAw4DWFYUGxoRRRBRV1hpXFYbDwIGUwVaHUYXEVFAO1xXFFsbAQYFAVUCQBgUQV9YVxsPAgRQAVcHUlZQDR5GRVpSQwMQAAUBUBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQGBwgDER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQNAA8NEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",Rede TV
+http://178.132.4.88:25461/live/4gX6Nq5SN6/ry6fP3tzux/1862.ts?token=TxAMVEBeQwMQD1NeBANbV1ANBgwHAQZSAlMKWwNTV1IHClcNCwMEAAQUGxoRRRBRV1hpXFYbDwIJVABOExERB0ZtDVERDEMKAgQOD1ETThZCXFtQEAMEBgNRB1QHU1tTGBAUXFcUWxsADgQOVBNOFlNNQlBAV1RfbgZXFFgHB0AOXBFZXxpDVlxpU10PUAxQFA8UBBAVF1pCEhBYEzILFFsSNxtyGEMVEFReTBBQFlEUDxQHBgwCER1AUQ1EChYQTRBeF3FkQxUQU09MB18RXVlbFA8QTUYRHUBbEW4WBxFAQAFUXlMTGwgUBxpOEw9VTmpVWlxXUFBFC10MQkZYQAUQSBdeWQ9QRllFZxJYBhYMFwQEBQAEEUw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",SBT SP
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",GLOBO
+http://stmv2.gadi.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",REDE TV HD 2
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w2070232887.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
