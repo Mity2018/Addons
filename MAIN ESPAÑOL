@@ -74,3 +74,12 @@
 <info>Peliculas</info>
 </channel>
 
+ <channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* INFANTIL *[/COLOR]</name>
+  <thumbnail>https://www.nacion.com/resizer/n0Exukp_0mXM-Oz_hK10hQIXOos=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/HT4Z4AKQMBETRAIBNC2ZQP5J7I.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/GL4uFZwV2mE/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/SERIE%20LUIS%20MIGUEL</externallink>
+</channel>
+  </channels>
+
