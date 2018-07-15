@@ -48,5 +48,668 @@
 <thumbnail>http://civictheatrenewcastle.com.au/getattachment/Whats-On/All-Shows/Peppa-Pig/860x400.jpg.aspx</thumbnail>
   </item>
   
-  
+ <item>
+<name>[B][COLOR red]SOME[COLOR blue] REQUIRE[/COLOR] [COLOR yellow]F4MTESTER[/COLOR][/B]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<dir>
+<title>[B][COLOR lime]WARNING[/COLOR][COLOR hotpink] ADULT ZONE+18[/COLOR][/B]</title>
+<link>http://legionworldtv.com/source/atube.txt</link>
+<thumbnail>https://u-static.haozhaopian.net/assets/projects/export/jpg/a5c923b20be5277e4f7b6ba0fe7d1c49.jpg</thumbnail>
+<fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLOR dodgerblue]KIDS MOVIES SALA-1[/COLOR][/B]</title>
+<thumbnail>http://legionworldtv.com/source/mymedia/build/kids.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][makelist.param2][/B] [B][makelist.param5][/B]</title>
+        <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+        <thumbnail>[makelist.param3]</thumbnail>
+        </link>
+        <meta>
+        <content>movie</content>
+        <imdb>[makelist.param1]</imdb>
+        <title>[makelist.param2]</title>
+        <year>[makelist.param5]</year>
+        </meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re,urllib
+    url = ''
+    url += client.request('http://m.imdb.com/list/title/ls008600983/')
+    url += client.request('http://m.imdb.com/list/title/ls008600983/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/title/ls008600983/?page=3&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/title/ls008600983/?page=4&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    express = re.findall('(?s)class="media".+?data-tconst="(.+?)".+?alt="(.+?)".+?data-src-x2="(.+?)".+?h4 unbold">(.+?)<.+?nowrap">(.+?)<', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR gold][B]KIDS MOVIES SALA-2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>http://legionworldtv.com/source/mymedia/build/kids.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    class page:
+        def run(self, r):
+            threads = [] ; self.r = [] ; r = [(r.index(i)+1, i) for i in r]
+            for i in r: threads.append(workers.Thread(self.request, i))
+            [i.start() for i in threads] ; [i.join() for i in threads]
+            return ''.join([str(i[1]) for i in sorted(self.r, key=lambda x: x[0])])
+        def request(self, i):
+            self.r += [(i[0], client.request(i[1]))]
+    url = 'http://www.freekidsmovies.tv/page/'
+    u = []
+    for i in range(1, 35): u += [url + str(i)]
+    u = cache.get(page().run, 24, u)
+    express = re.findall('(?s)<article class="latest.+?f="([^"]*).+?e="([^"]*).+?c="([^"]*)', u)
+    return  express
+]]></expres>
+<page></page>
+</regex>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>Link [makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+        <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re, urllib, xbmc, xbmcgui
+    url = client.request('[makelist.param1]')
+    express = re.findall('(?s)data-tab="tab-1-option-1">(.+?)<.+?id="tab-2-option-2.+?src="(.+?)"', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>[COLOR gold][B]KIDS MOVIES SALA-3[/COLOR][/B]</name>
+<thumbnail>http://legionworldtv.com/source/mymedia/build/kids.png</thumbnail>
+<link>$doregex[dir]</link>
+<regex>
+<name>dir</name>
+<listrepeat>dir</listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'https://pastebin.com/raw/2YYKSGEE'):
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.goldentv': return
+    from resources.lib.indexers import goldentv
+    goldentv.indexer().get(url)
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white][B]KIDS MOVIES SALA-4[/COLOR][/B] </title>
+<thumbnail>http://legionworldtv.com/source/mymedia/build/kids.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][makelist.param2][/B] [B][makelist.param5][/B]</title>
+        <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+        <thumbnail>[makelist.param3]</thumbnail>
+        </link>
+        <meta>
+        <content>movie</content>
+        <imdb>[makelist.param1]</imdb>
+        <title>[makelist.param2]</title>
+        <year>[makelist.param5]</year>
+        </meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re,urllib
+    url = ''
+    url += client.request('http://m.imdb.com/list/title/ls000045681/')
+    url += client.request('http://m.imdb.com/list/title/ls000045681/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/title/ls000045681/?page=3&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/title/ls000045681/?page=4&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/title/ls000045681/?page=5&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    express = re.findall('(?s)class="media".+?data-tconst="(.+?)".+?alt="(.+?)".+?data-src-x2="(.+?)".+?h4 unbold">(.+?)<.+?nowrap">(.+?)<', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<title>[COLOR gold][B]COMEDY[/COLOR][/B]</title>
+<thumbnail>http://legionworldtv.com/source/mymedia/build/comedy.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+	<title>[B][makelist.param2][/B] [B][makelist.param5][/B]</title>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	<thumbnail>[makelist.param3]</thumbnail>
+	</link>
+	<meta>
+	<content>movie</content>
+	<imdb>[makelist.param1]</imdb>
+	<title>[makelist.param2]</title>
+	<year>[makelist.param5]</year>
+	</meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re,urllib
+    url = ''
+    url += client.request('http://m.imdb.com/list/ls058479560/')
+    url += client.request('http://m.imdb.com/list/ls058479560/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/ls058479560/?page=3&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    express = re.findall('(?s)class="media".+?data-tconst="(.+?)".+?alt="(.+?)".+?data-src-x2="(.+?)".+?h4 unbold">(.+?)<.+?nowrap">(.+?)<', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Grindhouse Movies</title>
+<thumbnail>http://i.imgur.com/RUOKtjz.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][makelist.param2][/B] [B][makelist.param5][/B]</title>
+        <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+        <thumbnail>[makelist.param3]</thumbnail>
+        </link>
+        <meta>
+        <content>movie</content>
+        <imdb>[makelist.param1]</imdb>
+        <title>[makelist.param2]</title>
+        <year>[makelist.param5]</year>
+        </meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re,urllib
+    url = ''
+    url += client.request('http://m.imdb.com/list/ls005125648/')
+    url += client.request('http://m.imdb.com/list/ls005125648/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/ls005125648/?page=3&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/ls005125648/?page=4&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    url += client.request('http://m.imdb.com/list/ls005125648/?page=5&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    express = re.findall('(?s)class="media".+?data-tconst="(.+?)".+?alt="(.+?)".+?data-src-x2="(.+?)".+?h4 unbold">(.+?)<.+?nowrap">(.+?)<', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Hammer Horror Movies</title>
+<thumbnail>http://i.imgur.com/f2qhs01.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B][makelist.param3][/B] [B][makelist.param5][/B]</title>
+        <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+        <thumbnail>[makelist.param4]</thumbnail>
+        </link>
+        <meta>
+        <content>movie</content>
+        <imdb>[makelist.param1]</imdb>
+        <title>[makelist.param3]</title>
+        <year>[makelist.param5]</year>
+        </meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client,control
+    import re,urllib
+    url = ''
+    url += client.request('http://m.imdb.com/list/title/ls006626772/')
+    url += client.request('http://m.imdb.com/list/title/ls006626772/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+    express = re.findall('(?s)class="media".+?t="(.+?)".+?f="(.+?)".+?alt="(.+?)".+?data-src-x2="(.+?)".+?nowrap"(.+?)<', url)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Fear Of The Dark Lite</title>
+<thumbnail>http://i.imgur.com/N09ANxu.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+	<name>makelist</name>
+	<listrepeat><![CDATA[
+		<title>[B][makelist.param3][/B] [B][makelist.param4][/B]</title>
+		<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+		<thumbnail>[makelist.param1]V1_SY1000_CR0,0,657,1000_AL_.jpg</thumbnail>
+		</link>
+		<meta>
+		<content>movie</content>
+		<imdb>[makelist.param2]</imdb>
+		<title>[makelist.param3]</title>
+		<year>[makelist.param4]</year>
+		</meta>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+	from resources.lib.modules import cache,client,workers
+	import re,urllib,xbmc,xbmcgui
+	u = ''
+	u += client.request('http://m.imdb.com/list/title/ls020736510/')
+	u += client.request('http://m.imdb.com/list/title/ls020736510/?page=2&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+	u += client.request('http://m.imdb.com/list/title/ls020736510/?page=3&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+	u += client.request('http://m.imdb.com/list/title/ls020736510/?page=4&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+	u += client.request('http://m.imdb.com/list/title/ls020736510/?page=5&sort=list_order,asc&mode=detail&ref_=m_ls_nxt#main')
+	u = client.removeNonAscii(u)
+	e = re.findall('(?s)src-x2="([^"]*)V1.+?nst="(..\w+).+?h4">([^<]*).+?(?:\(I\))?\s*\(([^\)]+)', u)
+	e = [(client.replaceHTMLCodes(i[0]).encode('utf-8'), client.replaceHTMLCodes(i[1]).encode('utf-8'), client.replaceHTMLCodes(i[2]).encode('utf-8'), client.replaceHTMLCodes(i[3]).encode('utf-8')) for i in e]
+	return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<name>[B][COLOR white]IPTV[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    u = client.request('http://www.iptvultra.com/search/label/Sports')
+    u = re.findall('(?s)hentry\'>.+?f=\'([^\']*).+?,\'([^\']*)', u)
+    checks = ['Files','Premium']; e =[]
+    for i in u:
+        if not any(f for f in checks if f in i[1]): e.append((i[0],i[1]))
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1][B][COLOR white] [zodiac.param2][/COLOR][/B]</title>
+<link>[zodiac.param3]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('"\d+.+?\]([^\[]*).+?\d+x(.+?)\[@\]([^"]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<name>[B][COLOR white]IPTVULTRA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[cats]</link>
+<regex>
+<name>cats</name>
+<listrepeat><![CDATA[
+<title>[cats.param2]</title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    u = client.request('http://www.iptvultra.com/')
+    u = re.findall('(?s)<li>.+?f=\'([^\']*)\'>([^<]*)', u)
+    checks = ['label']; e =[]
+    for i in u:
+        if any(f for f in checks if f in i[0]): e.append((i[0],i[1]))
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    u = client.request('[cats.param1]')
+    u = re.findall('(?s)hentry\'>.+?f=\'([^\']*).+?,\'([^\']*)', u)
+    checks = ['Files','Premium']; e =[]
+    for i in u:
+        if not any(f for f in checks if f in i[1]): e.append((i[0],i[1]))
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1][B][COLOR white] [zodiac.param2][/COLOR][/B]</title>
+<link>[zodiac.param3]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('"\d+.+?\]([^\[]*).+?\d+x(.+?)\[@\]([^"]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR white]IPTVSOURCE[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+        <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+
+    from resources.lib.modules import control
+    if not control.infoLabel('Container.PluginName') == 'plugin.video.whiteentv': return
+    from resources.lib.indexers import whiteentv
+    whiteentv.indexer().get(url)
+    html = ''
+    html += client.request('https://www.iptvsource.com/')
+    express = '<div class="td-module-thumb"><a href="(.+?)".+?title="(.+?)".+?class="entry-thumb" src="(.+?)"'
+    links = re.compile(express, re.MULTILINE|re.DOTALL).findall(html)
+    return links
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re
+    html = client.request('[makelist.param1]')
+    express = '#EXTINF:.+?,(.+?)\n(.+?ts)'
+    express2 = '#EXTINF:.+?,(.+?)\n(.+?m3u8)'
+    links = re.compile(express, re.MULTILINE|re.DOTALL).findall(html)
+    if not links: links = re.compile(express, re.MULTILINE|re.DOTALL).findall(html)
+    return links
+]]></expres>
+<page></page>
+</regex>	
+</item>
+
+
+
+<item>
+<name>[B][COLOR white]IPTVM3U.[/B][/COLOR]</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('http://www.iptvm3u.com/')
+    e = re.findall('(?s)entry-title\'.+?f=\'([^\']*)\'>([^<]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1]</title>
+<link>[zodiac.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('(?s)#EXTINF:.+?,([^<]*).+?">([^<]*)', u)
+    e = [(i[0],i[1]) for i in e if 'http' not in i[0]]
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<name>[B][COLOR white]IPTV4FREE[/B][/COLOR]</name>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title>
+<link>$doregex[zodiac]</link>
+<thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    u = client.request('http://www.iptv4free.com/')
+    e =  re.findall('(?s)entry-title\'>.+?f=\'([^\']*).+?go.+?>([^<]*).+?fn\'>([^<]*).+?c=\'([^\']*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1]</title>
+<link>[zodiac.param2]</link>
+<thumbnail>[makelist.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    u = re.findall('(?s)EXTINF:.+?,([^<]*).+?\n([^<]*)', u)
+    return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR white]M3ULISTE[/COLOR][/B]</title>
+<thumbnail>http://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('http://www.m3uliste.pw/')
+    express = re.findall('>(http.+?username=(.+?)&.+?)<', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('[makelist.param1]')
+    express = re.findall('#EXTINF:.+?,([^\n]*)\n([^\n]*)', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<name>[B][COLOR white]TVonlinestreams.com[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('https://www.tvonlinestreams.com/')
+    u += client.request('https://www.tvonlinestreams.com/page/2/')
+    u += client.request('https://www.tvonlinestreams.com/page/3/')
+    e = re.findall('(?s)entry-title"><a\shref="([^"]*).+?">([^<]*).+?(.+?)pubdate">([^<]*)', u)
+    e = [(i[0],i[1],i[2],i[3]) for i in e if 'EXTINF' in i[2]]
+    e = [(i[0],i[1],i[3]) for i in e]
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1]</title>
+<link>[zodiac.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('#EXTINF:.+?,([^<]*).+?\n([^<]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<title>[B][COLOR white]SPORT[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[play]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+
+    main = client.request('http://live-sports-stream.net/schedule/')
+    express = '<pre>(.+?)</pre>.+?iframe src="(.+?)"'
+    link = re.compile(express, re.MULTILINE|re.DOTALL).findall(main)
+    link = [(i[0], i[1]) for i in link]
+    link = [(i[0].splitlines(), i[1]) for i in link]
+    link = [[(x, i[1]) for x in i[0]] for i in link] 
+    link = sum(link, [])
+    return link 
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+
+    main = '[makelist.param2]'
+    from resources.lib.modules import control
+    livestreamer = control.cdnImport('http://legionworldtv.com/source/file.txt', 'livestreamer')
+    livestreamer = livestreamer.streamer()
+   
+    url, ref = livestreamer.redirect(main)
+    u = livestreamer.resolve(url, ref)
+
+    return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
  
