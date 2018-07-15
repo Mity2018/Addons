@@ -101,5 +101,81 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 </regex>
 <thumbnail>http://35.184.9.107/wp-content/uploads/2018/04/bloggif_5ac2db10389ea.png</thumbnail>
 </item>
+
+<item>
+<title>http://dramaonline.com/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param2]</thumbnail>
+  <fanart>http://dramaonline.com/wp-content/uploads/2017/05/darklogo.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('class="baner-sd">(?s)(.*?)<div',page_data)[0]
+  return re.findall('"Icons-sd-a" href="(.*?)(?:#|").*?src="(.*?)".*?p">(.*?)<',list)
+]]></expres>
+<page>http://dramaonline.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR yellow][makelist2.param2][/COLOR]</title>
+  <link>$doregex[makelist3]</link>
+  <thumbnail>[makelist2.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('class="entry-meta">(?s)(.*?)</table',page_data)[0]
+  ltitle=re.findall('(?:p>|td>).*?http://dramaonline.com/category/.*?/([^/]+)/".*?src',list)
+  for e in ltitle:
+    atitle=e.title()
+    list=list.replace(e,atitle)
+  return re.findall('(?:p>|td>).*?"(http://dramaonline.com/category/.*?/([^/]+)/)".*?src="(.*?)"',list)
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://dramaonline.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist3.param3][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist3.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('class="entry-title">(?s)(.*?)id="footerwidget',page_data)[0]
+  return re.findall('"featuredimage".*?href="(.*?)".*?src="(.*?)".*?title="(.*?).{6}"',list)
+]]></expres>
+<page>[makelist2.param1]</page>
+<referer>[makelist.param1]</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  source=requests.get('[makelist3.param1]',headers={'Referer':'[makelist2.param1]'}).content.decode('ascii','ignore')
+  if 'tune.pk' in source:
+     link=re.findall('src="(.*?tune.pk.*?)"',source)[0].replace('#038;','');source=requests.get(link,headers={'Referer':'[makelist3.param1]'}).content.decode('ascii','ignore');url=re.findall('src="(.*?tune.pk.*?)"',source)[0]
+     source=requests.get(url,headers={'Referer':link}).content.decode('ascii','ignore');info=re.search('(?s)requestURL.*?[\'"](.*?)[\'"].*?X-Forwarded-For":"(.*?)".*?:"(.*?)"',source)
+     source=requests.get(info.group(1),headers={'Referer':url,'X-Forwarded-For':info.group(2),'X-secret-Header':info.group(3)}).content.decode('ascii','ignore');return re.findall('Auto.*?"(h.*?)"',source)[0].replace('\\','')+'|Referer=%s&User-Agent=iPad'%url
+  elif 'youtube' in source:
+     return 'plugin://plugin.video.youtube/play/?video_id='+re.findall('watch\?v=(.*?)"',source)[0]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://dramaonline.com/wp-content/uploads/2017/05/darklogo.png</thumbnail>
+<fanart>http://dramaonline.com/wp-content/uploads/2017/05/darklogo.png</fanart>
+</item>
   
   
