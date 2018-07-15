@@ -48,3 +48,1222 @@
 <thumbnail>http://civictheatrenewcastle.com.au/getattachment/Whats-On/All-Shows/Peppa-Pig/860x400.jpg.aspx</thumbnail>
   </item>
   
+  <item>
+<title>Vera HD</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6001</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6001/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>TevÃ© Ciudad</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6046</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6046/default_source.jpg</thumbnail>
+</item>
+	
+<item>
+<title>VTV</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6031</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTVURU.png/190px-VTVURU.png</thumbnail>
+</item>
+	
+<item>
+<title>Canal 10</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6047</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6047/default_source.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Monte Carlo TV</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6040</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6040/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal Once Punta Del Este</title>
+<link>http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<thumbnail>http://www.canalonce.com.uy/imagenes/logotipoonce.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal U</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/7609</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/7609/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>VTV +</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6804</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i2.minus.com/jpPojF526BtYJ.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 10 SD</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>hls": "(.*?)"</expres>
+<page>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/url/?video_type=wowzaadmin&amp;token=</page>
+<referer>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/?poster=http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-950x540.jpg</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar>$doregex[Cookie]</cookieJar>
+</regex>
+<regex>
+<name>Cookie</name>
+<expres></expres>
+<page>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/?poster=http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-950x540.jpg</page>
+<referer>http://www.canal10.com.uy/pages/live-tv</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/66/logo-canal10.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 10 HD</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>hls": "(.*?)"</expres>
+<page>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/url/?video_type=wowzaadmin&amp;token=</page>
+<referer>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/?poster=http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-1280x720.jpg</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar>$doregex[Cookie]</cookieJar>
+</regex>
+<regex>
+<name>Cookie</name>
+<expres></expres>
+<page>http://content.zetatv.com.uy/content/1a92dbdb-5701-46cc-b865-f2b17195afbb/embed/?poster=http://web10.images.production.s3.amazonaws.com/uploads/image/image/398/AHORA_EN_VIVO-1280x720.jpg</page>
+<referer>http://www.canal10.com.uy/pages/live-tv</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://web10.images.production.s3.amazonaws.com/uploads/image/image/66/logo-canal10.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Vera Deportes</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/7097</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/7097/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 7</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/10425</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/10425/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 2 San Carlos</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/8204</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/8204/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 11 Treinta y Tres</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6853</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6853/320/default.jpg</thumbnail>
+</item>
+
+<item>
+<title>Artigas TV</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6044</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://veratv.cdn.antel.net.uy/dynamic/content_images/6044/320/default.jpg</thumbnail>
+</item>
+
+<item>
+<title>TNU</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6042</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6042/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal 12 Melo</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6074</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6074/320/default.jpg</thumbnail>
+</item>
+
+<item>
+<title>Soy TacuarembÃ³</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6880</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6880/320/default.jpg</thumbnail>
+</item>
+
+<item>
+<title>A+V</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6707</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6707/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTV</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6085</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6085/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>TVD Florida</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/8961</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/8961/320/default.jpg</thumbnail>
+</item>
+
+    <channel>
+    <name>Radios Uruguayas</name>
+    <info>Radios para escuchar cosas de Uruguay</info>
+    <thumbnail>http://radioextremo.radioteca.net/media/images/pictures/dial-radio_big.jpg</thumbnail>
+    <fanart>http://i.imgur.com/Sbbb5Ei.png</fanart>
+
+	<item>
+	<title>Oldies FM</title>
+	<link>http://radios.cxnlive.com:8004/</link>
+    <thumbnail>http://www.glatina.net/sitio/images/gallery/oldies.jpg</thumbnail>
+    </item>
+
+	<item>
+	<title>Oceano FM</title>
+	<link>http://radio2.oceanofm.com:8010/</link>
+    <thumbnail>http://showcase.genexus.com/Images/384/oceano1.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>Radio Disney</title>
+	<link>http://69.4.236.136:7928/</link>
+    <thumbnail>http://www.disneylatino.com/radiodisneymexico/sites/default/files/styles/thumb_modulo_x2/public/media/radio-disney_0.jpg?itok=rYbOxI30</thumbnail>
+    </item>
+	
+    <item>
+	<title>Del Plata FM</title>
+	<link>http://69.4.236.136:7920/</link>
+    <thumbnail>http://cdn-radiotime-logos.tunein.com/s121573q.png</thumbnail>
+    </item>
+
+	<item>
+	<title>Alfa FM</title>
+	<link>http://radioonline.netgate.com.uy:8000/alfafm</link>
+    <thumbnail>http://files.emisorasderadio.webnode.com.uy/system_preview_detail_200000053-d66f5d8645/Alfa.jpg</thumbnail>
+    </item>
+
+    <item>
+	<title>Concierto Urbana</title>
+	<link>http://75.126.178.195/Urbana/Urbana_aac.stream/media.m3u</link>
+    <thumbnail>http://cdn-radiotime-logos.tunein.com/s223043q.png</thumbnail>
+    </item>
+	
+	<item>
+	<title>Metropolis FM</title>
+	<link>http://radios.cxnlive.com:8000/</link>
+    <thumbnail>http://metropolisfm.com/imagenes/logoMetropolis.jpg</thumbnail>
+    </item>
+	
+    <item>
+	<title>Azul FM</title>
+	<link>http://rfm.radio.netgate.com.uy:8000/azulfm</link>
+    <thumbnail>http://azulfm.com.uy/Images/Logo1019.jpg</thumbnail>
+    </item>
+	
+	<item>
+	<title>Radiocero</title>
+	<link>http://209.95.53.166:7902/</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/487236674254950400/EJyUMpIG.jpeg</thumbnail>
+    </item>
+	
+	<channel>
+    <name>Canales Argentinos</name>
+    <info>Canales para ver cosas de Argentina</info>
+    <thumbnail>http://www.todolibres.com.ar/galeria/tv%20argentina.jpg</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Argentina_flag_tv.svg/2000px-Argentina_flag_tv.svg.png</fanart>
+
+
+<item>
+<title>CANAL 26 SD</title>
+<link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link>
+<thumbnail>http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg</thumbnail>
+</item>
+
+<item>
+<title>CANAL 26 HD</title>
+<link>http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8</link>
+<thumbnail>http://foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png</thumbnail>
+</item>
+
+<item>
+<title>360 TV HD</title>
+<link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link>
+<thumbnail>http://es.ontvcontenidos.com/wp-content/uploads/2012/06/360-tv-digital.png</thumbnail>
+</item>
+
+<item>
+<title>EL TRECE TV</title>
+<link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link>
+<thumbnail>http://ipuntotv.com/IMAGES/ElTreceHD2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV PÃºblica SD</title>
+<link>http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8</link>
+<thumbnail>http://www.agenciacta.org/IMG/jpg/TvPublicaLogo.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV PÃºblica HD</title>
+<link>http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8</link>
+<thumbnail>http://www.bus-k.me/file/pic/listing/2012/10/7991d98d146b8c6cdade125d95f154a3.png</thumbnail>
+</item>
+
+<item>
+<title>Canal 9</title>
+<link>http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_6/gallery_10242_6_89141.png</thumbnail>
+</item>
+
+	<channel>
+    <name>VOD</name>
+    <info>Eventos cuando quieras y donde quieras.</info>
+    <thumbnail>http://www.tvnerd.com/wp-content/uploads/2012/08/VideoOnDemand.jpg</thumbnail>
+    <fanart>http://www.greenbookblog.org/wp-content/uploads/2014/08/videos.jpg</fanart>
+
+<item>
+<title>PasiÃ³n 6 De Setiembre</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13034</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Show De Goles</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13028</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nacional vs Plaza Colonia</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13025</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>PeÃ±arol vs FÃ©nix</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13020</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Danubio vs Defensor Sp</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13018</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Wanderers vs River Plate</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13015</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rentistas vs El Tanque Sisley</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13013</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Racing vs Sud America</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13012</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Liverpool vs Cerro</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13010</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Villa Teresa vs Juventud</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/13009</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DÃ©borah RodrÃ­guez RÃ©cord Nacional Beijing 2015</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12707</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/12707/320/3.jpg</thumbnail>
+</item>
+
+<item>
+<title>PasiÃ³n</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12996</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Wanderers vs Nacional</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12993</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Defensor Sporting vs PeÃ±arol</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12994</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Show De Goles Fecha 3</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12995</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>FÃ©nix vs Racing</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12992</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>River Plate vs Sud America</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12991</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>El Tanque Sisley vs Danubio</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12990</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cerro vs Rentistas</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12989</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Plaza Colonia vs Villa Teresa</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/video/12988</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://miramama.com.uy/wp-content/uploads/2014/07/uruguayosolo.jpg</thumbnail>
+</item>
+
+	<channel>
+    <name>Canales Chilenos</name>
+    <info>Canales para ver cosas de Chile</info>
+    <thumbnail>http://static.betazeta.com/www.wayerless.com/up/2011/12/MADRILO-TV-CHILE-APP-PORTADA-WAYERLESS-660x350.png</thumbnail>
+    <fanart>http://wallpaperest.com/wallpapers/chile_414697.jpg</fanart>
+	
+
+<item>
+<title>TV CHILE</title>
+<link>http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-M4LOV77AJmI/TuER7K0YvHI/AAAAAAAAAHA/L_4xWO-uD4E/s1600/TVN.png</thumbnail>
+</item>
+
+<item>
+<title>TV CHILE HD</title>
+<link>http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140110184450/logopedia/images/b/b3/TVN_HD_Chile.png</thumbnail>
+</item>
+
+<item>
+<title>TV CHILE INTERNACIONAL</title>
+<link>http://edge-81-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8</link>
+<thumbnail>http://www.parainmigrantes.info/wp-content/uploads/2010/03/tvchile.jpg</thumbnail>
+</item>
+
+<item>
+<title>MEGA</title>
+<link>http://edge-81-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140110181037/logopedia/images/4/44/Mega2013oficial.png</thumbnail>
+</item>
+
+<item>
+<title>MEGA HD</title>
+<link>http://edge-81-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png</thumbnail>
+</item>
+
+	<channel>
+    <name>Canales EspaÃ±oles</name>
+    <info>Canales para ver cosas de EspaÃ±a</info>
+    <thumbnail>http://diesl.com/wp-content/uploads/2013/01/canales.jpg</thumbnail>
+    <fanart>http://gabinetelegalmn.es/wp-content/uploads/2015/03/TDT.jpg</fanart>
+	
+<item>
+<title>Antena 3</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
+</item>
+
+<item>
+<title>Antena 3 HD</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Antena3hd.png/200px-Antena3hd.png</thumbnail>
+</item>
+
+<item>
+<title>La Sexta</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://alumnos.unir.net/alfredohernandez/files/2014/05/ls-sexta-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>La Sexta HD</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png</thumbnail>
+</item>
+
+<item>
+<title>MEGA</title>
+<link>http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png</thumbnail>
+</item>
+
+<item>
+<title>MEGA HD</title>
+<link>http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MEGA.png/250px-MEGA.png</thumbnail>
+</item>
+
+<item>
+<title>La 1</title>
+<link>http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8</link>
+<thumbnail>http://lab.rtve.es/nelson-mandela/la-sonrisa-de-mandela/img/tve1.png</thumbnail>
+</item>
+
+<item>
+<title>La 2</title>
+<link>http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png</thumbnail>
+</item>
+
+<item>
+<title>Teledeporte</title>
+<link>http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/26/Teledeporte_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Telecinco</title>
+<link>http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Antena 3 Internacional</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?</link>
+<thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2010/08/Antena-3-Internacional.jpg</thumbnail>
+</item>
+
+<item>
+<title>Real Madrid TV</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8</link>
+<thumbnail>https://compagnieblanche.files.wordpress.com/2013/12/rmtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Galicia</title>
+<link>http://media3.crtvg.es/live/tvga/vcx7.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ETB Canal Vasco</title>
+<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20110830190554/logopedia/images/archive/c/ca/20110830192256!Canal_Vasco_logo_2009.png</thumbnail>
+</item>
+
+	<channel>
+    <name>Canales Mexicanos</name>
+    <info>Canales para ver cosas de MÃ©xico</info>
+    <thumbnail>http://i.imgur.com/gzsSSAr.png</thumbnail>
+    <fanart>http://i.ytimg.com/vi/FWNhaXWr7sY/maxresdefault.jpg</fanart>
+	
+<item>
+<title>Canal De Las Estrellas</title>
+<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/Xewtv1997.gif</thumbnail>
+</item>
+
+<item>
+<title>Azteca 13</title>
+<link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1317795206/logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Azteca 7</title>
+<link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
+<thumbnail>http://www.miralotv.org/images/azteca7.png</thumbnail>
+</item>
+
+<item>
+<title>Proyecto 40</title>
+<link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://i.ytimg.com/i/7k--FhnJzhPTrbtldMSoQQ/mq1.jpg?v=55de2a06</thumbnail>
+</item>
+
+<item>
+<title>Foro TV</title>
+<link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8</link>
+<thumbnail>http://i2.esmas.com/img/noticieros_nv/foro_tv/logoForoTV.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Cine HD</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8</link>
+<thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/ultra_cine-mediano.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Cine</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8</link>
+<thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/ultra_cine-mediano.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Film HD</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8</link>
+<thumbnail>http://www.olympusat.com/sites/default/files/film_chnl_HR_0.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Film</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8</link>
+<thumbnail>http://www.olympusat.com/sites/default/files/film_chnl_HR_0.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Fiesta HD</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8</link>
+<thumbnail>http://www.olympusat.com/sites/default/files/fiesta_chnl_HR.png</thumbnail>
+</item>
+
+<item>
+<title>Ultra Fiesta</title>
+<link>http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8</link>
+<thumbnail>http://www.olympusat.com/sites/default/files/fiesta_chnl_HR.png</thumbnail>
+</item>
+
+<item>
+<title>Canal De Las Estrellas Internacional</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>Canal Ocho</title>
+<link>http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-m4sCqk4MORo/AAAAAAAAAAI/AAAAAAAAAAA/Pr2bcNTSqV8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+
+	<channel>
+    <name>Resto Del Mundo</name>
+    <info>Canales del Resto del Mundo</info>
+    <thumbnail>http://anony.ws/i/2013/04/20/4bQL5.jpg</thumbnail>
+    <fanart>http://www.miradasolidaria.es/wp-content/uploads/2014/04/mapamundi1.jpg</fanart>
+	
+<item>
+<title>Win Sports</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0003/tu1_1.m3u8?</link>
+<thumbnail>http://www.winsports.co/sites/all/themes/at_winsports/logo-win.png</thumbnail>
+</item>
+
+<item>
+<title>Win Sports 2</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8?</link>
+<thumbnail>http://www.winsports.co/sites/all/themes/at_winsports/logo-win.png</thumbnail>
+</item>
+
+<item>
+<title>TV5 Monde</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?</link>
+<thumbnail>http://www.ambafrance-cr.org/IMG/arton1766.jpg?1336607502</thumbnail>
+</item>
+
+<item>
+<title>BBC World</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8?</link>
+<thumbnail>http://wptschedule.org/ulphoto/wpt_1352226171.jpg</thumbnail>
+</item>
+
+<item>
+<title>Eventos</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/EVEN/tu1_1.m3u8?</link>
+<thumbnail>http://www.snet.com.mx/sitio/img/icono8.png</thumbnail>
+</item>
+
+<item>
+<title>Tigo Music</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?</link>
+<thumbnail>http://www.laurakalop.com/wordpress/wp-content/uploads/2015/08/TigoMusic_LogoOK.png</thumbnail>
+</item>
+
+<item>
+<title>DW LatinoamÃ©rica</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png</thumbnail>
+</item>
+
+<item>
+<title>DW USA</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport</title>
+<link>http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport_logo.svg/220px-Eurosport_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ZDF</title>
+<link>http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ZDF.svg/2000px-ZDF.svg.png</thumbnail>
+</item>
+
+<item>
+<title>DW</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6019</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6019/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Telesur</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/6028</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/6028/default_source.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>file: "(.*?)"</expres>
+<page>$doregex[get-ifr]</page>
+<referer>http://tv.vera.com.uy</referer>
+</regex>
+<regex>
+<name>get-ifr</name>
+<expres>'src', '(.*extras.*?)'</expres>
+<page>http://tv.vera.com.uy/canal/11580</page>
+<referer>http://tv.vera.com.uy</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tv.vera.com.uy/dynamic/content_images/11580/default_source.jpg</thumbnail>
+</item>
+  
