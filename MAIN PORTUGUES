@@ -199,4 +199,46 @@
 </channel>
 
 /channels>
+
+<channel>
+<name>[COLOR lime][B]Lançamentos em [COLOR gold]HD[/B][/COLOR]</name>
+<externallink>http://bit.ly/2ud4Akg</externallink>
+<thumbnail>https://thumbs.dreamstime.com/b/cinema-camera-icon-film-award-best-film-form-logo-movie-theater-cinematic-award-movie-premiere-flat-vector-91412166.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info>Filmes extraidos do Netcine</info>
+</channel>
+
+<channel>
+<name>[COLOR lime][B]Lançamentos em [COLOR gold]SD[/B][/COLOR]</name>
+<externallink>http://bit.ly/2KPkYll</externallink>
+<thumbnail>https://thumbs.dreamstime.com/b/cinema-camera-icon-film-award-best-film-form-logo-movie-theater-cinematic-award-movie-premiere-flat-vector-91412166.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info>Filmes em qualidade HD</info>
+</channel>
+
+<channel>
+<name>[COLOR lime][B]Mais lançamentos[/B][/COLOR]</name>
+<externallink>http://bit.ly/2uc5bD3</externallink>
+<thumbnail>http://3.bp.blogspot.com/-Dt5rxFRUE2A/Ufp41yvu3wI/AAAAAAAALNg/9XzJTPLxGmA/s1600/filmes-franquias.jpg</thumbnail>
+<fanart>http://br.web.img2.acsta.net/newsv7/14/10/22/00/30/126528.jpg</fanart>
+<info>Filmes em qualidade HD</info>
+</channel>
+
+
+<channel>
+<name>[COLOR gold][B]3000 [COLOR lime][B]filmes separados por ano de lançamento[/B][/COLOR]</name>
+<externallink>http://bit.ly/2uefHtp</externallink>
+<thumbnail>https://static.pelando.com.br/live/threads/thread_large/default/185618_1.jpg</thumbnail>
+<fanart>https://png.pngtree.com/element_origin_min_pic/17/08/13/2d887533e39de31411a69ae3f1b9e3cb.jpg</fanart>
+<info>Filmes em qualidade SD</info>
+</channel>
+
+
+<channel>
+<name>[COLOR lime][B]Novo Popi Cine 2018[/B][/COLOR]</name>
+<externallink>http://bit.ly/2L85dCk</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</fanart>
+<info>Filmes selecionados para voçe</info>
+</channel>
  
