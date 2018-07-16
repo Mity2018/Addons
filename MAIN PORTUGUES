@@ -201,7 +201,7 @@
 /channels>
 
 <channel>
-<name>[COLOR lime][B]Lançamentos em [COLOR gold]HD[/B][/COLOR]</name>
+<name>[COLOR cyan][COLOR  lime]• Lançamentos em [COLOR gold]HD[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/LANZAMENTO%20EN%20HD%20CRIS</externallink>
 <thumbnail>https://thumbs.dreamstime.com/b/cinema-camera-icon-film-award-best-film-form-logo-movie-theater-cinematic-award-movie-premiere-flat-vector-91412166.jpg</thumbnail>
 <fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
@@ -209,7 +209,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime][B]Mais FILMES[/B][/COLOR]</name>
+<name>[COLOR cyan][B]• Mais FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIS%20LAZANMENTO%20CRIS</externallink>
 <thumbnail>http://3.bp.blogspot.com/-Dt5rxFRUE2A/Ufp41yvu3wI/AAAAAAAALNg/9XzJTPLxGmA/s1600/filmes-franquias.jpg</thumbnail>
 <fanart>http://br.web.img2.acsta.net/newsv7/14/10/22/00/30/126528.jpg</fanart>
@@ -218,7 +218,7 @@
 
 
 <channel>
-<name>[COLOR gold][B]3000 [COLOR lime][B]filmes por Anos[/B][/COLOR]</name>
+<name>[COLOR cyan][B]• 3000 [COLOR lime][B]filmes por Anos[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/FILMES%20POR%20ANOS</externallink>
 <thumbnail>https://static.pelando.com.br/live/threads/thread_large/default/185618_1.jpg</thumbnail>
 <fanart>https://png.pngtree.com/element_origin_min_pic/17/08/13/2d887533e39de31411a69ae3f1b9e3cb.jpg</fanart>
@@ -227,7 +227,7 @@
 
 
 <channel>
-<name>[COLOR lime][B]NOVO FILME 2018[/B][/COLOR]</name>
+<name>[COLOR cyan][B]• NOVO FILME 2018[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/NOVO%20FILMES%20CRIS</externallink>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</fanart>
