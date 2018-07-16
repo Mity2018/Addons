@@ -202,7 +202,7 @@
 
 <channel>
 <name>[COLOR lime][B]Lançamentos em [COLOR gold]HD[/B][/COLOR]</name>
-<externallink>http://bit.ly/2ud4Akg</externallink>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/LANZAMENTO%20EN%20HD%20CRIS</externallink>
 <thumbnail>https://thumbs.dreamstime.com/b/cinema-camera-icon-film-award-best-film-form-logo-movie-theater-cinematic-award-movie-premiere-flat-vector-91412166.jpg</thumbnail>
 <fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
 <info>Filmes extraidos do Netcine</info>
@@ -242,11 +242,4 @@
 <info>Filmes selecionados para voçe</info>
 </channel>
 
-<channel>
-<name>[COLOR lime][B]CRISPRUEBA 2018[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/cris%20prueba%20lunes</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/fr/3/32/Cin%C3%A9_Pop_logo.png</fanart>
-<info>Filmes selecionados para voçe</info>
-</channel>
  
