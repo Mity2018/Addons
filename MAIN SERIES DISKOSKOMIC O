@@ -1,15 +1,15 @@
 <item> 
-<title>[B][COLOR yellow]SUPER[/COLOR][COLOR white] ACCION[/COLOR][COLOR dodgerblue][/COLOR][/B]</title>
+<title>[B][COLOR yellow]LUIS[/COLOR][COLOR white] MIGUEL [/COLOR][COLOR dodgerblue]LA SERIE 2018[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title> [makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://civictheatrenewcastle.com.au/getattachment/Whats-On/All-Shows/Peppa-Pig/860x400.jpg.aspx</thumbnail>
+        <thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/48/ba/c9/48bac9a8-5a11-3882-a154-5b3d4fb9a644/886447077177.jpg/1200x630bb.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</page>
+<page>http://diskokosmiko.mx/monnet/luis-miguel-la-serie-capitulos-13-final-116519</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -27,7 +27,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</referer>
+<referer>http://diskokosmiko.mx/monnet/luis-miguel-la-serie-capitulos-13-final-116519</referer>
 <cookieJar>$doregex[cookie]</cookieJar>
 </regex>
 <regex>
@@ -45,7 +45,7 @@
 <referer>http://diskokosmiko.mx/<referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://civictheatrenewcastle.com.au/getattachment/Whats-On/All-Shows/Peppa-Pig/860x400.jpg.aspx</thumbnail>
+<thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/48/ba/c9/48bac9a8-5a11-3882-a154-5b3d4fb9a644/886447077177.jpg/1200x630bb.jpg</thumbnail>
   </item>
   
   
