@@ -99,8 +99,7 @@
 <thumbnail>http://civictheatrenewcastle.com.au/getattachment/Whats-On/All-Shows/Peppa-Pig/860x400.jpg.aspx</thumbnail>
   </item>
   
-  
-  <item>
+ <item>
 <title>PABLO ESCOBAR</title>
 <link>$doregex[makelist0]</link>
  
@@ -112,13 +111,14 @@
 <link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://www.planetatvonlinehd.com/escobar-el-patron-del-mal/</page>
+<page>http://www.seriespapaya.com/serie/pablo-escobar-el-patron-del-mal.html</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>====>PONER AQUI ICON DE LA PELICULA</thumbnail>
 <fanart>====>PONER AQUI BACKGROUND DE LA PELICULA</fanart>
-</item>
+</item> 
+ 
   
  
 
