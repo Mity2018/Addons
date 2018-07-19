@@ -24,7 +24,6 @@
 <info></info>
 </channel>
 
-
 <channel>
 <name>[COLOR cyan][B]* Series HD 2 [/B][/COLOR] </name>
 <thumbnail>http://i.imgur.com/rJ5HUlP.png</thumbnail>
@@ -33,8 +32,6 @@
 <info></info>
 </channel>
 
-
-
 <channel>
 <name>[COLOR cyan][B]*  Series Classicas [/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/WamEt0g.png</thumbnail>
@@ -42,8 +39,6 @@
 <fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
 <info></info>
 </channel>
-
-
 <channel>
 <name>[COLOR cyan][B]* Series Lista [/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/rJ5HUlP.png</thumbnail>
@@ -51,10 +46,6 @@
 <fanart>http://i.imgur.com/iv2Pdd7.jpg</fanart>
 <info></info>
 </channel>
-
-
-
-
 
 <channel>
 <name>[COLOR cyan][B]* Cris Lista  Series [/B][/COLOR]</name>
@@ -64,10 +55,6 @@
 <info></info>
 </channel>
 
-
-
-
-
 <channel>
 <name>[COLOR cyan][B]* Cris Lista  Series 2 [/B][/COLOR] </name>
 <thumbnail>https://i.imgur.com/83sQXiy.jpg</thumbnail>
@@ -75,11 +62,6 @@
 <fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
 <info></info>
 </channel>
-
-
-
-
-
 
 <channel>
 <name>[COLOR cyan][B]* Cris Series Torrents HD Por Temporadas[/B][/COLOR]</name>
@@ -89,9 +71,6 @@
 <info></info>
 </channel>
 
-
-
-
 <channel>
 <name>[COLOR cyan][B]* Animes Temporadas 1 [/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/rJ5HUlP.png</thumbnail>
@@ -100,12 +79,6 @@
 <info></info>
 </channel>
 
-
-
-
-
-
-
 <channel>
 <name>[COLOR cyan][B]* Cris Series Total cine [/B][/COLOR]</name>
 <thumbnail>http://i.imgur.com/WamEt0g.png</thumbnail>
@@ -113,82 +86,6 @@
 <fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
 <info></info>
 </channel>
-
-<channel>
-<name>[COLOR cyan][B]* Cris Lista  Series 2 [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/WamEt0g.png</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR red][B]Mega  Lista  Series 3 [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/WamEt0g.png</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR gold][B]Series IPTV [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/7i4U4V2.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-
-
-
-<channel>
-<name>[COLOR pink][B]Lista ONSeries +17.500 EP [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/WamEt0g.png</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR blue][B]Series IPTV pjt [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/LHPclxl.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR gold][B]Series Classicas [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/ksExNaN.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]Lista Series Beto Moura Web Click [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/EBpQQVM.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Nova lista Series [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/7i4U4V2.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Nova lista Series 2 [/B][/COLOR], pesquise com o menu filtro, do lado esquerdo</name>
-<thumbnail>http://i.imgur.com/7i4U4V2.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://i.imgur.com/TcIo5RE.jpg</fanart>
-<info></info>
-</channel>
-
 
 <channel>
 <name>[COLOR cyan][B]* SuperClassicos  [/B][/COLOR]  </name>
