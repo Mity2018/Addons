@@ -47,3 +47,53 @@
 </regex>
 <thumbnail>https://i.pinimg.com/originals/4c/68/b2/4c68b25e37b937af5abb8a3c440473c1.jpg</thumbnail>
   </item>
+  
+  <item> 
+<title>[B][COLOR yellow]SYLVESTER[/COLOR][COLOR white]STALLONE [/COLOR][COLOR dodgerblue]COLECCION[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/01-enero/poster_ejecutor.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/JGPELICULAS/sylvester-stallone-filmografia-92790/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/JGPELICULAS/sylvester-stallone-filmografia-92790/list,1,2</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2013/01-enero/poster_ejecutor.jpg</thumbnail>
+  </item>
