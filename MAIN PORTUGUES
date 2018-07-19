@@ -12,15 +12,7 @@
 </channel>
   </channels>
   
-   <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] FILMES DOIS 2018[/COLOR]</name>
-  <thumbnail>https://i0.wp.com/www.aftvnews.com/wp-content/uploads/2017/12/YouTube-Logo-on-TV.png?resize=646%2C363&quality=100</thumbnail>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://www.dropbox.com/s/i09jz6dzneki6ee/FILMES.txt?dl=1</externallink>
-</channel>
-  </channels>
- 
+    
   <channel>
       <name>[COLOR cyan][COLOR  lime]•   [/COLOR] FILMES YOU[/COLOR]</name>
   <thumbnail>https://i0.wp.com/www.aftvnews.com/wp-content/uploads/2017/12/YouTube-Logo-on-TV.png?resize=646%2C363&quality=100</thumbnail>
@@ -30,15 +22,7 @@
 </channel>
   </channels>
  
- <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] CANAIS VARIOS HD[/COLOR]</name>
-  <thumbnail>https://i.ytimg.com/vi/f6JUs9ISgOE/hqdefault.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/CANAIS%20HD</externallink>
-</channel>
-  </channels>
- 
+  
 <channel>
       <name>[COLOR cyan][COLOR  lime]•   [/COLOR] DOCUMENTALES[/COLOR]</name>
   <thumbnail>https://etb.com/Negocios/img1/guia/logos/logo-warhd.jpg</thumbnail>
