@@ -49,7 +49,7 @@
   </item>
   
   <item> 
-<title>[B][COLOR yellow]SYLVESTER[/COLOR][COLOR white]STALLONE [/COLOR][COLOR dodgerblue]COLECCION[/COLOR][/B]</title>
+<title>[B][COLOR yellow]SYLVESTER [/COLOR][COLOR white] STALLONE [/COLOR][COLOR dodgerblue]COLECCION[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
