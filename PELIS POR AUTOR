@@ -148,3 +148,53 @@
 </regex>
 <thumbnail>http://2.bp.blogspot.com/-1wi45a9RXek/UOby6KXvNFI/AAAAAAAAB8w/i18EplmTDBg/s1600/Poster_The_Last_Stand.jpg</thumbnail>
   </item>
+  
+  <item> 
+<title>[B][COLOR yellow] JEAN [/COLOR][COLOR white] CLAUDE VAN DAMME [/COLOR][COLOR dodgerblue]COLECCION[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://teenagethunder.com/wp-content/uploads/2014/01/BlackEagleok.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/JGPELICULAS/jean-claude-van-damme-92791/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/JGPELICULAS/jean-claude-van-damme-92791/list,1,2</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://teenagethunder.com/wp-content/uploads/2014/01/BlackEagleok.jpg</thumbnail>
+  </item>
