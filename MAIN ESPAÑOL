@@ -110,4 +110,31 @@
 </channel>
   </channels>
   
+  <channel>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow][makelist.param2][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+</channel>
+  
  
