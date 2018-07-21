@@ -244,3 +244,43 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://www.documaniatv.com/uploads/xcustom-logo.png.pagespeed.ic.K4J_r8TUgr.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/8knT8bc2hGw/maxresdefault.jpg</fanart>
 </item>
+
+
+<!-- CRIS NOVEDADES -->
+ 
+<item>
+<title>CRIS NOVEDADES</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR white][makelist.param2] [/COLOR]   </title>
+<link>http:$doregex[link]</link>
+<thumbnail>https://www.documaniatv.com/uploads/xcustom-logo.png.pagespeed.ic.K4J_r8TUgr.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/8knT8bc2hGw/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[h3.*?href="(.*?)".*?title="(.*?)"]]></expres>
+<page>https://www.documaniatv.com/search.php?keywords=animales+salvajes</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+ 
+<regex>
+<name>link</name>
+<expres>file:\s\"(.*?)"</expres>
+<page>https://cnubis.com/plugins/mediaplayer/embeder/_embed3.php?u=$doregex[id2]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<referer>[makelist.param1]</referer>
+</regex>
+ 
+<regex>
+<name>id2</name>
+<expres>embed3\.php\?u=(.*?)"</expres>
+<page>[makelist.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<referer>[makelist.param1]</referer>
+</regex>
+<thumbnail>https://www.documaniatv.com/uploads/xcustom-logo.png.pagespeed.ic.K4J_r8TUgr.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/8knT8bc2hGw/maxresdefault.jpg</fanart>
+</item>
