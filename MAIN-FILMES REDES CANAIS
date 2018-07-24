@@ -16,7 +16,7 @@
 </regex><regex>
 <name>link2</name>
 <expres>src="(.*DUB.*?)" frameborder="</expres>
-<page>https://filmesonline.online/video-2/9538/#TheVid</page>
+<page>https://filmesonline.online/video-2/9538/#TheVid/</page>
 </regex>
 </item>
 
