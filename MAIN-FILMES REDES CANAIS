@@ -1,4 +1,17 @@
 <item>
+<title>[COLOR white]VINGANCA CRIS - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Com�dia</genre>
+<info>Três homens casados e ricos fazem anualmente uma espécie de caçada no deserto. Desta vez, um dos empresários decide trazer sua amante (Matilda Lutz). Quando ela é abandonada para morrer devido a uma série de acontecimentos, eles terão que lidar consequências de uma mulher que busca vingança.</info>
+<fanart>https://www.videoperola.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/e/s/estojo_dvd_vingan_a.jpg</fanart>
+<thumbnail>https://media.fstatic.com/3VARsKNH_WnIrrjWaJUxNE1y_ms=/fit-in/210x312/smart/media/movies/covers/2018/02/1080x1620_1518804499.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR white]A Garota Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>
