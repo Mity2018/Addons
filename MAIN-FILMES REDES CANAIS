@@ -1,6 +1,6 @@
 <item>
-<title>[COLOR silver] THOR CRIS[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
-<link>$doregex[filme]|Referer=https://filmesonline.online/</link>
+<title>[COLOR silver] O AVISO CRIS[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+<link>$doregex[filme]|Referer=https://hdfilmes.online/</link>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/07/1010103.jpg-r_1280_720-f_jpg-q_x-xxyxx-120x170.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/7eTWQb475pM9H3NEOiUzGYASEx0.jpg</fanart>
 <info></info>
@@ -16,7 +16,7 @@
 </regex><regex>
 <name>link2</name>
 <expres>src="(.*DUB.*?)" frameborder="</expres>
-<page>https://filmesonline.online/video-2/9538/#TheVid/</page>
+<page>https://hdfilmes.online/filmes-2018/1023-o-aviso.html</page>
 </regex>
 </item>
 
