@@ -180,3 +180,51 @@
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/PELIS%20POR%20AUTOR</externallink>
 </item>
+
+<iem>
+<title>[B]ESTRENOS LATINOS     [/B]</title>
+
+
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>$pyFunction:'[makelist.param1]'.replace("_", " ").replace("+", " ")</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/$doregex[imagen]</fanart>
+]]></listrepeat>
+<expres><![CDATA[Estrenos:"(.*?)" url:"(.*?)" server:"(.*?)"]]></expres>
+<page>https://raw.githubusercontent.com/blackghostaddon/gray/master/estrenoslatinos.txt</page>
+</regex>
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param2]'
+   try:
+     u = urlresolver.resolve(url)
+   except:
+     u = 'http://adryanlist.org/error.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path":"\\\/(.*?)"]]></expres>
+<page>https://api.themoviedb.org/3/search/movie?api_key=a958401b483306f9eafdc89cb7d26e7a&amp;language=es&amp;query=$doregex[titulo]</page>
+</regex>
+<regex>
+<name>titulo</name>
+<expres>$pyFunction:'[makelist.param1]'.replace("_", "+")</expres>
+<page></page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail>
+</item>
+
