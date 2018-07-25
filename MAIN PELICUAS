@@ -330,3 +330,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail>
 </item>
+
+<item>
+        <title>[COLOR orange]PELICULAS HDFULL 2018  [/COLOR]             </title>
+        <link>http://Ignoreme</link>
+        <externallink>https://dl.dropbox.com/s/u9oaev8rr999y6c/Peliculas%20HDFULL.html?dl=0</externallink>
+        <thumbnail>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</thumbnail>
+        <fanart>http://www.cocoua.es/iamgenes/com.mobincube.android.sc_3ERJ3E.png</fanart>
+</item>
