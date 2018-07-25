@@ -187,3 +187,23 @@
 </includeheaders>
 </regex>
 </item>
+
+<item>
+<title>????????PONER AQUI EL TITULO????????</title>
+<link>$doregex[makelist0]</link>
+ 
+ 
+<regex>
+<name>makelist0</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
+<link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
+<page>http://dl2.mihanpix.com/Film/1900-99/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>====>PONER AQUI ICON DE LA PELICULA</thumbnail>
+<fanart>====>PONER AQUI BACKGROUND DE LA PELICULA</fanart>
+</item>
