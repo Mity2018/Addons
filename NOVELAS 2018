@@ -189,7 +189,7 @@
 </item>
 
 <item>
-<title>????????PONER AQUI EL TITULO????????</title>
+<title>PONER AQUI EL TITULO????????</title>
 <link>$doregex[makelist0]</link>
  
  
@@ -200,7 +200,7 @@
 <link>http://www.tusnovelas.net/[makelist0.param1]</link>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/la-piloto</page>
+<page>http://www.tusnovelas.net/ver-telenovela/la-piloto/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
