@@ -251,152 +251,43 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>Gnula ordenadas Alfabeticamente</title>
-<link>$doregex[makelist4]</link>
-
-
-
-<regex>
-<name>makelist4</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] Letra [makelist4.param2] [/COLOR] </title>
-<link>$doregex[makelist3]</link>
-]]></listrepeat>
-<expres>href="/lista-de-series/(.*?)">(.*?)<</expres>
-<page>http://gnula.se/lista-de-series/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] [makelist3.param2] [/COLOR] </title>
-<link>$doregex[makelist2]</link>
-]]></listrepeat>
-<expres>capitulos/(.*?)" title="(.*?)"</expres>
-<page>http://gnula.se/lista-de-series/[makelist4.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] [makelist2.param3] [makelist2.param2][/COLOR] </title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,9}>(.*?)<[\w\W\s]{0,9}-(.*?)<</expres>
-<page>http://gnula.se/capitulos/[makelist3.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<!-- href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,3}strong>(.*?)<[\w\W\s]{0,7}> - (.*?)< -->
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<title>[makelist2.param3] [makelist2.param2] - [COLOR lightblue]Idioma:[makelist.param2][/COLOR]</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file: "(.*?)",</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-
-]]></listrepeat>
-
-<expres>href="http://streamin.to/(.*?)"[\w\W\s]{0,400}lng/(.*?).png</expres>
-<page>http://gnula.se/capitulo/[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-</item>
-
-
-
-
-
-
-
-
 
 <item>
-<title>Gnula series Mas Vistas</title>
-<link>$doregex[makelist4]</link>
-
-
-
-<regex>
-<name>makelist4</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightblue] [makelist4.param2] [/COLOR] </title>
-<link>$doregex[makelist2]</link>
-<thumbnail>[makelist2.param3]</thumbnail>
-]]></listrepeat>
-<expres>capitulos/(.*?)" title="(.*?)".*src="(http://gnula.se/img/.*?)"</expres>
-<page>http://gnula.se/series-mas-vistas/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-
-
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] [makelist2.param3] [makelist2.param2][/COLOR] </title>
-<link>$doregex[makelist]</link>
-]]></listrepeat>
-<expres>href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,9}>(.*?)<[\w\W\s]{0,9}-(.*?)<</expres>
-<page>http://gnula.se/capitulos/[makelist4.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<!-- href="http://gnula.se/capitulo/(.*?)"[\w\W\s]{0,3}strong>(.*?)<[\w\W\s]{0,7}> - (.*?)< -->
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<title>[makelist2.param3] [makelist2.param2] - [COLOR lightblue]Idioma:[makelist.param2][/COLOR]</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>file: "(.*?)",</expres>
-<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	 
-<referer>http://streamin.to</referer>
-</regex>
-
-
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-
-]]></listrepeat>
-
-<expres>href="http://streamin.to/(.*?)"[\w\W\s]{0,400}lng/(.*?).png</expres>
-<page>http://gnula.se/capitulo/[makelist2.param1]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
+    <title>[COLOR cyan] YOUTUBE:ye garaveli yaz  yeni adresi ekle[/COLOR]</title>
+        <link>$doregex[makelist1]</link>
+        <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
+        <fanart>http://imgh.us/bg_iptv.png</fanart>
+    <regex>
+        <name>makelist1</name>
+        <listrepeat><![CDATA[
+       <title>[COLOR cyan][makelist1.param2][/COLOR]</title>
+       <link>$doregex[makelist2]</link>
+       <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
+       ]]></listrepeat>
+        <expres><![CDATA[<option value="(https:\/\/www\.kumandatv\.com\/kategori\/.*?)">(.*?)<]]></expres>
+        <page>https://www.kumandatv.com/</page>
+    </regex>
+    <regex>
+        <name>makelist2</name>
+        <listrepeat><![CDATA[
+       <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+       <link>$doregex[get-link]|User-agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</link>
+       <thumbnail>[makelist2.param1]</thumbnail>
+       ]]></listrepeat>
+        <expres><![CDATA[> <img src="(.*?)" alt="(.*?)"[\s\S]*?href="(.*?)"]]></expres>
+        <page>[makelist1.param1]</page>
+    </regex>
+    <regex>
+        <name>get-page</name>
+        <expres><![CDATA[<iframe width="100%" height="100%" src="(.*?)"]]></expres>
+        <page>[makelist2.param3]</page>
+        <referer>[makelist1.param1]</referer>
+    </regex>
+    <regex>
+        <name>get-link</name>
+        <expres>file: '(.*?)'</expres>
+        <page>$doregex[get-page]</page>
+        <referer>[makelist2.param3]</referer>
+    </regex>
 </item>
-
-
 
