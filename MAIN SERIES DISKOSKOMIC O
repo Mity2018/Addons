@@ -198,14 +198,15 @@
 </item>
 
 <item>
-<title>[COLOR oldlace][B]TNT HD[/B][/COLOR]</title>
+<title>[COLOR oldlace][B]NAT GEO[/B][/COLOR]</title>
 <link>$doregex[url]|User-Agent=iPad</link>
 <regex>
 <name>url</name>
 <expres>url=(.*?)"</expres>
-<page>http://embed.latino-webtv.com/TNT-HD.html</page>
-<referer>http://latino-webtv.com/TNT-HD-en-vivo/</referer>
+<page>http://embed.latino-webtv.com/natgeo.html</page>
+<referer>http://latino-webtv.com/Nat-Geo-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
 </item>
+
 
