@@ -198,15 +198,58 @@
 </item>
 
 <item>
-<title>[COLOR oldlace][B]NAT GEO[/B][/COLOR]</title>
-<link>$doregex[url]|User-Agent=iPad</link>
+<title>[B][COLOR silver]SERIES[/COLOR] [/B]</title>
+<link>$doregex[makelist2]</link>
+
+
 <regex>
-<name>url</name>
-<expres>url=(.*?)"</expres>
-<page>http://embed.latino-webtv.com/natgeo.html</page>
-<referer>http://latino-webtv.com/Nat-Geo-en-vivo/</referer>
-<agent>iPad</agent>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+  <SetViewMode>55</SetViewMode>
+        <title>[B][makelist2.param1][/B]</title>
+<link>$doregex[makelist]</link>
+		<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>Name:"(.*?)" url:"(.*?)" img:"(.*?)"; server:"(.*?)"</expres>
+<page>http://legionworldtv.com/master/movies/diskoserver.txt</page>
+<cookieJar></cookieJar>
 </regex>
+
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[B]$pyFunction:('[makelist.param3]').replace('Espa&#241;ol','')[/B]</title>
+        <link>$doregex[getUrl]</link>
+				<thumbnail>[makelist2.param3]</thumbnail>
+	<fanart>[makelist2.param3]</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>[makelist2.param2]/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>[makelist2.param4]/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>[makelist2.param4]/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>[makelist2.param4]/[makelist.param2]</page>
+<referer>[makelist2.param4]/adryanlist/fileuploader-67183/list,4,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
 </item>
+
 
 
