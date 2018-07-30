@@ -480,7 +480,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title> test CRIS </title>
+<title> test CRIS 2</title>
 <link>$doregex[makelist4]</link>
 
 
@@ -492,7 +492,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <link>$doregex[makelist]</link>
 		<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
         ]]></listrepeat>
-<expres>class="name" href="/Maruxa/(.*?)">(.*?)<</expres>
+<expres>class="name" href="/naredo/(.*?)">(.*?)<</expres>
 <page>http://diskokosmiko.mx/naredo</page>
 </regex>
 
@@ -506,7 +506,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <thumbnail>/thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo[makelist4.param1]/list,1,20</page>
+<page>http://diskokosmiko.mx/naredo/[makelist4.param1]/list,1,20</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -550,6 +550,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
 </item>
-
-
-
