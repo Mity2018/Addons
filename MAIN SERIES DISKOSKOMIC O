@@ -350,7 +350,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
 </item>
 
-<tem>
+<item>
 <title>[B]SeriesPlus[/B] Generos-OpenLoad </title>
 <link>$doregex[makelist]</link>
 <regex>
