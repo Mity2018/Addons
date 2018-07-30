@@ -411,4 +411,73 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[B]SeriesDanko[/B]  Ultimas Actualizaciones </title>
+<link>$doregex[makelist4]</link>
+
+<regex>
+<name>makelist4</name>
+<listrepeat><![CDATA[
+<title>[makelist4.param1]</title>
+<link>$doregex[makelist3]</link>
+]]></listrepeat>
+<expres><![CDATA[title>(.*?)<.*?\n.*?link>(.*?)<]]></expres>
+<page>http://seriesdanko.to/feed200.php</page>
+</regex>
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title> [makelist3.param2]  </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[br><br><a href=\'(.*?)\'>(.*?)<]]></expres>
+<page>[makelist4.param2]</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> Idioma:[makelist2.param1] [[makelist2.param2]] [I] Calidad[makelist2.param4] [/I] </title>
+<link>$doregex[id3]</link>
+]]></listrepeat>
+<expres><![CDATA[banderas\/(.*?)\.png.*?servidores\/(.*?)\..*?href='(.*?)\&.*?tam12\'(.*?)\<]]></expres>
+<page>http://seriesdanko.to/[makelist3.param1]</page>
+</regex>
+
+
+
+
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '$doregex[id2]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://blackaddon.rf.gd/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+
+ <regex>
+<name>id2</name>
+<expres><![CDATA[a\shref="(http.*?)"]]></expres>
+<page>http://seriesdanko.to/[makelist2.param3]</page>
+</regex>
+
+
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
+</item>
+
+
 
