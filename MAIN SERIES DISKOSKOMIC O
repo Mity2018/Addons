@@ -252,44 +252,7 @@
 </item>
 
 
-<item>
-    <title>[COLOR cyan] YOUTUBE:ye garaveli yaz  yeni adresi ekle[/COLOR]</title>
-        <link>$doregex[makelist1]</link>
-        <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
-        <fanart>http://imgh.us/bg_iptv.png</fanart>
-    <regex>
-        <name>makelist1</name>
-        <listrepeat><![CDATA[
-       <title>[COLOR cyan][makelist1.param2][/COLOR]</title>
-       <link>$doregex[makelist2]</link>
-       <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
-       ]]></listrepeat>
-        <expres><![CDATA[<option value="(https:\/\/www\.kumandatv\.com\/kategori\/.*?)">(.*?)<]]></expres>
-        <page>https://www.kumandatv.com/</page>
-    </regex>
-    <regex>
-        <name>makelist2</name>
-        <listrepeat><![CDATA[
-       <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
-       <link>$doregex[get-link]|User-agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</link>
-       <thumbnail>[makelist2.param1]</thumbnail>
-       ]]></listrepeat>
-        <expres><![CDATA[> <img src="(.*?)" alt="(.*?)"[\s\S]*?href="(.*?)"]]></expres>
-        <page>[makelist1.param1]</page>
-    </regex>
-    <regex>
-        <name>get-page</name>
-        <expres><![CDATA[<iframe width="100%" height="100%" src="(.*?)"]]></expres>
-        <page>[makelist2.param3]</page>
-        <referer>[makelist1.param1]</referer>
-    </regex>
-    <regex>
-        <name>get-link</name>
-        <expres>file: '(.*?)'</expres>
-        <page>$doregex[get-page]</page>
-        <referer>[makelist2.param3]</referer>
-    </regex>
-</item>
+
 
 <item>
 <title>[COLOR red]* [/COLOR][B][COLOR blue]Sala 1[/COLOR][COLOR white] Serie Tras la Huella[/COLOR][/B]</title>
@@ -306,23 +269,5 @@
 </regex>
 </item>
 
-<item>
-<title>Angry.Birds.2016.720p CRIS PRUEBA</title>
-<link>$doregex[makelist0]</link>
- 
- 
-<regex>
-<name>makelist0</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
-<link>http://dl2.mihanpix.com/Film/2016/[makelist0.param1]</link>
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://dl20.mihanpix.com/94/95/5/Angry.Birds.2016.720p.Tehmovies.org.mkv</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>====>PONER AQUI ICON DE LA PELICULA</thumbnail>
-<fanart>====>PONER AQUI BACKGROUND DE LA PELICULA</fanart>
-</item>
+
 
