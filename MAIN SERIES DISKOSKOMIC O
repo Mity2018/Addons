@@ -350,5 +350,65 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
 </item>
 
+<tem>
+<title>[B]SeriesPlus[/B] Generos-OpenLoad </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] </title>
+<link>$doregex[makelist2]</link>
+
+]]></listrepeat>
+<expres><![CDATA[class="s-movie">\s+<a href="(.*?)".*\n.\w.*\n.span>(.*?)<]]></expres>
+<page>http://www.pelisplus.tv/series/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param2] </title>
+<link>$doregex[makelist3]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[class="title title-serie">\n.a href="(.*?)" title="(.*?)"]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://www.pelisplus.tv/series/</referer>
+</regex>
+
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[makelist3.param1][makelist3.param2]     </title>
+<link>$doregex[makelist4]</link>  ( will use [makelist3.param3] )
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>(Temporada.*?)\n|season_play[\w\W\s]{0,18}span>(.*?)<[\w\W\s]{0,8}href="(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer>http://www.pelisplus.tv/series/</referer>
+</regex>
+
+
+
+
+<regex>
+   <name>makelist4</name>
+   <listrepeat><![CDATA[
+          <title>[makelist3.param1][makelist3.param2]  server:_[makelist4.param1]  </title>
+          <urlsolve>https://openload.co/embed/[makelist4.param1]</urlsolve>
+   ]]></listrepeat>
+   <expres><![CDATA[src='https://openload.co/embed\/(.*?)\/]]></expres>
+   <page>[makelist3.param3]</page>
+   <cookieJar></cookieJar>
+</regex>
+</item>
+
 
 
