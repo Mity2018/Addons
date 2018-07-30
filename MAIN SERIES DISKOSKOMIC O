@@ -550,3 +550,84 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
 </item>
+
+<iem>
+<title>[B]SERIES GNULA[/B] [-] </title>
+
+<link>$doregex[makelist0]</link>
+
+<regex>
+<name>makelist0</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[makelist0.param2]   </title>
+<link>$doregex[makelist1]</link>
+]]></listrepeat>
+<expres><![CDATA[href=\"\/(lista-de-series.*?)">(.*?)<]]></expres>
+<page>http://gnula.se/lista-de-series/</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[makelist1.param2]   </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[a\shref="(.*?)"\stitle="([makelist0.param2].*?)">(.*?)<]]></expres>
+<page>http://gnula.se/[makelist0.param1]</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[makelist2.param3]  [makelist2.param2]   </title>
+<link>$doregex[makelist3]</link>
+]]></listrepeat>
+<expres><![CDATA[blank\"\shref="(.*?)".*?strong>(.*?)<.*?rong>(.*?)<]]></expres>
+<page>http://gnula.se[makelist1.param1]</page>
+</regex>
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[makelist2.param3][makelist2.param2] | Idioma:[B][makelist3.param3][/B]  Server:[B][makelist3.param2][/B]</title>
+<link>$doregex[id3]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)"[\w\W\s]{0,230}domain=(gamovideo.*?|vidoza.*?|kingvid.*?|openload.*?|streamango.*?)"[\w\W\s]{0,230}img\/lng\/(.*?)\.png]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+
+
+
+
+
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = '$doregex[link]'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://blackaddon.rf.gd/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+
+
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart></item>
