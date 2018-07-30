@@ -291,3 +291,18 @@
     </regex>
 </item>
 
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]Sala 1[/COLOR][COLOR white] Serie Tras la Huella[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLUJsQQx5IHQVDsWegc6Xl5cDe_ovgXjE0</page>
+</regex>
+</item>
+
