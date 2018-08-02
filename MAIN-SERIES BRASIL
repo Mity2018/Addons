@@ -1,0 +1,14 @@
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]SERIES[/COLOR][COLOR white] Eu, a patroa e as Crianças[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://www.otvfoco.com.br/wp-content/uploads/2013/02/eu-a-patroa-e-as-crianc3a7as11.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLzgiudKkoJnl9URMe27pokxsiWVvUa3lF</page>
+</regex>
+</item>
