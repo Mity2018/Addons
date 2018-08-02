@@ -12,6 +12,7 @@
 <page>https://www.youtube.com/playlist?list=PLzgiudKkoJnl9URMe27pokxsiWVvUa3lF</page>
 </regex>
 </item>
+
 <item>
 <title>[COLOR red]* [/COLOR][B][COLOR blue]SERIES[/COLOR][COLOR white] Eu, a patroa e as Crianças TEM 2[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
@@ -24,5 +25,20 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/playlist?list=PLZCe7QMIY1NeGWmcajUQJ4vyZFCtVcuVT</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]CHAVES [/COLOR][COLOR white] HD 203[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>http://diretodacidade.com.br/wp-content/uploads/2017/02/turma-do-chaves-pintura.jpg/thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLFZqf3-fgYfvNKx_hAT8rRJAiZ55tSVLl</page>
 </regex>
 </item>
