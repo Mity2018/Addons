@@ -283,3 +283,18 @@
 <page>https://www.youtube.com/playlist?list=PLmO_zB3cV_dqabKvJkIQxvnZ1eDOfWDdK</page>
 </regex>
 </item>
+
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]Sala 2[/COLOR][COLOR white] 425 PELICULAS [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>PLBFB5BC4D625653D2</page>
+</regex>
+</item>
