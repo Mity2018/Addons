@@ -285,7 +285,7 @@
 </item>
 
 <item>
-<title>[COLOR red]* [/COLOR][B][COLOR blue]Sala 2[/COLOR][COLOR white] 425 PELICULAS [/COLOR][/B]</title>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]Sala 3[/COLOR][COLOR white] PELICULAS 425[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -295,6 +295,6 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>PLBFB5BC4D625653D2</page>
+<page>https://www.youtube.com/playlist?list=PLBFB5BC4D625653D2</page>
 </regex>
 </item>
