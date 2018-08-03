@@ -51,6 +51,73 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <!-- HISTORIA -->
+
+<item>
+<title>[B][COLOR orangered]D[/COLOR]W[COLOR dodgerblue] SPANISH[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page> https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA</page>
+</regex>  
+<thumbnail>http://legionworldtv.com/goldentv/images/1.png</thumbnail>
+<fanart>http://legionworldtv.com/goldentv/images/F2.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR orangered]CIENCIA[/COLOR] UNI[COLOR dodgerblue]VERSAL[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCqffGhR5RyG2uy2SptDhU7g</page>
+</regex>  
+<thumbnail>http://legionworldtv.com/goldentv/images/1.png</thumbnail>
+<fanart>http://legionworldtv.com/goldentv/images/F2.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR orangered]DOCU[/COLOR]MENTALES[COLOR dodgerblue]  HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCOo3Sc2sDbfXr7xE2t59xgg</page>
+</regex>  
+<thumbnail>http://legionworldtv.com/goldentv/images/1.png</thumbnail>
+<fanart>http://legionworldtv.com/goldentv/images/F2.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR orangered]CIENCIA[/COLOR] Y  [COLOR dodgerblue]  CULTURA[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[   
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCvU36pmdvpcp4H1mdR6RnGQ</page>
+</regex>  
+<thumbnail>http://legionworldtv.com/goldentv/images/1.png</thumbnail>
+<fanart>http://legionworldtv.com/goldentv/images/F2.jpg</fanart>
+</item>
  
 <item>
 <title> CANAL HISTORIA</title>
