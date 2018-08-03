@@ -325,3 +325,17 @@
 <info>Os estudantes Bernardo e Pedro têm dificuldades para cumprir todas as regras de uma escola que adota medidas politicamente corretas graças ao diretor Ademar. No banheiro do colégio, Pedro encontra um diário com dicas para instaurar o caos na escola sem ser notado.</info>
 <genre>Comédia</genre>
 </item>
+
+<item>
+<title>[COLOR white]Jogos Mortais 4 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DFRNCESMLHCS.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Ap�s a not�cia do assassinato do detetive Kerry, os agentes Strahm (Scott Paterson) e Perez (Athena Karkanis) chegam � delegacia de pol�cia, que est� vazia.Strahm e Perez s�o oficiais veteranos do FBI, sendo especialistas em tra�ar perfis psicol�gicos de criminosos.Eles ajudam o tamb�m veterano detetive Hoffman (Costas Mandylor) a examinar o mais recente jogo de Jigsaw (Tobin Bell).Por�m quando o comandante Rigg (Lyriq Bent), o �ltimo oficial ainda intocado por Jigsaw, � sequestrado, os detetives iniciam uma busca pela cidade � sua procura.Paralelamente Rigg precisa lidar com o jogo criado, tendo apenas 90 minutos para superar as armadilhas para ele criadas.</info>
+<fanart>http://br.web.img3.acsta.net/newsv7/17/03/03/16/29/164902.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/01/69b34b0a618d583361974257842a9f18.jpg</thumbnail>
+</item>
