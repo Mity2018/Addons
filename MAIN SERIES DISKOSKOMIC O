@@ -393,5 +393,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - https://pastebin.com/raw/168hXNVV [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 
 
