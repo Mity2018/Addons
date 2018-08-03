@@ -347,3 +347,20 @@
 <fanart>https://archive.org/download/2124589413516823582870271614685926O/21245894_1351682358287027_1614685926_o.jpg</fanart>
 <info>The story of humankind's last stand against a cataclysmic alien invasion. In the war-ravaged African countryside, a U.S. soldier and a French foreign aid worker team up to survive the alien onslaught. Their bond will be tested as they search for refuge across a crumbling world.</info>
 </item>
+
+</item>
+<item>
+    <title>Captain America 1990</title>
+    <meta>
+        <content>movie</content>
+        <imdb>tt0103923</imdb>
+        <title>Captain America</title>
+        <year>1990</year>
+    </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+    <thumbnail>https://image.tmdb.org/t/p/original/umO9ZJ63dNtT6Z5ZehNunGn884I.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/a1tNE5nsAMIMpBs0yrweIdzXymO.jpg</fanart>
+</item>
