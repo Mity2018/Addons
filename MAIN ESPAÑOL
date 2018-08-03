@@ -136,5 +136,13 @@
 </item> 
 
 </channel>
+
+<channel>
+  <name>KARAOKE</name>
+  <thumbnail>https://s26.postimg.org/5sqzqjqxx/icon.png</thumbnail>
+  <fanart>https://s26.postimg.org/i63txggmd/fanart.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/Compartida/Karaoke/master/adiosindex.xml</externallink>
+  <info>Autor: CRIS SANTANDER (Paraguay). Otros addons: GATOS</info>
+</channel>
   
  
