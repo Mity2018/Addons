@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://repelis.io/_images/posters/9kwPE6siC3dKogGCdMS5SVe/280x420.jpg" group-title=INFINITI | HD
+https://1fgqfu3.oloadcdn.net/dl/l/uuNcRn-_YmZAuGwT/JIp6WM6CJbc/tt4154756_66d99991-9502-11e8-926a-dbeba5c97274.mp4?mime=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
