@@ -593,5 +593,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
  </item>
+ 
+ <item>
+<title>[B]PELIS LOCURA[/B] Castellano </title>
+
+<link>$doregex[makelist2]</link>
+
+
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param2]   </title>
+<link>$doregex[makelist3]</link>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?escargar(.*?)gratis.*?src="(.*?)"]]></expres>
+<page>http://torrentlocura.com/peliculas/</page>
+</regex>
+
+
+
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param2]              server: [makelist3.param1]</title>
+<urlsolve>[makelist3.param1]</urlsolve>
+<thumbnail>[makelist2.param2]</thumbnail>
+<fanart>[makelist2.param2]</fanart>
+]]></listrepeat>
+<expres><![CDATA[a\shref='(https:\/\/upto.*?|https:\/\/open.*?|https:\/\/powvideo)'\srel]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+</item>
 
 
