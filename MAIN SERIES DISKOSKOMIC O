@@ -443,34 +443,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - https://pastebin.com/raw/168hXNVV [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
+
 
 <item>
 <title>HOTEL TRANSILVÂNIA CRIS: FÉRIAS MONSTRUOSAS</title>
 <link>http://tcdn.micetop.us/httpdelivery/sex/antigos/nc/L/EXTIN%C3%87%C3%83OHDDUB.mp4|Referer=http://www.thenightfilmes.net/</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/////6iVf9DkIUQA8do5ztnQjR0DbAzQ.jpg</thumbnail>
-<fanart>http://image.tmdb.org/t/p/w185/////6iVf9DkIUQA8do5ztnQjR0DbAzQ.jpg</fanart>
-<info>RECÉM-CHEGADOS EM PARIS, OS AMERICANOS ANNE (TONI COLLETTE) E BOB (HARVEY KEITEL) ORGANIZAM UM LUXUOSO JANTAR PARA 12 PESSOAS. QUANDO UMA PRESENÇA INESPERADA FAZ O NÚMERO VIRAR 13, A SUPERSTICIOSA ANFITRIÃ SE RECUSA A DAR CHANCE AO AZAR E TRANSFORMA A EMPREGADA MARIA (ROSSY DE PALMA) EM CONVIDADA ESPECIAL ESPANHOLA. INICIALMENTE RECEOSA, ELA ACABA CONQUISTANDO UM COMERCIANTE DE ARTE BRITÂNICO COM SEU JEITO ÚNICO E O RELACIONAMENTO SE APROFUNDA PARA ALÉM DA NOITE DE FESTA, PARA DESESPER</info>
-</item>
-
-<item>
-<title>PRUEBA SOLO CRIS</title>
-<link>http://pelismart.com/los-extranos-caceria-nocturna/|Referer=http://pelismart.com/</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/////6iVf9DkIUQA8do5ztnQjR0DbAzQ.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w185/////6iVf9DkIUQA8do5ztnQjR0DbAzQ.jpg</fanart>
 <info>RECÉM-CHEGADOS EM PARIS, OS AMERICANOS ANNE (TONI COLLETTE) E BOB (HARVEY KEITEL) ORGANIZAM UM LUXUOSO JANTAR PARA 12 PESSOAS. QUANDO UMA PRESENÇA INESPERADA FAZ O NÚMERO VIRAR 13, A SUPERSTICIOSA ANFITRIÃ SE RECUSA A DAR CHANCE AO AZAR E TRANSFORMA A EMPREGADA MARIA (ROSSY DE PALMA) EM CONVIDADA ESPECIAL ESPANHOLA. INICIALMENTE RECEOSA, ELA ACABA CONQUISTANDO UM COMERCIANTE DE ARTE BRITÂNICO COM SEU JEITO ÚNICO E O RELACIONAMENTO SE APROFUNDA PARA ALÉM DA NOITE DE FESTA, PARA DESESPER</info>
@@ -492,13 +469,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>RECÉM-CHEGADOS EM PARIS, OS AMERICANOS ANNE (TONI COLLETTE) E BOB (HARVEY KEITEL) ORGANIZAM UM LUXUOSO JANTAR PARA 12 PESSOAS. QUANDO UMA PRESENÇA INESPERADA FAZ O NÚMERO VIRAR 13, A SUPERSTICIOSA ANFITRIÃ SE RECUSA A DAR CHANCE AO AZAR E TRANSFORMA A EMPREGADA MARIA (ROSSY DE PALMA) EM CONVIDADA ESPECIAL ESPANHOLA. INICIALMENTE RECEOSA, ELA ACABA CONQUISTANDO UM COMERCIANTE DE ARTE BRITÂNICO COM SEU JEITO ÚNICO E O RELACIONAMENTO SE APROFUNDA PARA ALÉM DA NOITE DE FESTA, PARA DESESPER</info>
 </item>
 
-<item>
-<title>Overdrive (2017) HD</title>
-<link>http://uptobox.com/1kvsq7fx1kgy</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDExMTAzYmEtZjMwOC00MjIxLTkyNjMtOTZjOWIwMTI0YTc0XkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-<fanart>https://archive.org/download/2124589413516823582870271614685926O/21245894_1351682358287027_1614685926_o.jpg</fanart>
-<info>Two car thief brothers, who journey to the south of France for new opportunities, wind up in the cross hairs of the local crime boss.</info>
-</item>
+
 
 <item>
 <title>Peppa Pig: My First Cinema Experience (2017)</title>
