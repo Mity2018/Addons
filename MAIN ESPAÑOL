@@ -11,6 +11,17 @@
    <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN%20PELICUAS</externallink>
 </channel>
   </channels>
+  
+  <channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* PELICULAS 2 2018 *[/COLOR]</name>
+  <thumbnail>https://prod.media.larepublica.pe/970x647/larepublica/imagen/2018/08/09/noticia-netflix-marvel.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/pyt_vod.xml</externallink>
+</channel>
+  </channels>
  
  
 <channels>
