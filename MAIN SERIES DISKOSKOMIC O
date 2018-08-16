@@ -149,6 +149,56 @@
 <thumbnail>https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjD08zI6urcAhXEfpAKHZhsAv8QjRx6BAgBEAU&url=https%3A%2F%2Ffoxtelecolombia.com%2Fcatalogo%2Fcatalogo-scripted%2Falias-el-mexicano%2F&psig=AOvVaw3Md9uKpHEDzgMtUYEFnfWj&ust=1534277321068383</thumbnail>
   </item>
   
+  <item> 
+<title>[B][COLOR yellow]La Reina [/COLOR][COLOR white] DEL[/COLOR][COLOR dodgerblue] SUR [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZWU2YmE1YTAtMWQ1Ni00Njg1LTk5MDktZGVkYjc0NjBmOTgzXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/titotv/la-reina-del-sur-parte-1-2807/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/titotv/la-reina-del-sur-parte-1-2807/list,1,2</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWU2YmE1YTAtMWQ1Ni00Njg1LTk5MDktZGVkYjc0NjBmOTgzXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_.jpg</thumbnail>
+  </item>
+  
  <item>
 <title>[COLOR white]3%[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/RaspberryPiLibreelec/Addon/master/series/3%.xml</externallink>
