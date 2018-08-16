@@ -67,6 +67,56 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
+<item> 
+<title>[B][COLOR yellow]DOCUMENTALES [/COLOR][COLOR white] VARIOS [/COLOR][COLOR dodgerblue] 2018 [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://3.bp.blogspot.com/-wPsPwNrHAfY/TZXmVNRKk7I/AAAAAAAAQPo/G4Q5B65veI0/s1600/Panel-6-Solar-System.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/frankiepentangelli/documentales-91386/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/frankiepentangelli/documentales-91386/list,1,7</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://3.bp.blogspot.com/-wPsPwNrHAfY/TZXmVNRKk7I/AAAAAAAAQPo/G4Q5B65veI0/s1600/Panel-6-Solar-System.jpg</thumbnail>
+  </item>
+
 <item>
 <title>[COLOR red]* [/COLOR][B][COLOR blue]DOCUMENTALES[/COLOR][COLOR white] EN HD 2017[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
