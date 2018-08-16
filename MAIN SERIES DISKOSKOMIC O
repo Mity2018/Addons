@@ -150,7 +150,7 @@
   </item>
   
   <item> 
-<title>[B][COLOR yellow]La Reina [/COLOR][COLOR white] DEL[/COLOR][COLOR dodgerblue] SUR [/COLOR][/B]</title>
+<title>[B][COLOR yellow]La Reina [/COLOR][COLOR white] DEL[/COLOR][COLOR dodgerblue] SUR PRIMERA TEMPORADA [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
