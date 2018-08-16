@@ -199,6 +199,56 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZWU2YmE1YTAtMWQ1Ni00Njg1LTk5MDktZGVkYjc0NjBmOTgzXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_.jpg</thumbnail>
   </item>
   
+  <item> 
+<title>[B][COLOR yellow]La Reina [/COLOR][COLOR white] DEL[/COLOR][COLOR dodgerblue] SUR SEGUNDA TEMPORADA[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://2.bp.blogspot.com/-uLgumQC9bYI/U2p8xmVG32I/AAAAAAAAEKk/IjUe4ymxatY/s1600/REINA+2+FOTO.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/titotv/la-reina-del-sur-parte-2-2806/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/titotv/la-reina-del-sur-parte-2-2806/list,1,2</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-uLgumQC9bYI/U2p8xmVG32I/AAAAAAAAEKk/IjUe4ymxatY/s1600/REINA+2+FOTO.jpg</thumbnail>
+  </item>
+  
  <item>
 <title>[COLOR white]3%[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/RaspberryPiLibreelec/Addon/master/series/3%.xml</externallink>
