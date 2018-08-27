@@ -1,3 +1,25 @@
+<item>
+<title>[COLOR blue]• [/COLOR][COLOR=white][B]NICK janjua[/B][/COLOR][COLOR yellow]Espera 10 segundos a que cargue[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.janjuaplayer.com</referer>
+</regex>
+<regex>
+<name>canal</name>
+<expres>channel='(.*?)'</expres>
+<page>http://tvpor-internet.com/nickelodeon-en-vivo.html</page>
+</regex>
+</item>		
+
 <item> 
 <title>[B][COLOR yellow]LUIS[/COLOR][COLOR white] MIGUEL [/COLOR][COLOR dodgerblue]LA SERIE 2018[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
