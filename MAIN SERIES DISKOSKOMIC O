@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime] •[/COLOR][COLOR red] El Señor de los Cielos-6 [/COLOR]</title>
+<title>[COLOR lime] •[/COLOR][COLOR red] Enamorandome de Ramon [/COLOR]</title>
 <thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
@@ -10,7 +10,7 @@
 <thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/el-senor-de-los-cielos-6</page>
+<page>http://www.tusnovelas.net/ver-telenovela/enamorandome-de-ramon</page>
 <cookieJar></cookieJar>
 </regex>
 
@@ -31,7 +31,7 @@
 <connection>keep-alive</connection>
 </includeheaders>
 </regex>
-</item>
+</item
 
 
 <item>
