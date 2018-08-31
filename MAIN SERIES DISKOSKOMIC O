@@ -1,80 +1,55 @@
-<item>
-<title>[COLOR lime] •[/COLOR][COLOR red] Enamorandome de Ramon [/COLOR]</title>
-<thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
+<item> 
+<title>[B][COLOR yellow]EL CHAPO [/COLOR][COLOR white] GUSMAN [/COLOR][COLOR dodgerblue] TEMPORADA 3 [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][makelist.param2][/COLOR]</title>
-<link>$doregex[getMP4]</link>
-<thumbnail>http://oi68.tinypic.com/fnrak4.jpg</thumbnail>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://cdn.shopify.com/s/files/1/2604/9744/products/2ClXk4PoOGmkk676y4q6T26GJOb_580x.jpg?v=1532532315</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/enamorandome-de-ramon</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/carryz/el-chapo-3-t-119048</page>
 <cookieJar></cookieJar>
 </regex>
-
 <regex>
-<name>getLink</name>
-<expres><![CDATA[iframe src="(.*?gamo.*?)"]]></expres>
-<page>http://www.tusnovelas.net[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
 <cookieJar></cookieJar>
 </regex>
-
 <regex>
-<name>getMP4</name>
-<expres><![CDATA[file: "(.*?)".*\s.*\s.*tracks]]></expres>
-<page>$doregex[getLink]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<cookieJar></cookieJar>
-<connection>keep-alive</connection>
-</includeheaders>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/carryz/el-chapo-3-t-119048</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
 </regex>
-</item
-
-
-<item>
-<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]Estrenos hdfulltv [/B] [/COLOR] </title>
-<link>$doregex[makelist2]</link>
-
 <regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[COLOR skyblue] [makelist2.param3][/COLOR] </title>
-<link>$doregex[makelist]</link>
-<thumbnail>[makelist2.param2]</thumbnail>
-<fanart>[makelist2.param2]</fanart>
-]]></listrepeat>
-<expres>href="http://hdfull.tv/pelicula/(.*?)"[\w\W\s]{0,71}spec-border[\w\W\s]{0,5}src="(.*?)"[\w\W\s]{0,2}alt="(.*?)"</expres>
-<page>http://hdfull.tv/peliculas-estreno</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>  
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<title>[COLOR lightblue][makelist2.param3] [/COLOR] [COLOR lightslategray] [/COLOR]</title>
-<link>$doregex[id]</link>
- <regex>
- <name>id</name>
- <expres>file: "(.*?)",</expres>
- <page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>	
- <referer>http://streamin.to</referer>
- </regex>
-<thumbnail>[makelist2.param2]</thumbnail>
-<fanart>[makelist2.param2]</fanart>
-
-]]></listrepeat>
-
-<expres>http://streamin.to/embed-(.*?)-</expres>
-<page>http://hdfull.tv/pelicula/[makelist2.param1]</page>
-<referer></referer>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
 <cookieJar></cookieJar>
 </regex>
-</item>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.shopify.com/s/files/1/2604/9744/products/2ClXk4PoOGmkk676y4q6T26GJOb_580x.jpg?v=1532532315</thumbnail>
+  </item>
+
+
+
 
 <item> 
 <title>[B][COLOR yellow]LUIS[/COLOR][COLOR white] MIGUEL [/COLOR][COLOR dodgerblue]LA SERIE 2018[/COLOR][/B]</title>
