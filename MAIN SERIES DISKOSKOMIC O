@@ -9,7 +9,7 @@
         <thumbnail>https://cdn.shopify.com/s/files/1/2604/9744/products/2ClXk4PoOGmkk676y4q6T26GJOb_580x.jpg?v=1532532315</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/carryz/el-chapo-3-t-119048</page>
+<page>http://diskokosmiko.mx/rodre/el-chapo-temp-3-119990</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -27,7 +27,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/carryz/el-chapo-3-t-119048</referer>
+<referer>http://diskokosmiko.mx/rodre/el-chapo-temp-3-119990</referer>
 <cookieJar>$doregex[cookie]</cookieJar>
 </regex>
 <regex>
