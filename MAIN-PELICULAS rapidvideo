@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[B]BASSFOX[/B]  Audio Latino</title>
+<title>[B]http://cuevana2espanol[/B]  Audio Latino</title>
  <link>$doregex[makelist2]</link>
  
    <regex>
@@ -55,7 +55,7 @@
   <thumbnail>[makelist2.param1]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[poster[\w\W\s]{0,15}src="(.*?)" alt="(.*?)"[\w\W\s]{0,150}href="(.*?)"[\w\W\s]{0,550}texto">(.*?)<]]></expres>
-<page>http://bassfox.org/movies/</page>
+<page>http://cuevana2espanol.com/</page>
 </regex>	
 		
   <regex>
