@@ -811,3 +811,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>FREDDIE MERCURY (RAMI MALEK) E SEUS COMPANHEIROS, BRIAN MAY, ROGER TAYLOR E JOHN DEACON MUDAM O MUNDO DA MÚSICA PARA SEMPRE AO FORMAR A BANDA QUEEN DURANTE A DÉCADA DE 1970. PORÉM, QUANDO O ESTILO DE VIDA EXTRAVAGANTE DE MERCURY COMEÇA A SAIR DO CONTROLE, A BANDA TEM QUE ENFRENTAR O DESAFIO DE CONCILIAR A FAMA E O SUCESSO COM SUAS VIDAS PESSOAIS CADA VEZ MAIS COMPLICADAS.</info>
 </item>
 
+<item>
+<title>[COLOR white]Vingan?a (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>A??o e Terror</genre>
+<info>Tr?s homens casados e ricos fazem anualmente uma esp?cie de ca?ada no deserto. Desta vez, um dos empres?rios decide trazer sua amante (Matilda Lutz). Quando ela ? abandonada para morrer devido a uma s?rie de acontecimentos, eles ter?o que lidar consequ?ncias de uma mulher que busca vingan?a.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_ZgFb_0_F7Pn0pIteNxYc4Rmyqbko-Bjql8eRvEnsauPy-PC5MLI1Pz</fanart>
+<thumbnail>https://media.fstatic.com/GveOEv79nhDLnH9SDKh-suR0W48=/fit-in/210x312/smart/media/movies/covers/2018/04/31357997_1669089336514100_3665557632820707328_n.jpg</thumbnail>
+</item>
+
