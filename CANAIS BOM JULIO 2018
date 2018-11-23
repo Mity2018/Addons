@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xKWnV.png?1" group-title="INFORMAÇÕES DA LISTA"
+https://streamango.com/f/tpfasqrqbbbsccap/Sherlock_gnomes_2018_1080p-dual-lat-cinecalidad_to_mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xKWnV.png?1" group-title="INFORMAÇÕES DA LISTA"
+https://streamango.com/f/qdnkttqktmlcscao/The_humanity_bureau_2017_1080p-dual-lat-cinecalidad_to_mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xKWnV.png?1" group-title="INFORMAÇÕES DA LISTA"
+https://streamango.com/f/fsnbqsokfdmdtmmn/Acts_of_violence_2018_1080p-dual-lat-cinecalidad_to_mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xKWnV.png?1" group-title="INFORMAÇÕES DA LISTA"
+https://streamango.com/f/qbdtrqoktfnkqbnb/Love_simon_2018_1080p-dual-lat-cinecalidad_to_mp4
+
 #EXTINF:-1 tvg-id="CRIS IPTV 2018" tvg-logo="https://2.bp.blogspot.com/-3lCFD7dEd3Q/WzKlLX84M0I/AAAAAAAAAGo/aq7eUbffrpUKlWG7ste3OfW3ZlG03uU3gCLcBGAs/s400/TV%2BEN%2BVIVO.jpg" group-title="CANAIS BOM 2018", GLOBO SP
 https://dpmia01.gcdn.co/020/myStream/playlist.m3u8
 
