@@ -216,32 +216,7 @@ https://raw.githubusercontent.com/Mity2018/Addons/master/Filmes%20e%20Muito%20Ma
 
 <channels>
 
-<channel>
-<name>[COLOR gold][B]Clique aqui para suporte do addon.[COLOR blue] ||||| EM BREVE |||||[/B][/COLOR]</name>
-<externallink>http://</externallink>
-<thumbnail>https://images.tcdn.com.br/img/img_prod/440361/suporte_tecnico_548_1_20180112152240.jpg</thumbnail>
-<fanart>http://www.companytec.com.br/images/headers/suporte.jpg</fanart>
-<info>Em breve teremos várias dicas de suporte para nossos usuários, muitos exemplos de como tirar travamentos, configurar o kodi, repositórios e muito mais, tudo grátis! </info>
-</channel>
 
-
-
-
-<channel>
-<name>[COLOR lime][B]Clientes IPTV com acesso:[COLOR gold] TVbox [/B][/COLOR]</name>
-<externallink>/storage/emulated/0/Download/channel.txt</externallink>
-<thumbnail>https://http2.mlstatic.com/google-tv-box-android-mini-pcquad-corenetflixkodi-tv-D_NQ_NP_992425-MLB25902488083_082017-F.jpg</thumbnail>
-<fanart>http://u387434689.hostingerapp.com/dicas/fundo.jpg</fanart>
-<info>Clientes IPTV com acesso pelo kodi para Android, seja nosso cliente e tenha conteúdo exclusivo.</info>
-</channel>
-
-<channel>
-<name>[COLOR lime][B]Clientes IPTV com acesso:[COLOR gold] Computador[/B][/COLOR]</name>
-<externallink>C:\listaiptv\channel.txt</externallink>
-<thumbnail>https://sc01.alicdn.com/kf/HTB1CuH9ksrI8KJjy0Fhq6zfnpXab/205773033/HTB1CuH9ksrI8KJjy0Fhq6zfnpXab.jpg</thumbnail>
-<fanart>http://u387434689.hostingerapp.com/dicas/fundo.jpg</fanart>
-<info>Clientes IPTV com acesso pelo kodi para Windows, seja nosso cliente e tenha conteúdo exclusivo.</info>
-</channel> 
 <channel>
 <name>[COLOR lime][B]Canais genéricos[/B][/COLOR]</name>
 <externallink>http://bit.ly/2BG8RTD</externallink>
@@ -276,13 +251,7 @@ https://raw.githubusercontent.com/Mity2018/Addons/master/Filmes%20e%20Muito%20Ma
 <fanart>http://u387434689.hostingerapp.com/dicas/fundo.jpg</fanart>
 <info></info>
 </channel>
-<channel>
-<name>[COLOR gold][B]Torrent [COLOR blue] ||||| EM BREVE |||||[/B][/COLOR]</name>
-<externallink>http://</externallink>
-<thumbnail>http://u387434689.hostingerapp.com/dicas/torrent.jpg</thumbnail>
-<fanart>http://u387434689.hostingerapp.com/dicas/fundo.jpg</fanart>
-<info></info>
-</channel>
+
 
 <channel>
 <name>[COLOR gold][B]Mais de 1000 webcan's 24H[/B][/COLOR]</name>
