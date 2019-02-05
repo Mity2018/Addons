@@ -41,24 +41,6 @@
 </channel>
   </channels>
  
-<channel>
-<name>[COLOR cyan][COLOR  lime]•   [/COLOR] CANALES FILMES 18+ [/COLOR]</name>
-<thumbnail>http://www.talhouk.com/tv/Logos_2/Canal+_Cinema_HD.png</thumbnail>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com/raw/bvfFsv1t</externallink>
-</channel>
-  </channels>
- 
- 
- 
-<channel>
-<name>[COLOR cyan][COLOR  lime]•   [/COLOR] SERIES HD POR TEMPORADAS [/COLOR]</name>
-<thumbnail>http://i58.photobucket.com/albums/g261/Thiago_Martins_de_Souza/unnamed%205_zpsjpltujxz.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN-MEGA%20BOX</externallink>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<info>Tiago criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/MegaBoxtvKODI</info>
-</channel> 
  
  
 <channel>
@@ -191,51 +173,7 @@
 <thumbnail>http://jornalesp.com/wp-content/uploads/2012/04/canais-de-tv.jpg</thumbnail>
 </channel>
 
-/channels>
-
-<channel>
-<name>[COLOR cyan][COLOR  lime]• Lançamentos em [COLOR gold]HD[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/LANZAMENTO%20EN%20HD%20CRIS</externallink>
-<thumbnail>http://images.universohq.com//2018/01/Filmes2018_des.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<info>Filmes extraidos do Netcine</info>
-</channel>
-
-<channel>
-<name>[COLOR cyan][B]• Mais FILMES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIS%20LAZANMENTO%20CRIS</externallink>
-<thumbnail>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</thumbnail>
-<fanart>http://www.augerepresentacoes.com.br/uploaded_files/blog_imagem1_40.jpg</fanart>
-<info>Filmes em qualidade HD</info>
-</channel>
-
-
-<channel>
-<name>[COLOR cyan][B]• 3000 [COLOR lime][B]filmes por Anos[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/FILMES%20POR%20ANOS</externallink>
-<thumbnail>https://static.pelando.com.br/live/threads/thread_large/default/185618_1.jpg</thumbnail>
-<fanart>https://png.pngtree.com/element_origin_min_pic/17/08/13/2d887533e39de31411a69ae3f1b9e3cb.jpg</fanart>
-<info>Filmes em qualidade SD</info>
-</channel>
-
-
-<channel>
-<name>[COLOR cyan][B]• NOVO FILME 2018[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/NOVO%20FILMES%20CRIS</externallink>
-<thumbnail>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</thumbnail>
-<fanart>http://assets.papelpop.com/wp-content/uploads/2017/12/filmes-20181.jpg</fanart>
-<info>Filmes selecionados para voçe</info>
-</channel>
-
-<channel>
-<name>[COLOR cyan][B]• CANAIS NOVOS 2018[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/CANAIS%20BOM%20JULIO%202018</externallink>
-<thumbnail>https://2.bp.blogspot.com/-3lCFD7dEd3Q/WzKlLX84M0I/AAAAAAAAAGo/aq7eUbffrpUKlWG7ste3OfW3ZlG03uU3gCLcBGAs/s400/TV%2BEN%2BVIVO.jpg</thumbnail>
-<fanart>http://assets.papelpop.com/wp-content/uploads/2017/12/filmes-20181.jpg</fanart>
-<info>Filmes selecionados para voçe</info>
-</channel>
-
-
+ 
 <channel>
 <name>[COLOR cyan][B]• FILMES DO REDEIS 2018[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN-FILMES%20REDES%20CANAIS</externallink>
