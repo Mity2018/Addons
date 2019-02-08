@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:0,Aquaman
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/be/2018/12/12/aquaman-e-e-seu-traje-classico-no-filme-1544637527838_v2_1295x1920.png"CRIS Iptv",Aquaman
 https://pgli3g.oloadcdn.net/dl/l/uK6sG_upXiy1VDe6/jhl_zZgEpYY/%40QU%40M%40N.DUB.DVDRIP.mp4?mime=true
-#EXTINF:0,Bumblebee
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DuJp0KRX4AETRg7.jpg"CRIS Iptv",Bumblebee
 http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/BUMBLEBEEHDDUB.mp4
-#EXTINF:0,Venom
+#EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6301/6301612_sa.jpg;maxHeight=640;maxWidth=550"CRIS Iptv",Venom
 http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/VENOMHDDUB.mp4
-#EXTINF:0,Luis Miguel capitulo 01
-https://1fhjlk5.oloadcdn.net/dl/l/CKu2q3DMyNVJIP_k/8KoNYhFFDhc/Lvs+m1g1l3.1x01.720p+Lat.mkv.mp4?mime=true
-#EXTINF:0,Luis Miguel capitulo 01-01
-http://51.75.243.167:8777/l4ohoyydkiikkfn2md674pqzmy57bft3sq6tz2cxuje7ghum5syphsbohe/v.mp4
+#EXTINF:-1 tvg-logo="https://www.elseptimoarte.net/carteles/cadaver_73571.jpg"CRIS Iptv",Cadáver 
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/CADAVERHDCAMDUB.mp4
