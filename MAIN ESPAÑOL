@@ -42,28 +42,9 @@
 <link>http://ignoreme</link>
    <externallink>https://pastebin.com/raw/VrjHb7wE</externallink>
 </channel>
-  </channels>
-  
-  
-  <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* Luis Miguel La Serie 2018 *[/COLOR]</name>
-  <thumbnail>https://www.nacion.com/resizer/n0Exukp_0mXM-Oz_hK10hQIXOos=/600x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/HT4Z4AKQMBETRAIBNC2ZQP5J7I.jpg</thumbnail>
-<fanart>http://static.t13.cl/images/sizes/1200x675/1501972698-dragon-ball-2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/SERIE%20LUIS%20MIGUEL</externallink>
-</channel>
-  </channels>
-  
-  <channels>
+  </channels>  
 
-<channel>
-<name>[COLOR cyan][COLOR  lime]•   [/COLOR]* TV EN VIVO *[/COLOR]</name>
-<thumbnail>https://2.bp.blogspot.com/-3lCFD7dEd3Q/WzKlLX84M0I/AAAAAAAAAGo/aq7eUbffrpUKlWG7ste3OfW3ZlG03uU3gCLcBGAs/s400/TV%2BEN%2BVIVO.jpg</thumbnail>
-<externallink>http://tvmaniacs.eu/tvm/LiveTV/home.txt</externallink>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-</item>
-<info>Tv En Vivo</info>
-</channel>
+
 
 <channel>
 <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* PELICULAS 2018 *[/COLOR]</name>
@@ -81,16 +62,8 @@
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/INFANTIL%201</externallink>
 </channel>
-  </channels>
+  </channels> 
   
-   <channel>
-      <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* NOVELAS *[/COLOR]</name>
-  <thumbnail>https://discourse-cdn-sjc1.com/helloforos/uploads/default/original/4X/7/a/0/7a0f7cabfe922cfea4ecf46d75fd37a1af2eb966.jpg</thumbnail>
-<fanart>https://www.elespectador.com/sites/default/files/galleria_collage.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/NOVELAS%202018</externallink>
-</channel>
-  </channels>
   
    <channel>
       <name>[COLOR cyan][COLOR  lime]•   [/COLOR]* DOCUMENTALES *[/COLOR]</name>
@@ -115,34 +88,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 
-<item>
-<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR yellow][makelist.param2][/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
-<referer></referer>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
-
-</channel>
-
-<channel>
-  <name>KARAOKE DE CRIS</name>
-  <thumbnail>https://www.lethseniors.com/register/wp-content/uploads/2017/07/Karaoke-1.jpg</thumbnail>
-  <fanart>http://www.cadenanueve.com/wp-content/uploads/2018/07/karaoke...jpg</fanart>
-  <externallink>https://raw.githubusercontent.com/Compartida/Karaoke/master/adiosindex.xml</externallink>
-  <info>Autor: CRIS SANTANDER (Paraguay). Otros addons: GATOS</info>
-</channel>
-  
- 
