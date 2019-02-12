@@ -14,7 +14,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Aventura[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Aventura[/COLOR]</name>
 <externallink></externallink>
 <externallink1>http://191.96.71.157/~cinebrko/modulo2/categorias/aventura.txt</externallink1>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/aventura.jpg</thumbnail>
@@ -24,7 +24,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]AnimaÃ§Ã£o[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]AnimaÃ§Ã£o[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/animacao.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/abimacao.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/abimacao.jpg</fanart>
@@ -43,7 +43,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Comedia-Romantica[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Comedia-Romantica[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/comediaromantica.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/comediaromantica.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/comediaromantica.jpg</fanart>
@@ -88,7 +88,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Erotico[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Erotico[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/erotico.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/erotico.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/erotico.jpg</fanart>
@@ -97,7 +97,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Familia[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Familia[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/familia.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/familia.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/familia.jpg</fanart>
@@ -115,7 +115,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Faroeste[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Faroeste[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/faroeste.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/faroester.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/faroester.jpg</fanart>
@@ -124,7 +124,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Ficcao-Cientifica[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Ficcao-Cientifica[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/ficcaocientifica.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/ficcaocientifica.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/ficcaocientifica.jpg</fanart>
@@ -133,7 +133,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Guerra[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Guerra[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/guerra.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/guerra.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/guerra.jpg</fanart>
@@ -151,7 +151,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Musical[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Musical[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/musical.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/musical.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/musical.jpg</fanart>
@@ -160,7 +160,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Policial[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Policial[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/policial.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/policial.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/policial.jpg</fanart>
@@ -169,7 +169,7 @@
 
 
 <channel>
-<name>[COLOR white][B]CrisIPTVCrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Romance[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Romance[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/romance.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/romance.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/romance.jpg</fanart>
@@ -187,7 +187,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Suspense[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Suspense[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/suspense.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/suspense.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/suspense.jpg</fanart>
@@ -196,7 +196,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Terror[/COLOR]</name>
+<name>[COLOR white][B]CrisIPTV[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Terror[/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/terror.txt</externallink>
 <thumbnail>http://191.96.71.157/~cinebrko/dicas/terror.jpg</thumbnail>
 <fanart>http://191.96.71.157/~cinebrko/dicas/terror.jpg</fanart>
