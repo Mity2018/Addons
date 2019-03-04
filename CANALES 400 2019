@@ -2,7 +2,7 @@
  <title>[B][COLOR white]CANALES[/COLOR][COLOR dodgerblue] ABIERTOS[/COLOR][/B]</title>
  <link>$doregex[freeworld]</link>
  <regex>
- <name>CrisIPTV</name>
+ <name>freeworld</name>
  <listrepeat><![CDATA[
 <title>[COLOR yellow][B][freeworld.param3][/B][/COLOR]</title>
 <link>[freeworld.param2]|Referer=http://dazplayer.com/chh/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
