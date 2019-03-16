@@ -4,22 +4,34 @@
 <channels>
  
 <channel>
-<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2018[/COLOR]</name>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white][/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2018.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+ 
+ 
+ <channels>
+ 
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Variados[/COLOR]</name>
+<externallink>https://pastebin.com/raw/9Q5H7QfZhttps://pastebin.com/raw/9Q5H7QfZ</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
 
 
+
 <channel>
-<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2017[/COLOR]</name>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white][/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2017.txt</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </channel><channel>
-<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2016[/COLOR]</name>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white][/COLOR]</name>
 <externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2016.txt</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -39,6 +51,8 @@
 <fanart>http://191.96.71.157/~cinebrko/dicas/aventura.jpg</fanart>
 <info></info>
 </channel>
+ 
+ 
 
 
 
