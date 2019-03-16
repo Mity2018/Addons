@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channels>
+ 
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2018[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2018.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2017[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2017.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel><channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]2016[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/2016.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+
+
+
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Aventura[/COLOR]</name>
+<externallink></externallink>
+<externallink1>http://191.96.71.157/~cinebrko/modulo2/categorias/aventura.txt</externallink1>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/aventura.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/aventura.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+
+
+
+
+
+
+
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]AnimaÃ§Ã£o[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/animacao.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/abimacao.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/abimacao.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Anime[/COLOR]</name>
+<externallink></externallink>
+<externallink1>http://191.96.71.157/~cinebrko/modulo2/categorias/anime.txt</externallink1>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/anime.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/anime.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Comedia-Romantica[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/comediaromantica.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/comediaromantica.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/comediaromantica.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Comedia[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/comedia.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/comedia.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/comedia.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Documentario[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/documentario.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/documentario.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/documentario.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Drama[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/drama.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/drama.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/drama.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Epico[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/epico.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/epico.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/epico.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Erotico[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/erotico.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/erotico.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/erotico.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Familia[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/familia.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/familia.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/familia.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Fantasia[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/fantasia.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/fantasia.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/fantasia.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Faroeste[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/faroeste.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/faroester.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/faroester.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Ficcao-Cientifica[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/ficcaocientifica.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/ficcaocientifica.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/ficcaocientifica.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Guerra[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/guerra.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/guerra.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/guerra.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Historico[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/historico.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/historico.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/historico.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Musical[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/musical.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/musical.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/musical.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Policial[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/policial.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/policial.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/policial.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Romance[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/romance.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/romance.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/romance.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Show[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/show.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/show.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/show.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Suspense[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/suspense.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/suspense.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/suspense.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channel>
+<name>[COLOR white][B]Cine[COLOR yellow]B[COLOR lime]R[/B][/COLOR] [COLOR white]Terror[/COLOR]</name>
+<externallink>http://191.96.71.157/~cinebrko/modulo2/categorias/terror.txt</externallink>
+<thumbnail>http://191.96.71.157/~cinebrko/dicas/terror.jpg</thumbnail>
+<fanart>http://191.96.71.157/~cinebrko/dicas/terror.jpg</fanart>
+<info></info>
+</channel>
+</channels>
