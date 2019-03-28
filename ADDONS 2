@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>                                           [COLOR tomato][B]´´ BIENVENIDOS A Cris IPTV ´´[/B][/COLOR]   </title>
+<title>                                                        [COLOR tomato][B]´´ BIENVENIDOS A Cris IPTV ´´[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
