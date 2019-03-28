@@ -22,6 +22,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://4.bp.blogspot.com/-uiqmTKGwWk8/Wygy6x3Kg-I/AAAAAAAAAGI/5Q21w3y6EWQEh5aRkrH_dg_AuKhoTsoVQCLcBGAs/s400/CRIS%2BIPTV%2B4.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<info>[COLOR orange][B]* CrisIPTV el Mejor *[/B][/COLOR]</info>
 </item>
 
 <item>
@@ -30,6 +31,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>http://main.txt</externallink>
 <thumbnail>https://4.bp.blogspot.com/-uiqmTKGwWk8/Wygy6x3Kg-I/AAAAAAAAAGI/5Q21w3y6EWQEh5aRkrH_dg_AuKhoTsoVQCLcBGAs/s400/CRIS%2BIPTV%2B4.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<info>[COLOR orange][B]* CrisIPTV el Mejor *[/B][/COLOR]</info>
 </item>
 
  
@@ -54,6 +56,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex><thumbnail>http://legionworldtv.com/240x240/freeworld.png</thumbnail>
 <fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<info>[COLOR orange][B]* CrisIPTV el Mejor *[/B][/COLOR]</info>
 </item>
 
 
@@ -99,7 +102,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <date>2019</date>
 </item>
 
-[COLOR red][B]* Contenidos Exclusivos en Español[/B][/COLOR]
+[COLOR orange][B]* CrisIPTV el Mejor *[/B][/COLOR]
 
 <item>
 <title>[COLOR green][B]* Portugues[/B][/COLOR]</title>
