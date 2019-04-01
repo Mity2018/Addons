@@ -116,23 +116,7 @@
 <info>      </info>
 </channel> 
  
-<channel>
-<name>[COLOR cyan][COLOR  lime]•   [/COLOR] CANAIS E MUITO MAIS [/COLOR]</name>
-<thumbnail>https://4.bp.blogspot.com/-uiqmTKGwWk8/Wygy6x3Kg-I/AAAAAAAAAGI/5Q21w3y6EWQEh5aRkrH_dg_AuKhoTsoVQCLcBGAs/s400/CRIS%2BIPTV%2B4.png
-</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN%20CANAIS</externallink>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<info>                               Cris IPTV
-</channel> 
 
-
-<channel>
-<name>[COLOR cyan][COLOR  lime]•   [/COLOR] GRAGON BALL COLECAO [/COLOR]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61rhfnFCkyL.jpg</thumbnail>
-<externallink>https://www.dropbox.com/s/blh4g5sdfoxgr1n/ANIMES.txt?dl=1</externallink>
-<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
-<info>                               Cris IPTV
-</channel> 
 
 <channel>
 <name>[COLOR cyan][COLOR  lime]•   [/COLOR] CANAIS 24/7 BRASIL[/COLOR]</name>
@@ -268,6 +252,7 @@
 <fanart>http://br.web.img2.acsta.net/newsv7/14/10/22/00/30/126528.jpg</fanart>
 <info>Filmes em qualidade HD</info>
 </channel>
+ 
 <channel>
 <name>[COLOR lime][B]Novo Popi Cine 2018[/B][/COLOR]</name>
 <externallink></externallink>
