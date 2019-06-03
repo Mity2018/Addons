@@ -331,3 +331,18 @@
 <page>https://www.locopelis.com/pelicula/17228/avengers-endgame.html</page>
 </regex>
 </item>
+
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]DOCUMENTALES[/COLOR][COLOR white] VARIOS HD 2017[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>http://veracidadchannel.com/_site/wp-content/uploads/2017/08/documentales-752x440.png</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLMlS2YLzG1khLJkToU75hNK2_bdS6_x3N&index=4</page>
+</regex>
+</item>
