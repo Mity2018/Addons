@@ -4,7 +4,7 @@
 <channels>
  
  <channel>
-      <name>[COLOR=white][B][I]PELICULAS VARIADAS[/I][/B][/COLOR]</name>
+      <name>[COLOR=white][B][I]** PELICULAS **[/I][/B][/COLOR]</name>
   <thumbnail>https://png.pngtree.com/element_origin_min_pic/16/10/29/24cfefc293ceac61e09fd462b61c058d.jpg</thumbnail>
 <fanart>https://s01.video.glbimg.com/x720/7253192.jpg</fanart>
 <link>http://ignoreme</link>
@@ -13,7 +13,7 @@
   </channels>
  
 <channel>
-      <name>[COLOR white][COLOR  lime]•   [/COLOR]* INFANTIL *[/COLOR]</name>
+      <name>[COLOR=white][B][I]** INFANTIL **[/I][/B][/COLOR]</name>
   <thumbnail>http://files.kevinyoutube.webnode.com.co/200000290-6d80e6f74d/peliculas%20logo.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -22,7 +22,7 @@
   </channels> 
 
 <channel>
-      <name>[COLOR white][COLOR  lime]•   [/COLOR]* DOCUMENTAL *[/COLOR]</name>
+       <name>[COLOR=white][B][I]** DOCUMENTAL **[/I][/B][/COLOR]</name>
   <thumbnail>http://files.kevinyoutube.webnode.com.co/200000290-6d80e6f74d/peliculas%20logo.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -31,7 +31,7 @@
   </channels>
 
 <channel>
-      <name>[COLOR white][COLOR  lime]•   [/COLOR]* SERIES *[/COLOR]</name>
+       <name>[COLOR=white][B][I]** SERIES **[/I][/B][/COLOR]</name>
   <thumbnail>http://files.kevinyoutube.webnode.com.co/200000290-6d80e6f74d/peliculas%20logo.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -40,7 +40,7 @@
   </channels>
 
 <channel>
-      <name>[COLOR white][COLOR  lime]•   [/COLOR]* TV LATINOS *[/COLOR]</name>
+       <name>[COLOR=white][B][I]** TV LATINOS **[/I][/B][/COLOR]</name>
   <thumbnail>http://files.kevinyoutube.webnode.com.co/200000290-6d80e6f74d/peliculas%20logo.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
