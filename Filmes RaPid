@@ -309,3 +309,25 @@
 <page>http://netcine.us/um-tira-e-meio-a-nova-recruta/</page>
 </regex>
 </item>
+  
+<item>
+<title>[COLOR silver]AVANDRE[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+<link>$doregex[filme]|Referer=https://www.locopelis.com/</link>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR007061000_AL_-120x170.jpg</thumbnail>
+<fanart>http://pics.lcdn.vidmais.com.br/out/i/Algar_Telecom_-_Production/47/673/VU05950174.jpg</fanart>
+<info></info>
+<regex>
+<name>filme</name>
+<expres>file: "(.*ALTO.*?)"</expres>
+<page>$doregex[link1]</page>
+</regex>
+<regex>
+<name>link1</name>
+<expres>iframe src="(.*)" frameborder="</expres>
+<page>$doregex[link2]</page>
+</regex><regex>
+<name>link2</name>
+<expres>src="(.*DUB.*?)" frameborder="</expres>
+<page>https://www.locopelis.com/pelicula/17228/avengers-endgame.html</page>
+</regex>
+</item>
