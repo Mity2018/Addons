@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
 <item>
 <title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]lo que de verdad importa[/COLOR]</title>
 <link>$doregex[GetPageUrl]</link>
