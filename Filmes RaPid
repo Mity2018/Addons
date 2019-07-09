@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR silver]ROTA DE FUGA 3[/COLOR] [COLOR dodgerblue]DUB[/COLOR]</title>
+<link>$doregex[filme]|Referer=http://netcine.us/</link>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR007061000_AL_-120x170.jpg</thumbnail>
+<fanart>http://pics.lcdn.vidmais.com.br/out/i/Algar_Telecom_-_Production/47/673/VU05950174.jpg</fanart>
+<info></info>
+<regex>
+<name>filme</name>
+<expres>file: "(.*ALTO.*?)"</expres>
+<page>$doregex[link1]</page>
+</regex>
+<regex>
+<name>link1</name>
+<expres>iframe src="(.*)" frameborder="</expres>
+<page>$doregex[link2]</page>
+</regex><regex>
+<name>link2</name>
+<expres>src="(.*DUB.*?)" frameborder="</expres>
+<page>http://netcine.us/rota-de-fuga-3/</page>
+</regex>
+</item>
+
+<item>
 <title>Shazam! (2019)</title>
 <urlsolve>https://www.rapidvideo.com/v/G4O9A1JLXY</urlsolve>
 <thumbnail>https://www.cinemaqualidade.to/wp-content/uploads/2019/07/shazam-4k.jpg</thumbnail>
