@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]lo que de verdad importa[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/b0r2OovPb84'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://hdfull.tv/tthumb/172x256/movie_5d29b92781e240dbcfe2f93cf2172057.jpg</thumbnail>
+<fanart>http://hdfull.tv/tthumb/172x256/movie_5d29b92781e240dbcfe2f93cf2172057.jpg</fanart>
+<info>Alex vive en Inglaterrra, trabaja arreglando aparatos eléctricos en una empresa que no va bien económicamente, se acuesta con mujeres casadas y bebe alcohol como si no hubiera mañana. Su vida es un completo desastre hasta que un día, su tío Raymond le propone pagar todas sus deudas a cambio de irse a vivir al extranjero durante un año, en concreto, a Nueva Escocia. Una vez allí, el joven intenta buscar trabajo en la pequeña localidad en la que vive y descubre que tiene el don de curar a las personas, pero ni siquiera cree en su propia habilidad. En su lucha por comprender su nueva realidad, una adolescente con cáncer le mostrará el camino. </info>
+</item>
+ 
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Wonder Woman (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/difI1KSUs0c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/wonder-woman.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/wonder-woman.jpg</fanart>
+<info>Diana, guerrera y princesa amazona criada en una isla aislada, se entera de un gran confrontamiento en el mundo exterior cuando un piloto cae en la costa. Entonces ella deja su hogar para pelear en esta gran guerra, descubriendo sus poderes y su destino.</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Si no despierto (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/p9ncLqjyPto'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/si-no-despierto.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/si-no-despierto.jpg</fanart>
+<info>12 de febrero es otro día más en la vida de Sam, hasta que se convierte en el último. Atrapada reviviendo su último día una y otra vez, Sam trata de resolver el misterio en torno a su muerte y se da cuenta de todo lo que está perdiendo.</info>
+</item>
+
+<item>
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]The Drowning (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/JimKpm6hl6E'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/the-drowning.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/the-drowning.jpg</fanart>
+<info>Un psiquiatra enfrenta su pasado, presente y futuro cuando se encuentra involucrado en el tratamiendo de un joven recién liberado de prisión por un asesinato que cometió cuando apenas tenía once años.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Vigilante nocturno (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/n5WSwsYOrC0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/security.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/security.jpg</fanart>
+<info>Un ex agente de las fuerzas especiales, desesperado por un trabajo, acepta un empleo como guardia de seguridad en un shopping. En su primera noche debe proteger a una niña de 11 años que es el blanco de criminales por participar como testigo en un juicio.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]La momia (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/-16NDzGsKk4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/la-momia.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/la-momia.jpg</fanart>
+<info>En una tumba profunda debajo del extenso desierto una antigua princesa es despertada, trayendo consigo toda la maldad y el terror que fueron creciendo durante los siglos y que desafían todo entendimiento humano.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Starship Troopers: Traidor de Marte (2017) (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/k-trv731n0E'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/starship-troopers-traitor-of-mars.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/starship-troopers-traitor-of-mars.jpg</fanart>
+<info>El soldado Johnny Rico de la Federación recibe órdenes de trabajar con un nuevo grupo de reclutas en una estación satelital de Marte, justo el objetivo de ataque de unos insectos gigantes.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Baywatch: Los vigilantes de la playa (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/_2I7AgNRjnM'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/baywatch.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/baywatch.jpg</fanart>
+<info>El dedicado salvavidas Mitch Buchannon no se lleva nada bien con el nuevo recluta temerario, cuando descubren un plan criminal que está amenazando el futuro de la playa..</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Piratas del Caribe: La venganza de Salazar (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/KJ0ahi98RFk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg</fanart>
+<info>El temible capitán Salazar ha logrado escapar del Triángulo del Diablo determinado a acabar con el capitán Jack Sparrow. Ahora Jack debe buscar el tridente de Poseidón mientras es buscado por un capitán no muerto y su tripulación.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Fantasmas del pasado (2016) (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/K8Za2aoUAZY'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/fantasmas-del-pasado.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/fantasmas-del-pasado.jpg</fanart>
+<info>Una compradora personal en París se rehúsa a dejar la ciudad hasta entrar en contacto con su hermano gemelo que murió allá. Su vida se vuelve más complicada cuando una persona misteriosa entra en contacto con ella vía mensajes de texto.</info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Z, la ciudad perdida (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/63AwJnSNQ9c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/z-la-ciudad-perdida.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/z-la-ciudad-perdida.jpg</fanart>
+<info>El explorador británico Percival Fawcett se aventura en el Amazonas en la década de 1920 en busca de una misteriosa ciudad, basándose en la evidencia de una civilización desconocida que podría haber habitado la región. Basada en una historia real.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Mientras ellas duermen (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/pOTzlZxcDgY'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/mientras-ellas-duermen.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/mientras-ellas-duermen.jpg</fanart>
+<info>Mientras está de vacaciones con su esposa, un escritor comienza a seguir a un hombre y una mujer que son huéspedes en el hotel resort donde se están quedando.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Noche de venganza (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/H26qY1dnFxU'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/noche-de-venganza.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/noche-de-venganza.jpg</fanart>
+<info>El agente encubierto Vincent Downs se encuentra envuelto en una red de policías corruptos y criminales violentos. Después de que su hijo sea secuestrado luego de un robo, Downs está contra el reloj durante una noche intensa para salvarlo y llevar a los criminales ante la justicia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Pequeño demonio (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/GbctSOPbD5c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/little-evil.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/little-evil.jpg</fanart>
+<info>Gary, que acaba de casarse con la mujer de sus sueños Samantha, tiene la sospecha de que el hijo de seis años de su nueva esposa podría ser un demonio.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Un italiano en Noruega (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/Z8qj6IoJi74'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/un-italiano-en-noruega.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/un-italiano-en-noruega.jpg</fanart>
+<info>Checco nació con una vida privilegiada en una pequeña ciudad italiana, con un trabajo garantizado como empleado público. Cuando un nuevo gobierno reformista busca reducir la burocracia, Checco es forzado a aceptar peores condiciones.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Stefan Zweig: Adiós a Europa (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/a8zK9q-CNHU'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/stefan-zweig-farewell-to-europe.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/stefan-zweig-farewell-to-europe.jpg</fanart>
+<info>Los años de exilio de la vida del famoso escritor judío-austriaco Stefan Zweig, su lucha interna por la “actitud correcta” hacia los eventos de la guerra en Europa, y su búsqueda por un nuevo hogar.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Hombre de familia (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/euVaGKZJvp4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/hombre-de-familia.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/hombre-de-familia.jpg</fanart>
+<info>Un cazatalentos cuya vida es conseguir tratos en un negocio donde sobrevive el más apto, compite con su mayor rival para conseguir el control de la compañía… pero su sueño entra en conflicto con las necesidades de su familia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Shin Godzilla (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/m-JcxZlGhzE'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/shin-godzilla.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/09/shin-godzilla.jpg</fanart>
+<info>Un accidente desconocido ocurre en la bahía de Tokyo cuando repentinamente una criatura gigante aparece, sumiendo a Japón en el caos y la destrucción.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Desaparecido en Venice Beach (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/d_6aU7LhzQs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/once-upon-a-time-in-venice.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/once-upon-a-time-in-venice.jpg</fanart>
+<info>Después de que una notoria pandilla de Los Angeles haya secuestrado a su querido perro Buddy, el investigador privado Steve Ford va a hacer todo lo posible por recuperarlo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Batman y Harley Quinn (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/ZdZKI6Zj2j0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/batman-and-harley-quinn.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/batman-and-harley-quinn.jpg</fanart>
+<info>Batman y Nightwing se ven forzados a hacer equipo con la sociópata Harley Quinn para detener una amenaza global que está siendo llevada a cabo por Hiedra Venenosa y Jason Woodrue, el Hombre Florónico.</info>
+</item>
+
+
+
+
+
+
+
+
+
+<items>
+ 
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow] mayweather vs mcgregor (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/OAtASEALChk/Pelea_completa_-_Floyd_Mayweather_vs_Conor_Mcgregor_-_YouTube.MP4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2017/08/ver-online-mayweather-mcgregor.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2017/08/ver-online-mayweather-mcgregor.jpg</fanart>
+<info>LA PELEA DEL SIGLO</info>
+</item>
+
+
+<items>
+ 
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]John Wick: Pacto de sangre (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/QweROdHVT0c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/john-wick-chapter-2.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/john-wick-chapter-2.jpg</fanart>
+<info>Después de retornar al submundo del crimen para saldar una deuda, John Wick descubre que se ha ofrecido una recompensa muy generosa por su cabeza</info>
+</item>
+
+</items>
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<items>
+ 
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]I Am Not a Serial Killer (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/HSEqYuLLuV4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/i-am-not-a-serial-killer.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/i-am-not-a-serial-killer.jpg</fanart>
+<info>En un pueblo pequeño, un adolescente con problemas y tendencias homicidas decide cazar y destruir a un sobrenatural asesino mientras mantiene a distancia a sus propios demonios.</info>
+</item>
+
+</items>
+
+
+
+
+
+<items>
+ 
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Guardianes de la Galaxia Vol. 2 (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/qABlLcO37MA'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/guardians-of-the-galaxy-vol-2.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/guardians-of-the-galaxy-vol-2.jpg</fanart>
+<info>Luego de salvar Xandar, los Guardianes son reconocidos como héroes. Ahora deben pelear para mantenerse juntos mientras ayudan a su líder, Peter Quill, a descubrir qué hay por detrás de su verdadero linaje.</info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Guardians (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/E1m9KQOJrYo'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/guardians.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/guardians.jpg</fanart>
+<info>Durante la Guerra Fría, la organización “Patriot” creó un escuadrón de super héroes que incluye miembros de múltiples repúblicas soviéticas. Por años tuvieron que ocultar sus identidades, pero en tiempos difíciles deben exponerse nuevamente</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Negación (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/5sJZ5VEiKPY'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/negacion.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/negacion.jpg</fanart>
+<info>La reconocida escritora e historiadora Deborah E. Lipstadt debe luchar por la verdad histórica para demostrar que el Holocausto realmente ocurrió cuando David Irving, un conocido negacionista, la demanda por difamación.</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Rey Arturo: La leyenda de Excálibur (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/FmoFbBdfN2o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/rey-arturo-la-leyenda-de-excalibur.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/rey-arturo-la-leyenda-de-excalibur.jpg</fanart>
+<info>Robado de su derecho de nacimiento, Arturo emerge de la manera difícil en las calles de la ciudad. Pero una vez que arranca la espada de la piedra, se ve obligado a reconocer su verdadero legado, ya sea que quiera o no.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Land of Smiles (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/XvwBKmQdVZ0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/land-of-smiles.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/land-of-smiles.jpg</fanart>
+<info>Una joven mochilera es atraída por el paraíso de Tailandia mientras busca a su mejor amiga que fue secuestrada y sin saberlo se convierte en la obsesión de un sociópata.</info>
+</item>
+
+
+
+
+<items>
+ 
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El Círculo (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/_If2Vsz3OBs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-circulo.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-circulo.jpg</fanart>
+<info>Mae Holland es una recién graduada que consigue su trabajo soñado en una poderosa compañía tecnológica llamada El Círculo. Pronto descubre más sobre el plan de esta corporación que llegaría a afectar y revolucionar a toda la humanidad</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Plan de fuga (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/HSEqYuLLuV4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/plan-de-fuga.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/plan-de-fuga.jpg</fanart>
+<info>Un ladrón experto con el soplete es contratado por un grupo de la mafia rusa para asaltar el Banco de Crédito Suizo, donde hay una cámara acorazada inexpugnable. La entrada es difícil y el plan de fuga imposible</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Crudo (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/ab8YaSd7mmE'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/crudo.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/crudo.jpg</fanart>
+<info>Cuando una joven y estricta vegetariana pasa por un ritual carnívoro de iniciación en la escuela veterinaria, un inesperado gusto por el sabor de la carne comienza a crecer en ella</info>
+</item>
+</items>
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Desnudo (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/ssdvhq82bwU'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/naked.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/naked.jpg</fanart>
+<info>Nervioso porque finalmente está a punto de casarse, Rob debe revivir las mismas agitadas horas una y otra vez hasta que consiga hacer bien las cosas en el día de su boda.</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Opening Night (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/0WEHOmJzB1o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/opening-night.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/opening-night.jpg</fanart>
+<info>Un cantante fracasado de Broadway que ahora trabaja como jefe de producción debe salvar la noche de inauguración de su nueva producción lidiando con su excéntrico elenco y equipo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El guardián invisible (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/iH9lEt3utv4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/el-guardian-invisible.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/el-guardian-invisible.jpg</fanart>
+<info>Amalia Salazar es una inspectora en Pamplona que debe enfrentar el caso de un asesino en serie mientras lidia con los problemas de su propio pasado familiar.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]City of Tiny Lights (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/1KX3qtZsRfk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/city-of-tiny-lights.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/city-of-tiny-lights.jpg</fanart>
+<info>En la moderna y multicultural metrópolis de Londes, el caso de una persona desaparecida, aparentemente rutinario, lanza a un investigador privado hacia un peligroso mundo de fanatismo religioso e intriga política.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Message from the King (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/6RWQwyTsmec'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/message-from-the-king.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/message-from-the-king.jpg</fanart>
+<info>Un misterioso extranjero de Sudáfrica, Jacob King, llega a Los Angeles y busca infiltrarse en una red para cobrar venganza por la muerte de su hermana menor.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]La increíble Jessica James (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/wvnAfSTqqlk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-incredible-jessica-james.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-incredible-jessica-james.jpg</fanart>
+<info>Una mujer aspirante a ser dramaturgo en Nueva York comienza una amistad con un hombre mientras se recupera de una ruptura.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Un golpe con estilo (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/ONpWM3ZfaOw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/un-golpe-con-estilo.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/un-golpe-con-estilo.jpg</fanart>
+<info>Desesperados por pagar las cuentas y ayudar a sus seres queridos, tres amigos de toda la vida lo arriesgan todo e idean un audaz plan para robar el banco que tomó el dinero de su retiro.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Power Rangers (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/tBfmgewq_Og'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/power-rangers.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/power-rangers.jpg</fanart>
+<info>Un grupo de estudiantes encuentra una antigua nave espacial extraterrestre y reciben unos súper poderes únicos. Ahora ellos deben utilizar sus nuevas habilidades para salvar el mundo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Fast & Furious 8 (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/WDsANKdFFz4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/fast-furious-8.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/fast-furious-8.jpg</fanart>
+<info>Cuando Dom y Letty están en su luna de miel en Cuba, una mujer misteriosa consigue que Dom traicione a aquellos cercanos a él y se convierta en un terrorista. Ahora todo el equipo debe reunirse de nuevo para enfrentar al hombre que los convirtió en una familia.</info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Boyka: Undisputed IV (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/oB4-CMsnU_Q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/boyka-undisputed.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/boyka-undisputed.jpg</fanart>
+<info>Boyka tiene como objetivo llegar a las ligas mayores cuando una muerte accidental en el ring lo hace cuestionarse todo por lo que lucha. Cuando descubre que la viuda está en graves problemas, se ofrece a pelear por ella.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Al filo de los diecisiete (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/jXb2K2ciYR0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-edge-of-seventeen.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-edge-of-seventeen.jpg</fanart>
+<info>Cuando Nadine descubre que su mejor amiga Krista empezó a salir con su hermano mayor, su vida en la escuela se hace más insoportable. Pronto se da cuenta de la importancia de crecer, y lo difícil que es hacerlo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El Teniente Otomano (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/JC_r4sTsxls'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-ottoman-lieutenant.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/08/the-ottoman-lieutenant.jpg</fanart>
+<info>Una bella enfermera, frustrada por las injusticias en su país, viaja al Imperio Otomano a una remota misión médica justo antes de lo que será la Primera Guerra Mundial. Ahí ve su lealtad puesta a prueba cuando se enamora de un teniente del Ejército Imperial Otomano.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El bar (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/1wu4AOvicFc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-bar.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-bar.jpg</fanart>
+<info>En el centro de Madrid, un fuerte disparo y dos muertes misteriosas dejan atrapadas a diversas personas en un decrépito bar, mientras la paranoia y la sospecha obliga a los aterrados clientes a volverse los unos contra los otros.</info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Mariposa negra (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/PTjs8YrVwY4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/black-butterfly.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/black-butterfly.jpg</fanart>
+<info>Fuera de un pueblo montañoso, Paul, un escritor, trata de escribir un guión que salve su carrera. Después de un tenso encuentro en la cena con un viajero llamado Jack, Paul le ofrece un lugar para quedarse. Pero cuando una tormenta corta la electricidad en la cabaña, ambos comienzan un peligroso juego de superar al contrario.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Ghost in the Shell: El alma de la máquina (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/dvVExNxeGF8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/ghost-in-the-shell-el-alma-de-la-maquina.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/ghost-in-the-shell-el-alma-de-la-maquina.jpg</fanart>
+<info>En un futuro próximo, Major es la primera de su tipo: Una humana rescatada de un terrible accidente, que fue mejorada cibernéticamente para ser el soldado perfecto, dedicada a detener a los criminales más peligrosos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Animal de compañía (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/PQ1Zq1o61hA'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/animal-de-compania.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/animal-de-compania.jpg</fanart>
+<info>Un hombre se encuentra con una chica que conocía de la escuela y se obsesiona con ella, llevándolo a secuestrarla y tenerla cautiva debajo del refugio de animales donde trabaja.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Los pitufos: La aldea escondida (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/Sl7sRmZIIDU'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/los-pitufos-la-aldea-escondida.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/los-pitufos-la-aldea-escondida.jpg</fanart>
+<info>Un mapa misterioso lleva a Pitufina y sus amigos Filósofo, Tontín y Fortachón en una increíble aventura a través del Bosque Prohibido, lo cual los lleva al descubrimiento del secreto más grande en la historia de los pitufos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Scooby-Doo! Fiesta en la playa de Blowout (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/AQn16P1fgYQ'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/lego-scooby-doo-blowout-beach-bash.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/lego-scooby-doo-blowout-beach-bash.jpg</fanart>
+<info>El grupo de Misterio Inc. se dirige a la playa de Blowout para tener una verdadera fiesta. Pero cuando los piratas fantasmas amenazan con llevarse la diversión, está en las manos de Scooby y sus amigos salvar el día.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]La chica desconocida (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/EUvh_kUf9JI'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/la-chica-desconocida.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/la-chica-desconocida.jpg</fanart>
+<info>Una doctora se obsesiona con el caso de una mujer fallecida cuando se entera de que esta mujer murió poco después de haber tocado su puerta en busca de ayuda.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Zona hostil (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/9UqEQpzW-wM'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/zona-hostil.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/zona-hostil.jpg</fanart>
+<info>Un helicóptero de emergencia sufre un accidente al ayudar a la fuerza conjunta de la ONU bajo la división española en Afganistán. El ejército español tiene una sola noche para rescatar a la tripulación, pero lo que parece rutinario se convierte en un infierno cuando reciben la orden de rescatar también el helicóptero.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Locas de alegría (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/6qBEpfhGRt4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/locas-de-alegria.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/locas-de-alegria.jpg</fanart>
+<info>Donatella y Beatrice residen en una institución psiquiátrica en Toscana. Tienen historias muy diferentes, pero la oportunidad de escapar las une en una aventura que cambiará sus vidas para siempre y las ayudará a darse cuenta de la belleza que hay en la imperfección.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Hasta los huesos (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/B578H3yPw9M'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/to-the-bone.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/to-the-bone.jpg</fanart>
+<info>Ellen es una joven que padece anorexia nerviosa. Conoce a un doctor poco ortodoxo que la lleva a confrontar su condición y recorrer un camino escabroso y gracioso para llegar a conocerse a sí misma y poder aprovechar la vida.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El imperio de las sombras (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/GrLB51ozFL4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/the-age-of-shadows.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/the-age-of-shadows.jpg</fanart>
+<info> Al final de la década de 1920, un grupo de combatientes de la resistencia coreana intenta llevar explosivos de Shanghai para destruir instalaciones japonesas clave en Seúl, y los agentes japoneses están intentando detenerlos.
+
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El viajante (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/3-JhQZbuQME'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-viajante.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-viajante.jpg</fanart>
+<info>Mientras un matrimonio participa en la producción de la obra “La muerte de un vendedor”, la esposa es atacada en su nuevo hogar, lo cual lo deja a él determinado en encontrar al responsable a pesar de las objeciones de su traumatizada esposa.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Life (Vida) (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='LINK OPENLOAD'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/life-vida.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/life-vida.jpg</fanart>
+<info>Un equipo de científicos a bordo de la Estación Espacial Internacional está investigando una muestra de suelo de Marte que contiene una forma de vida de rápida evolución, y ahora amenaza a la tripulación y a toda la vida en la Tierra.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El bebé jefazo (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/S1qdsWHlgiI'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-bebe-jefazo.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/el-bebe-jefazo.jpg</fanart>
+<info>El bebé más inusual llega a la casa de Tim en un taxi, con un traje y llevando un portafolios. La rivalidad instantánea entre hermanos deve ser dejada de lado cuando el bebé jefazo hace equipo con su hermano de siete años para detener el malvado plan del presidente de Puppy Co.</info>
+</item>
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Déjame salir (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/zxS6zjp2MuM'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/dejame-salir.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/dejame-salir.jpg</fanart>
+<info>Chris, un joven afroamericano, visita a la familia blanca de su novia durante el fin de semana. Ahí cree notar los intentos nerviosos de la familia de aceptar la relación interracial de su hija, pero va haciendo descubrimientos cada vez más oscuros</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Okja (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/dLy_q276RmE'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/okja.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/okja.jpg</fanart>
+<info>Durante diez años la joven Mija ha cuidado de un masivo animal llamado Okja. Pero ahora arriesga todo para prevenir que una poderosa compañía multinacional, la Corporación Mirando, secuestre a su mejor amigo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Gold: La gran estafa (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/7s87dYqtAhA'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/gold-la-gran-estafa.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/gold-la-gran-estafa.jpg</fanart>
+<info>Kenny Wells, un buscador desesperado por una buena oportunidad, hace equipo con un geólogo y se embarca en un viaje para encontrar oro en una jungla sin explorar en Indonesia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Resident Evil: Vendetta (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/fqVDWozpeAw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/resident-evil-vendetta.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/resident-evil-vendetta.jpg</fanart>
+<info>Chris Redfield está recibiendo la ayuda de Leon S. Kennedy y Rebecca Chambers para tratar de detener a un mercader de la muerte, con sed de venganza, de esparcir un mortal virus en Nueva York.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Frantz (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/G6D-06F14XY'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/frantz.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/07/frantz.jpg</fanart>
+<info>Después de la Primera Guerra Mundial, una joven alemana que guarda luto por la pérdida de su prometido en Francia conoce a un misterioso francés que visita la tumba de su prometido para dejar flores.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]The Vessel (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/f9fHzK3r7dM'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/the-vessel.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/the-vessel.jpg</fanart>
+<info>Diez años después de que un tsunami destruyera una escuela de un pequeño pueblo con todos los niños dentro, un joven construye una misteriosa estructura usando los restos de la escuela, encendiendo pasiones que el pueblo olvidó hace tiempo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]El nacimiento de una nación (2016)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/XL7QF9MCCh8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/el-nacimiento-de-una-nacion.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/el-nacimiento-de-una-nacion.jpg</fanart>
+<info>Nat Turner, un esclavo educado y predicador, es testigo de numerosas atrocidades en contra de él y sus compañeros esclavos. Entonces organiza un levantamiento con la esperanza de llevar a su gente a la libertad</info>
+</item>
+
+<item>
+<title>[B][COLOR white]-[/COLOR][/B] [COLOR yellow]Kong: La Isla Calavera (2017)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://openload.co/f/e7QR9JKnW88'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/kong-la-isla-calavera.jpg</thumbnail>
+<fanart>http://www.cinecalidad.to/espana/wp-content/uploads/2017/06/kong-la-isla-calavera.jpg</fanart>
+<info>Un grupo de científicos, soldados y aventureros exploran una isla desconocida en el Pacífico. Lejos de todo lo familiar, se aventuran en el territorio del poderoso Kong, y su misión de investigación se vuelve una de sobrevivencia en este primitivo Edén</info>
+</item
