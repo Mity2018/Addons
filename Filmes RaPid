@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR=white][B][I]FAHRENHEIT 451[/I][/B][/COLOR]</title> 
-<link>$doregex[filme]|Referer=http://netcine.us/</link> 
-<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/MV5BZmM1ZGJkZDgtNzBlNS00YjkyLTk3NGEtZTIxMGVkMTk2Yjg1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_-120x170.jpg</thumbnail> 
-<fanart>https://i2.wp.com/cromossomonerd.com.br/wp-content/uploads/2018/05/fahrenheit-451-capa.png?fit=1068%2C600&ssl=1</fanart> 
-<info></info> 
-<regex> 
-<name>filme</name> 
-<expres>file: "(.*ALTO.*?)"</expres> 
-<page>$doregex[link1]</page> 
-</regex> 
-<regex> 
-<name>link1</name> 
-<expres>iframe src="(.*)" frameborder="</expres> 
-<page>$doregex[link2]</page> 
-</regex>
-<regex> 
-<name>link2</name> 
-<expres>iframe src="(.*DUB.*?)" frameborder="</expres> 
-<page>http://netcine.us/fahrenheit-451/</page> 
-</regex> 
+<title>Pokémon: Detetive Pikachu (2019)</title>
+<urlsolve>https://vidcloud.co/v/5d38e9e7d11db</urlsolve>
+<thumbnail>https://www.cinecalidad.to/wp-content/uploads/2019/07/hellboy-4k.jpg</thumbnail>
+<fanart>https://www.cinecalidad.to/wp-content/uploads/2019/07/hellboy-4k.jpg</fanart>
+<date>2019</date>
+<genre>Acción, Comedia, Crimen, Historia</genre>
+<info>Atrapado entre los mundos de lo sobrenatural y el humano, Hellboy se enfrenta a una antigua hechicera que busca desesperadamente obtener su venganza. Basada en las novelas gráficas de Mike Mignola.</info>
 </item>
+
 
 <item>
 <title>Pokémon: Detetive Pikachu (2019)</title>
