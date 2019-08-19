@@ -1,0 +1,1750 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="TV", SBT SP
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV ABERTA", REDE TV HD
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w2070232887.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="infantil", NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine", NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS", ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ESPORTES", Esporte Interativo 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte", Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Esporte", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/minhalista.live/images/channels/dfaf121876d0d8ec78b9b51bcf3c356c.jpg" group-title="CANAIS", Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes", Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="cine", Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canal a cabo", TLC
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?formigaTV
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Documentarios", History
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8
+
+#EXTINF:-1 tvg-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO", Futura - TVUP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", 13 MINUTOS 2017
+https://lh3.googleusercontent.com/v2qtFwjOAEOImilHJBbOx5YcyHIrao8OfUULPryv2SNf4lcIHeZDg5gOIQX740bfENJ0mDGd4g=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", 13 MINUTOS 2017 HD
+https://lh3.googleusercontent.com/v2qtFwjOAEOImilHJBbOx5YcyHIrao8OfUULPryv2SNf4lcIHeZDg5gOIQX740bfENJ0mDGd4g=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A CABANA
+https://lh3.googleusercontent.com/Kw-WtQI3ZxkZA1CeSqCPUwAq45Pmrzs72Il9jZMuRkiKy4qKr6WhEFVfKNVKpWv3RsYWJiomgQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A CABANA DO INFERNO
+https://lh3.googleusercontent.com/XA2KTJhIz9TcPaspH-A92zpr-ab9tgW8xww9sG76vadbQ_q2wbO2-U2HlBkuOF7iSJeGYwHlLg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A CABANA HD
+https://lh3.googleusercontent.com/Kw-WtQI3ZxkZA1CeSqCPUwAq45Pmrzs72Il9jZMuRkiKy4qKr6WhEFVfKNVKpWv3RsYWJiomgQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A HORA E A VEZ DE AUGUSTO MATRAGA
+https://lh3.googleusercontent.com/_ROs4BxwcZt1VlKkHptWtwBioaT0M_Gzg-xtWFAmx7Vxq0c0x4BQ0Nec1yBMunDAqtrpWK3PWA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A HORA E A VEZ DE AUGUSTO MATRAGA HD
+https://lh3.googleusercontent.com/_ROs4BxwcZt1VlKkHptWtwBioaT0M_Gzg-xtWFAmx7Vxq0c0x4BQ0Nec1yBMunDAqtrpWK3PWA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A PEREGRINAÇÃO
+https://lh3.googleusercontent.com/gg1qOLrppkkGNKU6VKHS2S-SO7S3X2R87omFRbYsR3l3_Nhe0PqvoIJwLN5O2OvUL1ks3aOhPGuAQuN6zmteO7FkZZebAbhJdN54oURbcvN6yrDYG_5JBvek_zoclQD5ivBBOb9smw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A PEREGRINAÇÃO HD
+https://lh3.googleusercontent.com/gg1qOLrppkkGNKU6VKHS2S-SO7S3X2R87omFRbYsR3l3_Nhe0PqvoIJwLN5O2OvUL1ks3aOhPGuAQuN6zmteO7FkZZebAbhJdN54oURbcvN6yrDYG_5JBvek_zoclQD5ivBBOb9smw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A VIGILANTE DO AMANHÃ
+https://lh3.googleusercontent.com/xVm3lo12ZK23RyNUq6VMUZipxxyc0TI_dqHDGSFkosMmo73gv0al-dQ1ILy44CS4KqeieKhL9Q=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A VIGILANTE DO AMANHÃ HD
+https://lh3.googleusercontent.com/xVm3lo12ZK23RyNUq6VMUZipxxyc0TI_dqHDGSFkosMmo73gv0al-dQ1ILy44CS4KqeieKhL9Q=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", A VILÃ
+https://lh3.googleusercontent.com/Ghn-NDA4YRdUaBFLZjXU07QCT96AotolCpUyZs3n0eh8s9pBvApP7W3EjoSh4t8s0-SF9Vg1eg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", AMAR HD
+https://lh3.googleusercontent.com/6trQv5Dk3looKGccLb87dEmxedk2mRnKoNa_MUKjyVSeXKYSYMbLC_lHv8SLnjVO2cGDfaYDuA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", AMAR SD
+https://lh3.googleusercontent.com/6trQv5Dk3looKGccLb87dEmxedk2mRnKoNa_MUKjyVSeXKYSYMbLC_lHv8SLnjVO2cGDfaYDuA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", AMOR.COM - DUB
+https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", ANIMAL POLÍTICO
+https://lh3.googleusercontent.com/RemxZbdW0OPlZew4GivSbu5WmfpVW5dYn9yd0c2zF_JZWOfVuKCR-BOFuKKOGi_TcZv83gHoCw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", ANIQUILAÇÃO
+https://lh3.googleusercontent.com/w8sCTB4uRNzcQKOerMHnUziG2D6WG_ZOtaKUS5mmHt3lDQ4BgVMq2JdwLbHHZ4F7b7yLyI6xGw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BATMAN: GOTHAM CITY 1889
+https://lh3.googleusercontent.com/0TpPt1vDAv3EIRpCJU_0NkRfsquxtOBCAmehk0kzaAHwjlnND5Xf5mneBmgtGbZkT44heJX6Cjo=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BEM CASADOS
+https://lh3.googleusercontent.com/WJx3peFOnkmPqBkzCdtV-y0SHMSTbzKy3wHpReVWxRCdlobG_AQqj0y8JU2Sx2Xr_v7R9drk9vaCyfr6F7GZ_6k1dGNSqN1f4FcuxpGIcGHfvjyllAiqPVQFs37kz2NkudGjrR2o0Q=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BEYOND SKYLINE
+https://lh3.googleusercontent.com/LkSq0-VvV_wHuM6rzLQ8pm59-FjnA2sQDoxGu5M9TT0OUiSoGCy9H6RkVR5W24YmH64JvGX3Pw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BEYOND SKYLINE HD
+https://lh3.googleusercontent.com/LkSq0-VvV_wHuM6rzLQ8pm59-FjnA2sQDoxGu5M9TT0OUiSoGCy9H6RkVR5W24YmH64JvGX3Pw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BOA SORTE
+https://lh3.googleusercontent.com/QoAVB10xOgUyyI6cGzs0w1KrVL2l-JdRheIEYdUDJhM8XITSxE0DgR7HyBrGzkXZty9VsecGJQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BOA SORTE HD
+https://lh3.googleusercontent.com/QoAVB10xOgUyyI6cGzs0w1KrVL2l-JdRheIEYdUDJhM8XITSxE0DgR7HyBrGzkXZty9VsecGJQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BRIGHT
+https://lh3.googleusercontent.com/4Oon2JWKWFdKFdplb27YWAfJ-KqUWB9CLZYFtlX1zagUKao1fHOnjfBOVOQ_fRijms6ORk4EnQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", BRIGHT HD
+https://lh3.googleusercontent.com/4Oon2JWKWFdKFdplb27YWAfJ-KqUWB9CLZYFtlX1zagUKao1fHOnjfBOVOQ_fRijms6ORk4EnQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CAÇADA BRUTAL
+https://lh3.googleusercontent.com/bIknpQMoa7UIrP6NE2kayW1f7ri8yWjCvhoGv9X3QYy3DAZXuin8LZUYy077mnPMvO77-MHBlA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CAÇADA BRUTAL HD
+https://lh3.googleusercontent.com/bIknpQMoa7UIrP6NE2kayW1f7ri8yWjCvhoGv9X3QYy3DAZXuin8LZUYy077mnPMvO77-MHBlA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CAPITÃO AMERICA
+https://lh3.googleusercontent.com/usK7ApItIRY5nL0jAlXaVnuceQxuwUWbiwanujzWcFa7mSqyblf2aREMCJb_mqS1A6kp9RF9Iw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CAPITÃO AMERICA HD
+https://lh3.googleusercontent.com/usK7ApItIRY5nL0jAlXaVnuceQxuwUWbiwanujzWcFa7mSqyblf2aREMCJb_mqS1A6kp9RF9Iw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", César!.2016.720p.BluRay.5.1.x264.DUAL
+https://lh3.googleusercontent.com/z4nqKiulQA9qjx1vv4K-ZrgTTTRhNyBe8CQyLgjTKYTkqjI1UzdYm0tkeO9KPNFfoVVzUBqX=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CHOCANTE
+https://lh3.googleusercontent.com/bV_gtB_71-e_E3qcpLkIZKOkHFfQV-ozKiOflS-jbEj89Vciqo_rxxshD7-YfrYggnfPlEUm7w=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CLINICAL
+https://lh3.googleusercontent.com/QJfXxkTi-kB5ronSZEmdckCAomZfohX2ZTFGXaS7cfjRk_XY32z_DsPSRmhd5mRTC1YAMf7WPF9vRH69gYRgc-zwbbUWYdthnzVxIjPNVto8D6h-zUsznDeeF8UIBeIthYX95rj2dD8=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CLINICAL HD
+https://lh3.googleusercontent.com/QJfXxkTi-kB5ronSZEmdckCAomZfohX2ZTFGXaS7cfjRk_XY32z_DsPSRmhd5mRTC1YAMf7WPF9vRH69gYRgc-zwbbUWYdthnzVxIjPNVto8D6h-zUsznDeeF8UIBeIthYX95rj2dD8=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", COMO NOSSOS PAIS HD
+https://lh3.googleusercontent.com/S_r6tkxlMqnk_EVw5b4kgJ-HnJpO3tdMD1umeLIrzsaHjiH8dhNVahF5E5q3vm4JV8deGS7COuyJYCACLtHtBP0rv79HlICX0Yzg-cECuCZAu-KTNQpAY6NKmIhvRAwcOZ3zt3jXmg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", COMO NOSSOS PAIS SD
+https://lh3.googleusercontent.com/S_r6tkxlMqnk_EVw5b4kgJ-HnJpO3tdMD1umeLIrzsaHjiH8dhNVahF5E5q3vm4JV8deGS7COuyJYCACLtHtBP0rv79HlICX0Yzg-cECuCZAu-KTNQpAY6NKmIhvRAwcOZ3zt3jXmg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", CONTRATO VITALICIO
+https://lh3.googleusercontent.com/ZzHjvXb2rI6Y5IBby4oeYkzaRolRCl8de6kdTAXcKwhucyOCTZ07BQZfzTqon7sNbkZ8_8vRjSI=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", COUNTERPUNCH
+https://lh3.googleusercontent.com/44oNoDWNcl849HG35wByqtTuS4GxSfn6IFG6OI3fzO3huR5kDdNPyXC03f_QTCM14MuNYG4MqqUafq0GY65luCnPbvrt7pQl0jxRw_0Rjg0-w0W3DVJqARfDKLY9wMcsiAp1EPUgbw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", DOENTES DE AMOOR HD
+https://lh3.googleusercontent.com/7jk19ugl5InQMFGh7O5tYsHVeQMuLYGKtp5ONE9q8ZwkcqyHJbezqKVCWmaGCmWOWQAO1UaGEGv7dFg0HnKx4awKDIWDKjf-pjE5H9W6p20zPC_cdfgzjvhR0q3rUfi6MHRbivuaqQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", DOENTES DE AMOOR SD
+https://lh3.googleusercontent.com/7jk19ugl5InQMFGh7O5tYsHVeQMuLYGKtp5ONE9q8ZwkcqyHJbezqKVCWmaGCmWOWQAO1UaGEGv7dFg0HnKx4awKDIWDKjf-pjE5H9W6p20zPC_cdfgzjvhR0q3rUfi6MHRbivuaqQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", FECHANDO NEGOCIO
+https://lh3.googleusercontent.com/ICwMOE60qlHih_2_SjAdnSfuz5_z3_MYdoLeH-Ud6VkGfPT90Pygzr-lNzb29Dp3WOzNrBqatBafQY_ygBELPZPxHj8Bsi5v3hQ0GYhKyEENEuu_cWOEt1ZhAe-WP4fbZxydH0r2jg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", FECHANDO NEGOCIO HD
+https://lh3.googleusercontent.com/ICwMOE60qlHih_2_SjAdnSfuz5_z3_MYdoLeH-Ud6VkGfPT90Pygzr-lNzb29Dp3WOzNrBqatBafQY_ygBELPZPxHj8Bsi5v3hQ0GYhKyEENEuu_cWOEt1ZhAe-WP4fbZxydH0r2jg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", FICA COMIGO
+https://lh3.googleusercontent.com/yGwzgvrOW5c7IBeycY_gDHIzvZMyzc3ARLLhsK0MGypeg9I54tE5-12AMrX8R-HH-vgT3pqpro-hvmnev7ddFqfAwMrwv2vJkIUI-_WbThyqLQ1m5T5UVyFEPNcw2vcZcQ1SF_hcVA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", FICA COMIGO HD
+https://lh3.googleusercontent.com/yGwzgvrOW5c7IBeycY_gDHIzvZMyzc3ARLLhsK0MGypeg9I54tE5-12AMrX8R-HH-vgT3pqpro-hvmnev7ddFqfAwMrwv2vJkIUI-_WbThyqLQ1m5T5UVyFEPNcw2vcZcQ1SF_hcVA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", FULLMETAL ALCHEMIST SD
+https://lh3.googleusercontent.com/wvJAx-XWWXQ6hnsbrbHs_LIc7uTEur9fAmEVolE0OD-N2FcTbshZoe1zj3RBcUi3-5wC2fzdfW0=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", GO NORTH
+https://lh3.googleusercontent.com/hxZa1J6PGZMgPEsfNEALoW6UTHJfBLHUgF8256q43cNJEgDsO5LLHO03px8mhq0oNiUSiwZTVffI14ehxu0xVH7NX7i2RXnAn1RW2DPQBvOMPGLBVJmkToKCAM1A5jja7duYx44FIw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", GO NORTH HD
+https://lh3.googleusercontent.com/hxZa1J6PGZMgPEsfNEALoW6UTHJfBLHUgF8256q43cNJEgDsO5LLHO03px8mhq0oNiUSiwZTVffI14ehxu0xVH7NX7i2RXnAn1RW2DPQBvOMPGLBVJmkToKCAM1A5jja7duYx44FIw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", GUERRA DOS SEXOS
+https://lh3.googleusercontent.com/VDnL8ealr3JeDf5ndyhtTyRdNsNhuYEle_5iJ5ChNtjIBBsHt26tMTN59sBcs7QUnXc6W20TFA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", GUERRA DOS SEXOS HD
+https://lh3.googleusercontent.com/VDnL8ealr3JeDf5ndyhtTyRdNsNhuYEle_5iJ5ChNtjIBBsHt26tMTN59sBcs7QUnXc6W20TFA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", HONRA AO MERITO
+https://lh3.googleusercontent.com/bcf5h6ec7OlqeEIOGUa3PfSSyBCzrXPO5lncCbsVvJy7s88927UmSiwuTcwHuj616Rux26naKQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", INTERESTELAR -  HD
+https://lh3.googleusercontent.com/r4LHwjkrWxlgh6u1O_zv69HMoi8Xz1XeVzgpO9sQzwCmxuwK6DJKG616WOQaxMOXCtBbYyU50w=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", JOÃO: O MAESTRO
+https://lh3.googleusercontent.com/SM1eZThRHNaGVuG3eQHmQAnFUcJNbfe9CJag8bj-gA76DgSXmIzqTfXToR9xBFnxAIDKyOFfBw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", JOHN WICK - UM NOVO DIA PARA MATAR
+https://lh3.googleusercontent.com/kBUmQ3McI5zWa_uGdRdS-Xo2rTd9e8lXk-BbgVBfzW1WIaISELzsqZKOu_pF8w9w73IsnhLeLg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", LIGA DA JUSTIÇA SOMBRIA
+https://lh3.googleusercontent.com/uydXRpLRpFkopb2zFEwGa-gMAPJIchQx99v-pYlchmE4CWboGxGw8W5tnwPMXKl2MnYLk87YpQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", LIGA DA JUSTIÇA: TRONO DE ATLANTIDA
+https://lh3.googleusercontent.com/V8QZP2ecmLHBFHnmS_LTIMSPMM0fpf6t3a9fO6bh8p_VoWPTyG7dkprZKbuQHbanJWskQEXs8A=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", LIGA DOS DEUSES
+https://lh3.googleusercontent.com/-9U7DGbO2wZEeLEowHoSmtJvU6Sgt-XAPf9SO2EFQGFWBDescjQfabDfqjhvd6NdBPoltVaEU0I=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", LOWRIDES: A ARTE NOS CARROS
+https://lh3.googleusercontent.com/uQUcsk2DRtkfdDSSl1rVZ3foKPUKyR9nI7bgkf-HeZDkdeUKXkaS2kiFe_tc0HEwx7oBQeu0Fw=m18
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", M. F. A
+https://lh3.googleusercontent.com/fUAoMNz6ac71geIAnWeEzQ_Lfnb-E2m7Fa2tg23dE6YhwMScNf_TsU0P9v3l37G773UsRkAeMQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", M. F. A HD
+https://lh3.googleusercontent.com/fUAoMNz6ac71geIAnWeEzQ_Lfnb-E2m7Fa2tg23dE6YhwMScNf_TsU0P9v3l37G773UsRkAeMQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", MADRUGADA MUITO LOUCA 2 - VERSÃO EXTENDIDA
+https://lh3.googleusercontent.com/xYwvPXIlQVwYJ6kGuqOTQpHZhYFbd_hguWtgVHFLtsSMKdF_oBW9N1P51qaDpk9HLrmDQCExEn5y6-qqaOwZPqkXwcmsGBIYlfUHm3ALLWlvBPctuPL3TunvrZuSejVxUn5rxCCfNlE=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", MADRUGADA MUITO LOUCA 2 - VERSÃO EXTENDIDA HD
+https://lh3.googleusercontent.com/xYwvPXIlQVwYJ6kGuqOTQpHZhYFbd_hguWtgVHFLtsSMKdF_oBW9N1P51qaDpk9HLrmDQCExEn5y6-qqaOwZPqkXwcmsGBIYlfUHm3ALLWlvBPctuPL3TunvrZuSejVxUn5rxCCfNlE=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Mentiras e Videotape
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Mentiras e Videotape
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", MEUS 15 ANOS
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", MEUS 15 ANOS: O FILME
+https://lh3.googleusercontent.com/C8OX4qLpY3mJJKj0GGV3pHREAgbkS7OxAIgfAcVpiIb732g8ex6wBE2cfag1uAg6_YjTkJzJqQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Minha Mulher e Minhas Copias
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", MORTOS DE FOME
+https://lh3.googleusercontent.com/h5GMi-Jl2MT66fXcC63cps9Fx7p823Y-uKLabyayH_hLOCq02sEFMdZJ14Z7h7bDo6jal2sBN0vrht7eOTRSBFmPTOgiSXN-aztK38qPAVH59NVHzHgFtJJviIE4LOzxjxy3dyYGnQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", NA BATIDA DO AMOR
+https://lh3.googleusercontent.com/fh75K4N4lPL5q01UukEjuAEiQP2SjXCA0CV0oaaqhfjcYxf9vvCNvkhJ9772jSKiuZ8TKqjY-g=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", NISE
+https://lh3.googleusercontent.com/gZqqVmpMXm2nTQThd5KiBEMV-bGe1SLFZQb6_UFqjomxdFXyuxtOcQmUT6XhbIZhKlwmUk_BkQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", NO RASTRO DA VIOLÊNCIA
+https://lh3.googleusercontent.com/VzldmrZQOXqnqDXuVKm3fRnyJlzhUkCTWAvT9fDIaMAAQPHK-Px0G_8tINcM4Aoh1Edbt4PERDzU2LcQyzBVpT8zwlRDV5FI6u-i2lz8ZenLDItk1JhdyRl1mUss1Y19hy-gg0pO9g=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", NO RASTRO DA VIOLÊNCIA HD
+https://lh3.googleusercontent.com/VzldmrZQOXqnqDXuVKm3fRnyJlzhUkCTWAvT9fDIaMAAQPHK-Px0G_8tINcM4Aoh1Edbt4PERDzU2LcQyzBVpT8zwlRDV5FI6u-i2lz8ZenLDItk1JhdyRl1mUss1Y19hy-gg0pO9g=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O ASSALTO PERFEITO
+https://lh3.googleusercontent.com/WCC0KfmACVa8NoVzpWfmN8huxb9UNnPSIUxDIF8HqnPRNfaAln6nId1fZE7I5x5nc0AuJgsjGjO5rxtO_DQNpJBL_wmr1Oitm2PwEFaIpno7_m5f4xNI4TQwbs1BD923vfrjPo037w=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O ASSALTO PERFEITO
+https://lh3.googleusercontent.com/WCC0KfmACVa8NoVzpWfmN8huxb9UNnPSIUxDIF8HqnPRNfaAln6nId1fZE7I5x5nc0AuJgsjGjO5rxtO_DQNpJBL_wmr1Oitm2PwEFaIpno7_m5f4xNI4TQwbs1BD923vfrjPo037w=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O CAÇADOR DE DEMÔNIOS
+https://lh3.googleusercontent.com/Qp1n-Mo6U8Tu2ost3VcXzGQDiqH7D991Ne8mLD-zqUOEsWF6hnWYaP2pPwVmVcgZs6DKkUFa=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O CAÇADOR DE DEMÔNIOS HD
+https://lh3.googleusercontent.com/Qp1n-Mo6U8Tu2ost3VcXzGQDiqH7D991Ne8mLD-zqUOEsWF6hnWYaP2pPwVmVcgZs6DKkUFa=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O CIRCULO
+https://lh3.googleusercontent.com/fkIvKFxZHx5Hz9A1Uc34xHrypKXiC2Ac4sLkSZbgd2q6Lj_mNaHstun5ltDfnFhNsgwSMNR33Q=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O CIRCULO HD
+https://lh3.googleusercontent.com/fkIvKFxZHx5Hz9A1Uc34xHrypKXiC2Ac4sLkSZbgd2q6Lj_mNaHstun5ltDfnFhNsgwSMNR33Q=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O CULTO DE CHUCKY - HD
+https://lh3.googleusercontent.com/UgGPt4QaQZqSmdm0_kOcGOT5T0EHHK60RzS9VkYjkPVoqKSqCg88aLm-msD--1fdb3V4oziUWTY=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O DRONE -  HD (2017)
+https://lh3.googleusercontent.com/o2NEYTpAp2LO1BtZh1_NOWdL0PMUoOt2eBlB5zy-3jahyzuDFanyiKMdZKk2SZtm6NrdXSija0DE4vWPWSVNMO9tLeosx2Q2CpIySblizXRzGd1cx-qKxVEInORWiLy0SMLXN5ohmA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O ESPAÇO ENTRE NÓS
+https://lh3.googleusercontent.com/GCqUH1IPFxPyvlvIE7A9vi0ewClsg7DCiAaKlMI6rz3l2bVc7-FWtMzjeErvfIjajhEm4_Rpxw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O INVASOR AMERICANO
+https://lh3.googleusercontent.com/GXqmAjjHsYihMKHmdHeJu41VNCvHFAkuL34PXS4rxvbrXuaQxeGTH750WChqBM-i8XiZivF5pJc=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O INVASOR AMERICANO HD
+https://lh3.googleusercontent.com/GXqmAjjHsYihMKHmdHeJu41VNCvHFAkuL34PXS4rxvbrXuaQxeGTH750WChqBM-i8XiZivF5pJc=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O PLANETA VERMELHO
+https://lh3.googleusercontent.com/BYe0ioxCQ3jC476BwfNlI1awjmOcJH99RhbtTxZ8zy18dHO01qOIf4F8ojNmtCRJoXiwzs_X6A=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O PLANETA VERMELHO HD
+https://lh3.googleusercontent.com/BYe0ioxCQ3jC476BwfNlI1awjmOcJH99RhbtTxZ8zy18dHO01qOIf4F8ojNmtCRJoXiwzs_X6A=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O SEGREDO DA CABANA
+https://lh3.googleusercontent.com/2YhZWcfDlXHzK-fawJsxCRQDhZGihc0lW2OP_v3kyGWmbdJwlxt8yTl68MRw5A2Yn7DrG5h5qZs=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O SEGREDO DA CABANA HD
+https://lh3.googleusercontent.com/2YhZWcfDlXHzK-fawJsxCRQDhZGihc0lW2OP_v3kyGWmbdJwlxt8yTl68MRw5A2Yn7DrG5h5qZs=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O SHAOLIN DO SERTÃO
+https://lh3.googleusercontent.com/j4R42v4iX-zd7sUq8TJuqExm2wF0Tpy9FSw0zo_paQQusHBdbF1k1j7-heKmBCQxFUxKJs7Ies9Uj2oz5IyQfZM3W04ZUrBK2S-lqmujWLVzIMU3BsZSkBEMsdkGd55iVg4KHmsiwA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", O SHAOLIN DO SERTÃO HD
+https://lh3.googleusercontent.com/j4R42v4iX-zd7sUq8TJuqExm2wF0Tpy9FSw0zo_paQQusHBdbF1k1j7-heKmBCQxFUxKJs7Ies9Uj2oz5IyQfZM3W04ZUrBK2S-lqmujWLVzIMU3BsZSkBEMsdkGd55iVg4KHmsiwA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OPERAÇÃO RESGATE
+https://lh3.googleusercontent.com/cRZkEQ9oT2SIdxNdB9dNMLCHI9fZlvdL6_roTX5CY4hG7DjTu-xpqdpN3qOIdXNuq-38glhk5Q=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OPERAÇÃO RESGATE HD
+https://lh3.googleusercontent.com/cRZkEQ9oT2SIdxNdB9dNMLCHI9fZlvdL6_roTX5CY4hG7DjTu-xpqdpN3qOIdXNuq-38glhk5Q=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OPERAÇÕES ESPECIAIS
+https://lh3.googleusercontent.com/MpdY3dhQzPud-djyzXcve-Mg9seOve4CbDEUa2vWPQPVGfhxaQSvcqa4hYurxSMA9U72eU8LPee1VK3Y4jSnuyTYfhhEN6w5RoDobD_flxynTFeC_SqpjVrw0IdXfexkFuMeuKfKxMU=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OPERAÇÕES ESPECIAIS HD
+https://lh3.googleusercontent.com/MpdY3dhQzPud-djyzXcve-Mg9seOve4CbDEUa2vWPQPVGfhxaQSvcqa4hYurxSMA9U72eU8LPee1VK3Y4jSnuyTYfhhEN6w5RoDobD_flxynTFeC_SqpjVrw0IdXfexkFuMeuKfKxMU=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OS DEZ MANDAMENTOS
+https://lh3.googleusercontent.com/-or26FxnWanEoY5vTcJywp5VBHHw2CzBjgKmJNcLNFGdoo0SYOxJ0Yt_KmVax9APh2JW2AshduFYovDJ1FKRDT1XDNHVVlDru5Afbpj0H3ubc95W1aeVZoKKkAEm6rSo4CgrWUrARQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", OS PENETRAS
+https://lh3.googleusercontent.com/Fh3qZPXfZYzE9UDnD-nuAW2VerQ5pe0gKzy0c-eLPfqW8NpmZl-q_n2YNryzJTlV3pZ-JOHLrw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", PSICOPATA AMERICANO 2
+https://lh3.googleusercontent.com/yCNGeU5v5zGH-YUPDdCvvVups9iGhHs8i2wTlLyP6DelQiPKNQk5itfJ4IcZ3aDcreD6qrJzw3aGB5lylBgB0ucKjIEJx-sYF25-glokd9Ik6aU8-X08Qg3-avhVNH6nDrvQUSVjNA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", RESIDENT EVIL VENDETTA
+https://lh3.googleusercontent.com/PQWNTQsZ9sT2olRY5pL_il9X7nJ_Rcea-qM662p7e0_Az2mQFnl58rXWp7PbITbOj9zOTUw4mmHIwBffep-Y-ARVDpEoD2B4J971sJ0KFcWX9CHuh84DQkiCHMkHbBVT6G5u4tZGqg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", REZA A LENDA
+https://lh3.googleusercontent.com/NklytFrj7rH2RHW_SlHkei5HVL3ZZb5RjoCLRzxCF6Ra2tPj39MEtnomXIOC6KKUIpSnee-Cbw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", REZA A LENDA HD
+https://lh3.googleusercontent.com/NklytFrj7rH2RHW_SlHkei5HVL3ZZb5RjoCLRzxCF6Ra2tPj39MEtnomXIOC6KKUIpSnee-Cbw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", ROUBANDO CARROS
+https://lh3.googleusercontent.com/tGFZqgia_LIja56UO9U_QLe919Y6syiZaYnf160exKm7W6X7qs5AVQ7FPxVHrHfRGXnMCmu9Ag=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", ROUBANDO CARROS HD
+https://lh3.googleusercontent.com/tGFZqgia_LIja56UO9U_QLe919Y6syiZaYnf160exKm7W6X7qs5AVQ7FPxVHrHfRGXnMCmu9Ag=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Sahara
+https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", SCOOBY DOO
+https://lh3.googleusercontent.com/t6VMHHDdvSiAoIeU5eMfh2MD1W-wwXU16fGeKBFhujZqwHKuFofQFflzncaASoLjIiUlctVhEQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", SCOOBY DOO HD
+https://lh3.googleusercontent.com/t6VMHHDdvSiAoIeU5eMfh2MD1W-wwXU16fGeKBFhujZqwHKuFofQFflzncaASoLjIiUlctVhEQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS SD
+https://lh3.googleusercontent.com/qwy8OdFHWwI1IIal2IoqxB5mgoRXTeiaSyFLS1S2RYirVya-Mkxt1wnJu3WNY0xb_QnDc0I4fA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", SOBRE VIAGENS E AMORES?
+https://lh3.googleusercontent.com/bZJoNXKpA5cxkarnbvRRDfcNkdl29sajFzsx5hIMm5G-xkrXl5Jd-Sabue9_k6UtsONHcaomuw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", T2 - TRAINSPOTTING
+https://lh3.googleusercontent.com/q3_eMfGMMSClX6Tg-T20wPfMFB0baECHQ8R5lcntN1m33xvcgn_5Gyc8CrtEtjjazzJzQdca-w=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", T2 - TRAINSPOTTING  HD
+https://lh3.googleusercontent.com/q3_eMfGMMSClX6Tg-T20wPfMFB0baECHQ8R5lcntN1m33xvcgn_5Gyc8CrtEtjjazzJzQdca-w=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", TEMPO CONTADO
+https://lh3.googleusercontent.com/PJkNq-1g9D6bC0esi67pMVxpHC3w-qAdZ9TTBDQyMHagNJh8irSDJsxh2SQWX075-2ncztLOqQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", TEMPO CONTADO HD
+https://lh3.googleusercontent.com/PJkNq-1g9D6bC0esi67pMVxpHC3w-qAdZ9TTBDQyMHagNJh8irSDJsxh2SQWX075-2ncztLOqQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", THE WALL: NA MIRA DO ATIRADOR
+https://lh3.googleusercontent.com/btFui9nHq5S7AY_5Kp7D_wqpexCcbStpqrEmMMlt7TZSojB9ZTp5UesosGT_IXVB91xvhu8aFpQIR9h9NR-LYPyxq6fuxgHZU864UFLSi-qGVTM-gi5cwu0hVd3Tiwj4Q4fngTs2Ig=m18
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", THE WALL: NA MIRA DO ATIRADOR SD
+https://lh3.googleusercontent.com/btFui9nHq5S7AY_5Kp7D_wqpexCcbStpqrEmMMlt7TZSojB9ZTp5UesosGT_IXVB91xvhu8aFpQIR9h9NR-LYPyxq6fuxgHZU864UFLSi-qGVTM-gi5cwu0hVd3Tiwj4Q4fngTs2Ig=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Trapacas E Dois Canos Fumegantes
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", UMA HISTÓRIA DE VINGANÇA
+https://lh3.googleusercontent.com/QnT93QBHOjyfROMWRe1tVHS_SArFv9DO2GN2Seu1hpJK2xgYQH9H59O5pMix53RZZIkrJ7qhrTfkxynYcVifjPZm79SoJmt-sd-_9CKPjNClnOk9ZeJ21atd6ReG_xPr-ZcwGpWS6w=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", UMA HISTÓRIA DE VINGANÇA HD
+https://lh3.googleusercontent.com/QnT93QBHOjyfROMWRe1tVHS_SArFv9DO2GN2Seu1hpJK2xgYQH9H59O5pMix53RZZIkrJ7qhrTfkxynYcVifjPZm79SoJmt-sd-_9CKPjNClnOk9ZeJ21atd6ReG_xPr-ZcwGpWS6w=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", UMA LOUCURA DE MULHER
+https://lh3.googleusercontent.com/T4wMAqXHupOca5tK9dKtMHF2k92tf4yVNsoFtNMo19lJ1w1RWthlAsLA_PJLSJsFM_YBY21iqw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", UMA LOUCURA DE MULHER HD
+https://lh3.googleusercontent.com/T4wMAqXHupOca5tK9dKtMHF2k92tf4yVNsoFtNMo19lJ1w1RWthlAsLA_PJLSJsFM_YBY21iqw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", VIDA DUPLA
+https://lh3.googleusercontent.com/zHd0sL31bNR5PFSz0DPXIz9MANcLrh01xUJMH2cc-Fos_S7qSZkqgEMIPu7xcB4n3ajJNduIDg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", VIDA DUPLA HD
+https://lh3.googleusercontent.com/zHd0sL31bNR5PFSz0DPXIz9MANcLrh01xUJMH2cc-Fos_S7qSZkqgEMIPu7xcB4n3ajJNduIDg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", VOO 7500
+https://lh3.googleusercontent.com/cpzfNJiZYS05VJhD3mR1bgv2DQDUNoJX8rgnAZx3YYuXfpUko0Q1p-WXiZKPDtvabwhQS6SeIQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", VOO 7500 HD
+https://lh3.googleusercontent.com/cpzfNJiZYS05VJhD3mR1bgv2DQDUNoJX8rgnAZx3YYuXfpUko0Q1p-WXiZKPDtvabwhQS6SeIQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", WALL . E
+https://lh3.googleusercontent.com/XN64UBhXsunLokroQXF-8et9Z0LfDufcCXEBuZH6aKI5cjob3xmth6atJNVO_guKgnBKsKClPA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", WALL . E HD
+https://lh3.googleusercontent.com/XN64UBhXsunLokroQXF-8et9Z0LfDufcCXEBuZH6aKI5cjob3xmth6atJNVO_guKgnBKsKClPA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA", Z: A CIDADE PERDIDA
+https://lh3.googleusercontent.com/-kFeh4r2MmrOz9FOJHLhLtVSB86PSKes3roZHe6pSmijt6s7EASVXWWIOyUVZs26q2BGOeDIVA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",500 DIAS COM ELA
+https://lh3.googleusercontent.com/OwVyIJRh_BZ8pd58RSMa7X0XDy0kLDTkW4ROLodhAv1-3MGSKL8VqrNPXQScWYJdWmUIxzXXAS0zc5df60rLg4nYCQnHX3UKU8J20GLqBcvBKiPdJHxAgYayB9i4eRcIBqay_yCZwg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Beira Mar 2016 Bluray 720p Dublado
+https://lh3.googleusercontent.com/0GvVqHFaEO5OwIFTH53bJ7Askt_Lx0KwR3BXWVD79BS-7bHQwEy42Smpv9LxkTkL4PY975NZ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A festa nunca termina
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A festa nunca termina
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Grande Jogada
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Grande Jogada
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Heranca de Mr. Deeds
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Outra
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Outra
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?STANIPTV
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Ultima Missao
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",ALIEN 3
+https://lh3.googleusercontent.com/B1-FTgPlyEPQvC-l_yLTmDbn4ptCWzB7ey6mmhxonUNbF9D2gDVEfNqh-Iz1LA2Nh2g_8syPYg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",ALIEN 3 HD
+https://lh3.googleusercontent.com/B1-FTgPlyEPQvC-l_yLTmDbn4ptCWzB7ey6mmhxonUNbF9D2gDVEfNqh-Iz1LA2Nh2g_8syPYg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",ALIEN: COVENANT - SD
+https://lh3.googleusercontent.com/x2KtqoLSyZ2lmRZCpYx5lcJiKcEid6JFgRpahQd5T0STLdwgzz2ihcemxBnBmZGh7jCB-KznR7LEKQ_KCtNXn6Yxy6tP2vXzIc00NOpn__FYTRfEkn291qrDaz6hHK-84NBh0rGgvQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",ALIEN: INVASÃO ALIENÍGENA
+https://lh3.googleusercontent.com/OXT1_LH2Q_z7pg81k6lY5-ctaFzmRPYEgEa_Ssg06IIvqEpcMz55WrD35XMV8S2fjFZBhDAahQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",ALIEN: INVASÃO ALIENÍGENA HD
+https://lh3.googleusercontent.com/OXT1_LH2Q_z7pg81k6lY5-ctaFzmRPYEgEa_Ssg06IIvqEpcMz55WrD35XMV8S2fjFZBhDAahQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Almondegas 4 - Ferias de Verao
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Amar; Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Amigas com Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Amigo de Caca
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Amigo de Caca
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",AMOR.COM
+https://lh3.googleusercontent.com/zFHA9CwwBNVuBKNfiUTiRXSPDoUa7P-LCLvL0z7n1KKProod2P_A10f08OxZCJabAOxEI-2iJA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Anjos da Noite: A Evolucao
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Annie
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Aprendendo A Viver
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Aprendendo A Viver
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As Duas Faces Da Lei
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As Duas Faces Da Lei
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As Faces de Helen
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",As Faces de Helen
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Assalto Sobre Trilhos
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Atraidos Pelo Destino
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",BLADE RUNNER: O CAÇADOR DE ANDROIDES
+https://lh3.googleusercontent.com/5pdZM4JfjHnAoRu06jyoaywvQ6SZI_mI8U-u0cnqZFK1O1E-MxKNYU9CQt3e0iX01uVxRQvGBw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bolas em Panico
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Brinquedo Assassino
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Cacada sem Treguas
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Caminho Sem Volta
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Caminho Sem Volta
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CINQUENTA TONS DE PRETO
+https://lh3.googleusercontent.com/Rgvp5YIA5fTqSsZCnZ7nFv_16pwAj3LZvLwz3_C-7sPzGEiBrC12lD-EZnOZJcBr15UV5InNbw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CINQUENTA TONS DE PRETO HD
+https://lh3.googleusercontent.com/Rgvp5YIA5fTqSsZCnZ7nFv_16pwAj3LZvLwz3_C-7sPzGEiBrC12lD-EZnOZJcBr15UV5InNbw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CINQUENTA TONS MAIS ESCUROS
+https://lh3.googleusercontent.com/aKxzaRGD-cbdbLSUMpjV_oUdwjxWYcixJ1w1C6x-6kJ_tw7pq2YUAWMj3V4HdPOoq4RPK_T0ww=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CINQUENTA TONS MAIS ESCUROS
+https://lh3.googleusercontent.com/pu-ZDTR87ONnGHxT4gzmLDVms2NgRM89Ovo6CcdpveFz1yRZnEd3b5odl7IczXii1H59G93BfA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CINQUENTA TONS MAIS ESCUROS HD
+https://lh3.googleusercontent.com/pu-ZDTR87ONnGHxT4gzmLDVms2NgRM89Ovo6CcdpveFz1yRZnEd3b5odl7IczXii1H59G93BfA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",COLOSSAL - HD
+https://lh3.googleusercontent.com/tjKFcmbdn-cWW0H3mkRbanfHCPoOuznktIyFi5VhoLp61jfeHYUfDi3ClDIcaK4dsH19zYmE5A=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",COLOSSAL - SD
+https://lh3.googleusercontent.com/tjKFcmbdn-cWW0H3mkRbanfHCPoOuznktIyFi5VhoLp61jfeHYUfDi3ClDIcaK4dsH19zYmE5A=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Como conquistar uma mulher
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Como Se Fosse a Primeira Vez
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Como Se Fosse a Primeira Vez
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",COMO SE TORNAR O PIOR ALUNO DA ESCOLA
+https://lh3.googleusercontent.com/PzLucgM4oTEq_c-mDfwE15GjDl19HXLoUpifC9hZQgAunDy1cV7ezaJ8zRHESf5amzpxYcpTXg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",COMO SE TORNAR O PIOR ALUNO DA ESCOLA HD
+https://lh3.googleusercontent.com/PzLucgM4oTEq_c-mDfwE15GjDl19HXLoUpifC9hZQgAunDy1cV7ezaJ8zRHESf5amzpxYcpTXg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Contatos Imediatos de Terceiro Grau
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CORRA!!
+https://lh3.googleusercontent.com/Yx88MDFqxEQ0GHd6p_qBzuRuN749rHBBF8QSOu1NvhZtwh4cWXcTDA4j68Jo0GNYhlAIgXeOmg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",CORRA!! HD
+https://lh3.googleusercontent.com/Yx88MDFqxEQ0GHd6p_qBzuRuN749rHBBF8QSOu1NvhZtwh4cWXcTDA4j68Jo0GNYhlAIgXeOmg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Depois.de.Tudo.1080p.WEBDL.5.1.x264.DUAL
+https://lh3.googleusercontent.com/XFfEi-UtaGbUmD-Jl0oxwqmMiV4fOyNYli-9teABpLVYo2p__aDwWQU7mOh-F09WHbrGBJCz=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Destino Especial.2016.720p.BluRay.5.1.x264.DUAL-
+https://lh3.googleusercontent.com/8xSKw3orU9Q4X_l3UbEvfby9xLiCG-tHW0BLJMSPFYqv3qkc9LJF8j-b4KbynVuWQGqIZQFt=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",DETONA RALPH
+https://lh3.googleusercontent.com/9huO2C9dXDtISDw46Bi376ZZ2wRyDZjfBDK75ImOBGjPDXag99U4XnzIklwaJRN-71LqONExBA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",DETONA RALPH HD
+https://lh3.googleusercontent.com/9huO2C9dXDtISDw46Bi376ZZ2wRyDZjfBDK75ImOBGjPDXag99U4XnzIklwaJRN-71LqONExBA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Divisao de Homicidios
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Dr. Fantastico
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Dr. Fantastico
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Espiao Por Acidente
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",EU ESTAVA PENSANDO EM VOCE
+https://lh3.googleusercontent.com/GgIrs6fBmCHEr1HzyrJT1pRekN7V4VqFMUhd-4kSXt9BB8OpDZwmUXANkWHi5RCauTwG_RNq-A8=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Evil Dead - A Morte do Demonio
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Excesso de Bagagem
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",eXistenZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",eXistenZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Femme Fatale
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Fido - O Mascote
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",FOME DE PODER
+https://lh3.googleusercontent.com/f5sbqUJeIUlMaLSUKbg1R6mQMNdcMSE2z3Cu1An95DOOadsrW3wGl6FyafpmxGx6BbhuEZz-_g=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",FOME DE PODER HD
+https://lh3.googleusercontent.com/f5sbqUJeIUlMaLSUKbg1R6mQMNdcMSE2z3Cu1An95DOOadsrW3wGl6FyafpmxGx6BbhuEZz-_g=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",FRAGMENTADO
+https://lh3.googleusercontent.com/IwLgrr4fAjW9NPv5CV56Rs-mQsfht_zl6GOOUhMyvSLi9MELyzmT7o7JSBmydrucj0JJJmREUg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Frankenweenie
+https://lh3.googleusercontent.com/ndElT-obKDIHYjekqbPhdK0K1Z8EMQ_MRUrxUrLgnnHNjBFEBg5XeQa-d5hRECWRFPMer1SCoogeU_5C=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Funny Lady
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Godzilla (1998)
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",GUARDIOES DA GALAXIA 2
+https://lh3.googleusercontent.com/kN6eAeTeCYizivDTeF1ES3wxHL6IVeygCxA3rgdI1mLk6HSVjiuwEePrNXAfqH_3QN_YXNs0Jw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",GUARDIOES DA GALAXIA 2 HD
+https://lh3.googleusercontent.com/kN6eAeTeCYizivDTeF1ES3wxHL6IVeygCxA3rgdI1mLk6HSVjiuwEePrNXAfqH_3QN_YXNs0Jw=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Guerra ao Terror
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",HACKER - TODO CRIME TEM UM INICIO
+https://lh3.googleusercontent.com/IZgD-VyTJOioECBQJp3WrB60spXZugLFx0rezRvHfH1P-r8SFKxP7kr6H9-E97LQZKyM1s5p6w=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",HACKER HD
+https://lh3.googleusercontent.com/aHMgnfxhzREfM3yZeHuz5l6prnvZooA8qUW-vd7rmAT-zztDphhQuNxmKz3QydnYwU-PfJxXkQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",HACKERS: PIRATAS DE COMPUTADOR
+https://lh3.googleusercontent.com/pY_n4GZPFMNoy_II__Zu_bznr6lOIDpDx5XI7-HHB2R3TeNiu9rLZ1l7mGTOUFqSwRsvDTqwftPPf29hPAREU35sOQY90ASdrz9oMz3QWbBYt3GraxtmDpHd7zYvZ3RWZgsVtFV1YA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hancock
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hardcore.Henry.2016.720p.HDRip.AC3.x264.
+https://lh3.googleusercontent.com/NTDytyoByH1JqCqK57eMPSE-tQM4xTxr6L3YyVpvfR_69gHr4PD9YQNFrY2pAhhYdT7jcUj5=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Harry Potter e o Prisioneiro de Azkaban DUB (2004)
+https://lh3.googleusercontent.com/RfN-jdRYBmCDJIcwza8cppCUwyYOeKHtyMcDyrxYXwSy1MaOgjYmhkyq0ejpXxErjdC_K7Zp=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Haven
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Haven
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Herois
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",HOMEM-ARANHA: DE VOLTA AO LAR HD
+https://lh3.googleusercontent.com/o62_6ufEdpoN818I_pCdVRsFqkCny43DfXU5Aawkbq29JJrlyRlSt-7KNxD3OzeTcozU0kkKZw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Honra e Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Honra e Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",HULK: ONDE OS MONSTROS HABITAN
+https://lh3.googleusercontent.com/BqtSwDPaXMjaTVSjWkWuBg7k8f78vi-IdWhYfCNX_3FY00tnzS7GXwxvedOZ_-2aXYBhetFINko=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Impacto Mortal
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Inocente Ou Culpado
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Inocente Ou Culpado
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",INTERNET: O FILME
+https://lh3.googleusercontent.com/nOYSJ7QAtBkOAXK5ZhXJo8M0tg0oqdrM9FY5TTiU5JAm9SVbqPzShb6iHbKxyV6zwIW-q50T6A=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",It: A COISA - HD
+https://lh3.googleusercontent.com/vGHT3iaZiyF86f4GkwG2Om2SBfWnoPFzLFVIOZxN14GzFJX2hDcfHghvSaK_A8z1Ou3YsyDBaA=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",It: A COISA - SD
+https://lh3.googleusercontent.com/vGHT3iaZiyF86f4GkwG2Om2SBfWnoPFzLFVIOZxN14GzFJX2hDcfHghvSaK_A8z1Ou3YsyDBaA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Jogando com Prazer
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JOGOS MORTAIS  2 DUB
+https://lh3.googleusercontent.com/G8BZdZUHIcoh0A4pdYE-wqobqtOLzGVH7tu4h_iJNe_suEvTYYcgSxpX9DYXEUKkQiNkLdeFCisLpA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JOGOS MORTAIS  3 DUB
+https://lh3.googleusercontent.com/IsqsIyF9sdDnRDr6Sipb5p2r8488hyRBQrur82jYE1lX5tNI_Yc7ouwy0bRf8wCE5jg6WeCzh0yRxg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JOGOS MORTAIS  4 DUB
+https://lh3.googleusercontent.com/pHvZnMLRFTwa7Zr3RAsMnDpiG7DF3ZyKarTJV9baxFLCMbmuWvOubxwPSB7OwfNLrX2FvPs-2myUZw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",JOGOS MORTAIS  5 DUB
+https://lh3.googleusercontent.com/3Z7-QSd9nMf8jxy6ksoVgx_XEfadmZW_quRl7DYFwKCM6wW9jZw9m1LAY-bME9X241nZBIzHBstwiQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Karate Kid 3 - O Desafio Final Filme
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Kung-Fu Futebol Clube
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lenda Urbana 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lenda Urbana 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Lua de Mel em Las Vegas
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mogli - O Menino Lobo (1967) 720p
+https://lh3.googleusercontent.com/8SGxnIks_yxCJCb5rwTRjkW5cFQgpWvoGsnAKPtFZR-DHxPMyKtd0q0VaemR6Ezid13MTISF=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nao e Mais um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?ELITEBOXX
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O ABC do Amor
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Albergue
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Albergue
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Aprendiz
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Chamado de Xangai
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Despertar de uma Paixao
+http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Forasteiro 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Guardiao
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Guardiao - 2 Retorno As Minas do Rei Salomao
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Guardiao 3 - A Maldicao do Calice de Judas
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Homen Sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Julgamento de Paris
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Julgamento de Paris
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4?ELITEBOXX
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Otario
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Povo Contra Larry Flynt
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Regaste de um Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Resgate de um Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4?ELITEBOXX
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Senhor das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Sequestro do Metro 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Tango e o Assassino
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",O Vigarista do ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",OPERACAO BIG HERO
+https://lh3.googleusercontent.com/sLIOAAQSudIxfIHwsDSKiVFJQtgNu992U01S4U5K7e3PkL-xfsz6cNRYOOuJmkKenVLVc7IuWQ=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",OPERACAO BIG HERO HD
+https://lh3.googleusercontent.com/sLIOAAQSudIxfIHwsDSKiVFJQtgNu992U01S4U5K7e3PkL-xfsz6cNRYOOuJmkKenVLVc7IuWQ=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Miseraveis
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Reis de Dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Os Safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Poder e Corrupcao (Dirty)
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Poder e Corrupcao (Dirty)
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",POLÍCIA FEDERAL: A LEI É PARA TODOS - HD
+https://lh3.googleusercontent.com/7j_PvpxNu6o7FSoLZ3Q_RMlplBkXs7KPVJSbC2dZ3dzQW_A3Pas_Zss7lO_RdVmo6qpEzS1Uq34=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",POWER RANGERS SD
+https://lh3.googleusercontent.com/U-TYftHdAGYXMebeQzXEkoL6d4tBWnTFK1DbXkwX1MxWbyptwWmPiCU7JKtqpOFQdDae_SKSsA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Provas E Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",QUATRO VIDAS DE UM CACHORRO - DUB
+https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rain Man
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Red - Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",REI ARTHUR - A LENDA DA ESPADA
+https://lh3.googleusercontent.com/1YVUPBZWzXeLKbokpPtXkdTw095qSUObq-aSvZ5QMSm3s-9hG40HN0uU4Idf8Zxz3sGHa_IDHg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Resident Evil - O Hospede Maldito
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Resident Evil 3: A Extincao
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Risco Absoluto
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Robocop - O Policial do Futuro
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",RoboCop 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sacrifício
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Segurando As Pontas
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Seis Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Seis Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?ELITEBOXX
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Shrek 2
+https://lh3.googleusercontent.com/oYrJbsAg9HFVQNilaUZdxjhxnRXXzeLxhd27itcKcv0s53WkRukMGR7ciYT8167bjmOKct9ayhR9dq3Saw=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Silent Hill: Revelacao
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Simplesmente Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Skyline - A Invasao
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Starman - O Homem das Estrelas
+http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",STEEL RAIN
+https://lh3.googleusercontent.com/fcDA5PN5Ltsq-fNyU6xOKlcKW-RauIfgNoYIgLsOeyu_L4m48icy9pPavDdepoy7bJz6b80-9AE=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Supernova
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",TE PEGO NA SAIDA
+https://lh3.googleusercontent.com/l2eeC85SOzfQSFiJA90SBs5IblgXeZdqmzR8erh3hRx7GN3C0uFLbnqVZj_7gDypmFyurHFaEg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",TE PEGO NA SAIDA HD
+https://lh3.googleusercontent.com/l2eeC85SOzfQSFiJA90SBs5IblgXeZdqmzR8erh3hRx7GN3C0uFLbnqVZj_7gDypmFyurHFaEg=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",THOR HD DUB (2011)
+https://lh3.googleusercontent.com/8yHazDUJZLs-v196Mkm3oBdJhtUXttRHjRuR9v4KKVvVqrr4sCEeEtPPTQwKmFexV1C3uFnl=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Triplo X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Ato de '
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um homem fora-de-serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Festa no Ar
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Garota Encantada
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Garota Encantada
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",VELOZES E FURIOZOS 8 HD
+https://lh3.googleusercontent.com/dVrYt-LHde47bVmTunbKznSvzyXARi4tn6fLGwbF8pRYDwnH5m1FMHPQjzkoo98oaby-DM9EFg=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vestigios do Dia
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vestigios do Dia
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",VIDA
+https://lh3.googleusercontent.com/gA5M-Gzk3vbPI9_oEwe6ClXfx5k0JdBS5KV6XV7SKtJcqodSCaSVI7TTPiVZCKuEYsNEjy8__g=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",VIDA HD
+https://lh3.googleusercontent.com/gA5M-Gzk3vbPI9_oEwe6ClXfx5k0JdBS5KV6XV7SKtJcqodSCaSVI7TTPiVZCKuEYsNEjy8__g=m37
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4?ELITEBOXX
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Voando Alto 1080p (2016) Dual Áudio BluRay 5.1
+https://lh3.googleusercontent.com/lMdrSvt_BndWcj8g6wAnWAV8Eg0sNz1hsV6nEcJO1jfJZHGXkgEt7qon3pUtizmDaS31jtkA=m22
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",XXX2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://flammatreinamentos.com.br/img/solucoes/sessao-pipoca.png" group-title="CINE PIPOCA",XXX2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?ELITEBOXX
