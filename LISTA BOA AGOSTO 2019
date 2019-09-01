@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="MAQUINAS MORTAIS", 
+https://1fgqfvw.oloadcdn.net/dl/l/6--ADnxBCs1y3lkK/vB_voT8Nr4o/Maquinas.Mortais.2019.720p.DUB.ENC.mp4?mime=true
 #EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title="TV", SBT SP
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
 
