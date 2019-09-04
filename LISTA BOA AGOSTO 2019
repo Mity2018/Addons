@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qzIieLNegNXZRzYLGgf8pYXp74X.jpg" group-title="TV", Ouija House
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Ouija.House.BRS.Latino.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4eGEmz5ypSXLoqGD8Rg4gJxaz3T.jpg" group-title="TV", Mascotas 2
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/The%20Secret%20Life%20of%20Pets%202%20(2019)%20HD%201080p%20Latin0.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/d3jBRiyojyYmJdNHvnpMEuMzfC9.jpg" group-title="TV", Peleando en Familia
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Luchando%20Con%20Mi%20Familia%20(2019)%20HD%201080p%20Latin0.mp4
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/tu8ipq621/sbt_MEGAMAXIPTV.jpg" group-title=
 https://1fgqfvw.oloadcdn.net/dl/l/6--ADnxBCs1y3lkK/vB_voT8Nr4o/Maquinas.Mortais.2019.720p.DUB.ENC.mp4?mime=true
 
