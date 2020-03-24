@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR red]* [/COLOR][B][COLOR blue]FILMES[/COLOR][COLOR white] BOM 2 [/COLOR][/B]</title>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]FILMES 2020[/COLOR][COLOR white] BOM 2 [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -9,7 +9,7 @@
 <thumbnail>https://cdn.forbes.com.mx/2017/08/kubrick-P-640x360.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=8vKzFCPZbQ4&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN</page>
+<page>https://www.youtube.com/playlist?list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN</page>
 </regex>
 </item>
 
