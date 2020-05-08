@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://rexpelis.me//storage/movies/March2020/I2VwAawjVELhgfFahsJ8.jpg"group-title="CrisIPTV",ct producciones
 https://storage.googleapis.com/radar-234622.appspot.com/Bloodshot2020_LAT_HD.mp4
+#EXTINF:-1 tvg-logo="https://rexpelis.me//storage/movies/March2020/I2VwAawjVELhgfFahsJ8.jpg"group-title="CrisIPTV",UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
 
 
 
