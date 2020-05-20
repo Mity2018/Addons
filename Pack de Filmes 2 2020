@@ -9,6 +9,6 @@
 <thumbnail>https://cdn.forbes.com.mx/2017/08/kubrick-P-640x360.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=0CLTfR-7zFg&list=PLFB458D649A494C27</page>
+<page>https://www.youtube.com/playlist?list=PLFB458D649A494C27</page>
 </regex>
 </item>
