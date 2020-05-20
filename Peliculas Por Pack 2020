@@ -1,0 +1,14 @@
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]FILMES 2020[/COLOR][COLOR white] Pack 1 2020 [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://cdn.forbes.com.mx/2017/08/kubrick-P-640x360.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=H5UxOo6vQF8&list=PLNq2eaZvd5PsY9bF9QTeJ30IRscWVT_4c</page>
+</regex>
+</item>
