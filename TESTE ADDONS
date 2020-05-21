@@ -1,0 +1,69 @@
+<channels>
+<channel>
+<name>[COLOR white][B]TV AO VIVO[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/0SDdVGy.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/TV_AO_VIVO.xml</externallink>
+<fanart>https://i.imgur.com/hUOtjrk.jpg</fanart>
+<info>Os Melhores Canais De TV AO Vivo, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]PARCEIROS DO ADDON[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/ptj3sfH.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/TvAoVivo/Parceiros.xml</externallink>
+<fanart>https://i.imgur.com/xOYrfUH.png</fanart>
+<info>Obrigado A Todos Parceiros Do Nosso Addon!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/s22zCDD.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/SERIES.xml</externallink>
+<fanart>https://i.imgur.com/NZItyHQ.jpg</fanart>
+<info>As Melhores Séries Da Tv Fechada, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/1JJwQMl.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/Pasta%20dos%20Filmes/categorias.xml</externallink>
+<fanart>https://i.imgur.com/NoK2CDM.jpg</fanart>
+<info>Os Melhores Filmes Do Cinema, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/yn3iTPp.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/DESENHOS.xml</externallink>
+<fanart>https://i.imgur.com/WCHOjaw.jpg</fanart>
+<info>As Melhores Desenhos De TV Fechada Ou Que Marcaram Sua infância, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/w7S6xV4.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium//Documentarios.xml</externallink>
+<fanart>https://i.imgur.com/zrKy3RW.jpg</fanart>
+<info>As Melhores Documentários De TV Fechada, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]NOVELAS[/B][/COLOR] - [COLOR red][B]BLURAY PLAY'S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/anlfn7E.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium//Novelas.xml</externallink>
+<fanart>https://i.imgur.com/tfDWHbs.jpg</fanart>
+<info>As Melhores DNoevlas De TV Fechada Ou Que Marcaram Sua infância, Você Só Encontra No Addon Bluray Play's, Vem Para O Bluray!</info>
+</channel>
+</channels>
