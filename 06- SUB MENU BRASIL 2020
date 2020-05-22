@@ -1,0 +1,31 @@
+channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]FILMES [/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/0sHkjtN.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/Filmesbase.xml</externallink>
+<fanart>https://i.imgur.com/IrtpLv1.jpg</fanart>
+<info>Os Melhores Filmes Lançamentos, Você Só Encontra Aqui, Vem Para O Bluray!</info>
+</channel>
+</channels>
+ 
+<channels>
+<channel>
+<name>[COLOR white][B]SERIES[/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/TG0Uur6.png</thumbnail>
+<externallink>http://bluerayplay.com/kodi/Premium/Pasta%20dos%20Filmes/filmesaleatorios.xml</externallink>
+<fanart>https://i.imgur.com/OGDDtiV.png</fanart>
+<info>Faça Seu Pedido De Filmes No WhatsApp, Vem Para O Bluray!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]TV AO VIVO[/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/afa7COa.png</thumbnail>
+<externallink>http://173.249.26.98/home/micro/base/Pasta%20dos%20Filmes/filmesnacional.xml</externallink>
+<fanart>https://i.imgur.com/vNNA1oO.jpg</fanart>
+<info>Os Melhores Filmes Nacionais, Você Só Encontra Aqui, Vem Para O Bluray!</info>
+</channel>
+</channels>
