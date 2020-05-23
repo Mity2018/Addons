@@ -1,3 +1,5 @@
+
+
 <item>
 <title>[COLOR white][B]Abominável[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mM8yOgbr0Hw$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
@@ -56,7 +58,7 @@
 <item>
 <title>[COLOR white][B]Os Assassinatos de Amityville[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,2/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=jAbtgtmuDL4$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1YIgsXF1J64dA3D52_h0GNGbPp47V7vJV$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YIgsXF1J64dA3D52_h0GNGbPp47V7vJV/view</link>
 <fanart>https://image.tmdb.org/t/p/original/gB1QqGDMLgwYCsbXSId8gLPNAvg.jpg</fanart>
 <thumbnail>https://i.imgur.com/hF4y9xt.png</thumbnail>
 <info>[COLOR white][B]Um ano inteiro antes da chegada dos Lutz em Amityville, na infame casa na 112 Ocean Avenue, o filho mais velho de Ronald (Paul Ben-Victor) e Louise DeFeo (Diane Franklin) pegou um poderoso rifle e executou seus pais e seus quatro irmãos inocentes enquanto dormiam. Segundo o assassino, uma voz em sua cabeça foi a mandante destes crimes.[/B][/COLOR]</info>
@@ -67,7 +69,7 @@
 <item>
 <title>[COLOR white][B]Poderes Extraordinários[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,9/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Z2HE9VyaDH4$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1sgYjkgFZggn-PeyTKwuqCJVLy_QU7hbf$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sgYjkgFZggn-PeyTKwuqCJVLy_QU7hbf/view</link>
 <fanart>https://image.tmdb.org/t/p/original/riqnB9uap4iQICx7vg5nluw0D9J.jpg</fanart>
 <thumbnail>https://i.imgur.com/WaYcEpe.png</thumbnail>
 <info>[COLOR white][B]Quando suas habilidades superpoderosas são descobertas, uma mulher é forçada a fugir. Anos após abandonar sua família, o único lugar que resta para ela se esconder é sua prórpia casa.[/B][/COLOR]</info>
@@ -78,7 +80,7 @@
 <item>
 <title>[COLOR white][B]Viver Duas Vezes[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,3/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Ibh7C1bsbWE$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1gWG4ch9bIqHmBpuTow-5SxcadOVd1Mg-$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gWG4ch9bIqHmBpuTow-5SxcadOVd1Mg-/view</link>
 <fanart>https://image.tmdb.org/t/p/original/mjSypIJlFYrxUZJNllPZ2edSs0c.jpg</fanart>
 <thumbnail>https://i.imgur.com/KzhmGKm.png</thumbnail>
 <info>[COLOR white][B]Quando Emilio (Oscar Martínez) é diagnosticado com Alzheimer, ele e sua família resolvem partir em busca do seu amor de infância.[/B][/COLOR]</info>
@@ -89,9 +91,9 @@
 <item>
 <title>[COLOR white][B]Esquadrão 6[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,7/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=n6zQ1CKXBtA$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1eNhbI1bTE1fVmrgeOGUNQw2xl2ti7xjk$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=12dMQLq9V1ymNZJSgK_rgWdEri3y0jwla$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1tJIW3reXy0au4Trbnr296KVTJtyEeleK$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eNhbI1bTE1fVmrgeOGUNQw2xl2ti7xjk/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12dMQLq9V1ymNZJSgK_rgWdEri3y0jwla/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tJIW3reXy0au4Trbnr296KVTJtyEeleK/view</link>
 <fanart>https://image.tmdb.org/t/p/original/eFw5YSorHidsajLTayo1noueIxI.jpg</fanart>
 <thumbnail>https://i.imgur.com/cs6f4xo.png</thumbnail>
 <info>[COLOR white][B]Seis bilionários forjam as suas próprias mortes e criam um grupo de elite para combater o crime, sem serem identificados. A sinopse oficial ainda não foi divulgada.[/B][/COLOR]</info>
