@@ -1,14 +1,4 @@
 <item>
-<title>[B]Abominável[COLOR yellow](CrisIPTV)[/COLOR] - [COLOR lime](CrisIPTV)[/COLOR]2020[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154m1e1jcv5p-Hy056dUV3vvNxKddrF5L/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-
-<item>
 <title>[COLOR white][B]Abominável[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mM8yOgbr0Hw$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154m1e1jcv5p-Hy056dUV3vvNxKddrF5L/view</link>
@@ -22,7 +12,7 @@
 <item>
 <title>[COLOR white][B]Ano Novo, Morte Nova[/B][/COLOR] --> [COLOR yellow][B](IMDB: 3,4/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=3Hjo2ewvAIs$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/file/d/1GWVTy1OjQY_ON52RJ1UqPCkQsPPVlDs6/view$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GWVTy1OjQY_ON52RJ1UqPCkQsPPVlDs6/view</link>
 <fanart>https://image.tmdb.org/t/p/original/2ZIQ4p0CP09gOiJRWDc5QSMifRl.jpg</fanart>
 <thumbnail>https://i.imgur.com/0j6QhAh.png</thumbnail>
 <info>[COLOR white][B]Durante a véspera de ano novo, sete amigos e um mochileiro se unem para sobreviver à crueldade de três assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles são perseguidos e assassinados das formas mais chocantes e violentas. Conseguirá alguém sobreviver à fúria dos três matadores e começar o novo ano vivo? Não será fácil, pois eles chegaram para matar, e não vão parar até que o banho de sangue termine.[/B][/COLOR]</info>
@@ -33,7 +23,7 @@
 <item>
 <title>[COLOR white][B]Zumbilândia: Atire Duas Vezes[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,9/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=00XF0Mzfkik$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1nxY5_ioOK_ETW0fhKjzqPHk-3V2hizOy$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nxY5_ioOK_ETW0fhKjzqPHk-3V2hizOy/view</link>
 <fanart>https://image.tmdb.org/t/p/original/3ghImmHdp4RnC3UkL6hpLayclnb.jpg</fanart>
 <thumbnail>https://i.imgur.com/aXXCQBu.png</thumbnail>
 <info>[COLOR white][B]Anos depois de se unirem para atravessar o início da epidemia zumbi nos Estados Unidos, Columbus (Jesse Eisenberg), Tallahassee (Woody Harrelson), Wichita (Emma Stone) e Little Rock (Abigail Breslin) seguem buscando novos lugares para habitação e sobrevivência. Quando decidem ir até a Casa Branca, acabam encontrando outros sobreviventes e percebem que novos rumos podem ser explorados.[/B][/COLOR]</info>
@@ -44,7 +34,7 @@
 <item>
 <title>[COLOR white][B]Malévola: Dona do Mal[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,2/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=EQvOkjxsO0k$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=19RLf0A1FiQJ6Cn6FpQDWnqZqp-6hY-rw$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19RLf0A1FiQJ6Cn6FpQDWnqZqp-6hY-rw/view</link>
 <fanart>https://image.tmdb.org/t/p/original/skvI4rYFrKXS73BJxWGH54Omlvv.jpg</fanart>
 <thumbnail>https://i.imgur.com/Cn2RjL1.png</thumbnail>
 <info>[COLOR white][B]Cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.[/B][/COLOR]</info>
@@ -55,7 +45,7 @@
 <item>
 <title>[COLOR white][B]O Herdeiro das Drogas[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,1/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=8o5Tw0vr-58$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1fJBsjplFbFmiuIZdZkPlmFbTR9883wVF$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fJBsjplFbFmiuIZdZkPlmFbTR9883wVF/view</link>
 <fanart>https://image.tmdb.org/t/p/original/qgntyi1M022iSsNEuzjENljJnWl.jpg</fanart>
 <thumbnail>https://i.imgur.com/4zn0hKW.png</thumbnail>
 <info>[COLOR white][B]Os irmãos Kip (Josh Hartnett), Josie (Margarita Levieva) e Boots tentam escapar de uma espiral de violência que os mantém cativos desde a morte do pai, morando em uma região prejudicada pela economia, onde a venda de drogas tornou-se o seu meio de sobrevivência.[/B][/COLOR]</info>
