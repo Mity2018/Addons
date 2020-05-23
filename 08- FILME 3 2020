@@ -245,9 +245,9 @@
 <title>[COLOR white][B]Os Mortos Não Morrem[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,5/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Em uma cidadezinha pacata, uma série de crimes começam a chamar a atenção dos policiais Cliff (Bill Murray) e Ronald (Adam Driver). Depois de investigarem, descobrem que os seus piores medos se tornaram reais: o local está sendo tomado por zumbis, que voltaram para executar as atividades que faziam diariamente quando vivos.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=8A7p2ZcfrUE$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1nDbdCBaslJlnQURbwcV_duMnDkSmY24c$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1mpR83yMDtz-7bln1tZawU2Fe_O6w1bvf$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1Uo5rffvbGc3_yZhivmsTkNrxV6AlJ2mP$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nDbdCBaslJlnQURbwcV_duMnDkSmY24c/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mpR83yMDtz-7bln1tZawU2Fe_O6w1bvf/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uo5rffvbGc3_yZhivmsTkNrxV6AlJ2mP/view</link>
 <fanart>https://image.tmdb.org/t/p/original/8upPYGP3t2eFTPSSDi6VBvHVAzE.jpg</fanart>
 <thumbnail>https://i.imgur.com/p93XxCj.png</thumbnail>
 <genre>[COLOR white][B]COMÉDIA, TERROR, FANTASIA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 44m[/B][/COLOR]</genre>
@@ -258,8 +258,8 @@
 <title>[COLOR white][B]Pânico nas Alturas[/B][/COLOR] --> [COLOR yellow][B](IMDB: 4,2/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Cinco jovens que querem celebrar a véspera de ano novo no topo de uma montanha, ficam presos em um teleférico. O que começou como uma festa de aventura, logo se torna uma luta pela sobrevivência.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=mWPF3UXKRSk$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1Yl9r2867xfO6ruRVynHzB7HvUfoL62dQ$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1csXwoEe3OaGEORcDYF0Ryz29L8hXgKXE$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uo5rffvbGc3_yZhivmsTkNrxV6AlJ2mP/view</link>$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1csXwoEe3OaGEORcDYF0Ryz29L8hXgKXE/view</link>
 <fanart>https://image.tmdb.org/t/p/original/yAd7iEzmEp0VfZbodJvPB9Dolek.jpg</fanart>
 <thumbnail>https://i.imgur.com/6WyryrT.png</thumbnail>
 <genre>[COLOR white][B]THRILLER[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 25m[/B][/COLOR]</genre>
@@ -270,9 +270,9 @@
 <title>[COLOR white][B]The Mustang[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,9/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Julgado como um homem violentamente convicto, Roman Coleman (Matthias Schoenaerts) recebe a chance de participar de uma nova terapia de reabilitação. O inovador programa de treinamento procura mudar suas raízes violentas de uma maneira pouco ortodoxa.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=k2a-KSOCIeY$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1sBESt8K8LCsSvFf63HiVVXudB8SZvNtX$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1GvOKv_ZRc2vODPsyYAxCurapd18C572a$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1I1IQ8WRm3f4Alp4yYQ-GeYt6nqI-qkkA$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sBESt8K8LCsSvFf63HiVVXudB8SZvNtX/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GvOKv_ZRc2vODPsyYAxCurapd18C572a/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I1IQ8WRm3f4Alp4yYQ-GeYt6nqI-qkkA/view</link>
 <fanart>https://image.tmdb.org/t/p/original/fyeWMg5xHptugAXsdfMXlUbYBpO.jpg</fanart>
 <thumbnail>https://i.imgur.com/AYyYumL.png</thumbnail>
 <genre>[COLOR white][B]DRAMA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 36m[/B][/COLOR]</genre>
@@ -283,8 +283,8 @@
 <title>[COLOR white][B]Ad Astra - Rumo às Estrelas[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,8/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Roy McBride (Brad Pitt) é um engenheiro espacial que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos no caminho para Netuno.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=0kfRv-L-vqg$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=17odJCeVYNwpB_7nJmChnqi05tYa8yf-V$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1PgZpVn-NgGSAdEMwSlOYKKHUe6-DnZro$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17odJCeVYNwpB_7nJmChnqi05tYa8yf-V/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PgZpVn-NgGSAdEMwSlOYKKHUe6-DnZro/view</link>
 <link>https://tinyurl.com/sjq38zg$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/sjq38zg$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <fanart>https://www.themoviedb.org/movie/419704-ad-astra/images/backdrops?language=pt-BR</fanart>
@@ -299,9 +299,9 @@
 <link>plugin://plugin.video.youtube/play/?video_id=yd71hmhobAg$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
 <link>https://drive.google.com/open?id=1XFQ-NYfhs8rWhmvfi1wjluOqICvCu-r4$nome=[COLOR white][B]1 Opcao - LEGENDADO[/B][/COLOR]</link>
 <link>https://tinyurl.com/sgrzz83$nome=[COLOR white][B]2 Opcao - LEGENDADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1lV_JGtVgtkDDyL3BuoHjIAj4ApH1dOCB$nome=[COLOR white][B]3 Opcao - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1EL3kT3I1VpXCqKfYPGwWEkra2whlA-Si$nome=[COLOR white][B]4 Opcao - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1ZXsmTGyd6CHoCK_3QEDhC2UIp57nb2Ri$nome=[COLOR white][B]5 Opcao - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lV_JGtVgtkDDyL3BuoHjIAj4ApH1dOCB/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EL3kT3I1VpXCqKfYPGwWEkra2whlA-Si/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZXsmTGyd6CHoCK_3QEDhC2UIp57nb2Ri/view</link>
 <fanart>https://image.tmdb.org/t/p/original/spYx9XQFODuqEVoPpvaJI1ksAVt.jpg</fanart>
 <thumbnail>https://i.imgur.com/RM65oHX.png</thumbnail>
 <genre>[COLOR white][B]AÇÃO, THRILLER[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 31m[/B][/COLOR]</genre>
@@ -312,9 +312,9 @@
 <title>[COLOR white][B]Sócrates[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Depois da morte de sua mãe, o jovem Sócrates (Christian Malheiros), que foi criado apenas por ela durante os últimos tempos, precisa fazer tudo o que for possível para que consiga sobreviver na realidade da miséria, somado com o preconceito por ser homossexual. Seus valores e ideais são colocados na balança com o medo de não conseguir se virar sozinho.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=akWcVNAXDG4$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1aUANNbheJhVt2wCvRLpzR0LgM-hRiN3C$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1eDw8fw6KeG-3aTdWms1lgTBuNBnfKTKS$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=12-uBmXXzWs1CpnqkNkhhSpXTze1OwKFe$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aUANNbheJhVt2wCvRLpzR0LgM-hRiN3C/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eDw8fw6KeG-3aTdWms1lgTBuNBnfKTKS/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12-uBmXXzWs1CpnqkNkhhSpXTze1OwKFe/view</link>
 <link>https://tinyurl.com/rotjvvl$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/rnedulm$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/quyvxjb$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -328,9 +328,9 @@
 <title>[COLOR white][B]Bacurau[/B][/COLOR] --> [COLOR yellow][B](IMDB: 8,1/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Pouco após a morte de dona Carmelita, aos 94 anos, os moradores de um pequeno povoado localizado no sertão brasileiro, chamado Bacurau, descobrem que a comunidade não consta mais em qualquer mapa. Aos poucos, percebem algo estranho na região: enquanto drones passeiam pelos céus, estrangeiros chegam à cidade pela primeira vez. Quando carros se tornam vítimas de tiros e cadáveres começam a aparecer, Teresa (Bárbara Colen), Domingas (Sônia Braga), Acácio (Thomas Aquino), Plínio (Wilson Rabelo), Lunga (Silvero Pereira) e outros habitantes chegam à conclusão de que estão sendo atacados. Falta identificar o inimigo e criar coletivamente um meio de defesa.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=qlheaoLnewE$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1ojtlLsCmHijFei8Kh-7dUwDwJiBTK9X6$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1qA1Uenh-QWOQRHg6T8YuM9h_AvLps3SD$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1mN4r8jn_Qb4qrERPQfbGx4G4idH_GM9J$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12-uBmXXzWs1CpnqkNkhhSpXTze1OwKFe/view</link>$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qA1Uenh-QWOQRHg6T8YuM9h_AvLps3SD/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mN4r8jn_Qb4qrERPQfbGx4G4idH_GM9J/view</link>
 <link>https://tinyurl.com/w5nq5p2$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/rk3przu$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/rcna2by$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -344,9 +344,9 @@
 <title>[COLOR white][B]It - Capítulo Dois[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,8/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]27 anos depois dos eventos de "It - A Coisa", Mike (Isaiah Mustafa) percebe que o palhaço Pennywise (Bill Skarsgard) está de volta à cidade de Derry. Ele convoca os antigos amigos do Clube dos Otários para honrar a promessa de infância e acabar com o inimigo de uma vez por todas. Mas quando Bill (James McAvoy), Beverly (Jessica Chastain), Ritchie (Bill Hader), Ben (Jay Ryan) e Eddie (James Ransone) retornam às suas origens, eles precisam se confrontar a traumas nunca resolvidos de suas infâncias, e que repercutem até hoje na vida adulta.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=Zs0hLEHAoSs$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1u58vvPysPo7Guo8BT47ZtCs6LJ0lHrZ4$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1WNvUv_jF6s-DY4DG5DDBDARaUy9pyWXH$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1Q4OvmHL1NKKbWuG10sMJFjsUaiCGv-1r$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u58vvPysPo7Guo8BT47ZtCs6LJ0lHrZ4/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WNvUv_jF6s-DY4DG5DDBDARaUy9pyWXH/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q4OvmHL1NKKbWuG10sMJFjsUaiCGv-1r/view</link>
 <link>https://tinyurl.com/t97k2sn$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/rot79tp$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/t9po7tr$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -360,9 +360,9 @@
 <title>[COLOR white][B]Nada a Perder 2: Não Se Pode Esconder a Verdade[/B][/COLOR] --> [COLOR yellow][B](IMDB: 3,8/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Após deixar a prisão, em 1992, Edir Macedo (Petrônio Gontijo) atravessa uma série de provações: a conduta inapropriada de outros bispos da Igreja, o ataque de políticos e católicos, a doença de sua mãe, a tragédia do desabamento do teto de uma Igreja em São Paulo. Enquanto isso, fiéis começam a ser perseguidos nas ruas e as Igrejas correm o risco de fechar. Pressionado, ele decide subir o monte Sinai e visitar Jerusalém, onde tem uma ideia: construir o Templo de Salomão, réplica do local homônimo citado na Bíblia, localizado em São Paulo.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=W5IH9n8hAgA$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1WO5P1uubISGMgQMlhPHNbTbqD89qHI7k$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1FRmZlrKYQXLQY7lVi2lnKKYoEpNd-eLc$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1HIsK9p9ck9ECvaAG4VPw-6QM_SvJZG74$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WO5P1uubISGMgQMlhPHNbTbqD89qHI7k/view</link>                                                          
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FRmZlrKYQXLQY7lVi2lnKKYoEpNd-eLc/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HIsK9p9ck9ECvaAG4VPw-6QM_SvJZG74/view</link>
 <link>https://tinyurl.com/t8tmtyx$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/sg7ym57$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/uox7mq9$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -376,9 +376,9 @@
 <title>[COLOR white][B]Angry Birds 2: O Filme[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,4/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Red e seus amigos dedicam a vida a proteger a Ilha dos Pássaros dos constantes ataques vindos da Ilha dos Porcos. Entretanto, quanto uma terceira ilha surge e começa a atacá-los, Leonardo, o rei dos porcos, decide procurar seu arqui-inimigo em busca de uma trégua para que, juntos, possam enfrentar a ameaça em comum.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=M3S_h4yiqm4$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1J8nuXGLhK4slmk9djeO-GbZwSKJ0eGPt$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1ex6BFWxfz0zMb-ShuvMaLeJHQIU9RmrW$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1cqcqCEKc9GtnlKyut6P407xgWhQCPEyC$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J8nuXGLhK4slmk9djeO-GbZwSKJ0eGPt/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ex6BFWxfz0zMb-ShuvMaLeJHQIU9RmrW/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cqcqCEKc9GtnlKyut6P407xgWhQCPEyC/view</link>
 <link>https://tinyurl.com/v3jm9q8$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/wn443f5$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/v9b3npg$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -393,9 +393,9 @@
 <info>[COLOR white][B]Desde que se conheceram, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um homem alterado geneticamente que deseja obter um vírus mortal para pôr em andamento um plano que mataria milhões de pessoas em nome de uma suposta evolução da humanidade. Para tanto eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.
 [/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=CzawIsb4X2Q$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1J08_vz4ReFk3GZwldEqjUjQAqQHmALfT$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1nO75ZiGYQd_A9K99MLDMZ87EOIro7Hea$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1mdoilC-3V6ZqrDNW5TxiLZv2jqvPT0np$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J08_vz4ReFk3GZwldEqjUjQAqQHmALfT/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nO75ZiGYQd_A9K99MLDMZ87EOIro7Hea/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mdoilC-3V6ZqrDNW5TxiLZv2jqvPT0np/view</link>
 <link>https://tinyurl.com/y2wa7tv6$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y5g38qsv$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y36vzkof$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -409,9 +409,9 @@
 <title>[COLOR white][B]Brinquedo Assassino[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,9/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Andy (Gabriel Bateman) e sua mãe se mudam para uma nova cidade em busca de um recomeço. Preocupada com o desinteresse do filho em fazer novos amigos, Karen (Aubrey Plaza) decide dar a ele de presente de aniversário um boneco tecnológico que, além de ser o companheiro ideal para crianças e propor diversas atividades lúdicas, executa funções da casa sob comandos de voz. Os problemas começam a surgir quando o boneco Chuck se torna extremamente possessivo em relação a Andy e está disposto a fazer qualquer coisa para afastar o garoto das pessoas que o amam.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=6HqSAtciV3U$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1M4LVoIZKvMGmoKnJ6V5R98HUtRV17OsN$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1xqVG54GZAmmDXUuEaYBLJg_McUBbtjcA$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1ers02W7I9uw73IYxB-fdtN1COn5hm9p1$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M4LVoIZKvMGmoKnJ6V5R98HUtRV17OsN/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xqVG54GZAmmDXUuEaYBLJg_McUBbtjcA/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ers02W7I9uw73IYxB-fdtN1COn5hm9p1/view</link>
 <link>$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
 <link>$nome=[COLOR white][B]6 Opcao[/B][/COLOR]</link>
@@ -425,8 +425,8 @@
 <title>[COLOR white][B]Histórias Assustadoras para Contar no Escuro[/B][/COLOR] --> [COLOR yellow][B](IMDB: /10)[/B][/COLOR]</title>
 <info>[COLOR white][B]A cidade de Mill Valley é assombrada há décadas pelos mistérios envolvendo o casarão da família Bellows. Em 1968, a jovem Sarah (Kathleen Pollard), uma garota problemática que mantinha um relacionamento ruim com os pais, foi ao porão para escrever um livro repleto de histórias macabras. Décadas mais tarde, um grupo de adolescentes descobre o livro e passa a investigar o passado de Sarah. No entanto, as histórias do livro começam a se tornar reais.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1oQ1knitK21rsRYmNkhvTMKtmrnw8XIMB$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=14Oer0jA7QTgcVvql3maUhPuzL27yD7qq$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oQ1knitK21rsRYmNkhvTMKtmrnw8XIMB/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14Oer0jA7QTgcVvql3maUhPuzL27yD7qq/view</link>
 <link>$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/t2ythzm$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/uqvkzk5$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
@@ -441,8 +441,8 @@
 <title>[COLOR white][B]Alerta Lobo[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Na história, o marinheiro Chateraide (François Civil) desempenha a função de “Ouvido de Ouro”, responsável por interpretar cada ruído captado pelo sonar da embarcação. Com fama de infalível, ele porém comete um erro que põe a tripulação em perigo. Ele quer recuperar a confiança dos superiores, mas sua busca os leva a uma engrenagem incontrolável da dissuasão nuclear, num contexto de tensões internacionais e de manipulação da informação.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=0-LTTNiGgUA$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1oq5kKF1EfOsyL1TxiYfRvNCjLf5GYlKX$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1tGnNmeodw7sz6ZLy-E1_i_1Dg57M8ZZF$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oq5kKF1EfOsyL1TxiYfRvNCjLf5GYlKX/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tGnNmeodw7sz6ZLy-E1_i_1Dg57M8ZZF/view</link>
 <link>$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y3kyzjh7$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/yxjbfajb$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
@@ -457,8 +457,8 @@
 <title>[COLOR white][B]Amor em Obras[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,6/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Quando a garota da cidade, Gabriela, entra espontaneamente em um concurso e ganha uma pousada rústica na Nova Zelândia, ela se une ao empreiteiro Jake Taylor para consertar e virar o jogo.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=P9vXNloQfTM$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1H10hthIlDVHmbZre4wZ_QVBiRlF4SFKU$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1kplklBP6pflPasiHWN8OUuRmGKR0PdtB$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1H10hthIlDVHmbZre4wZ_QVBiRlF4SFKU/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kplklBP6pflPasiHWN8OUuRmGKR0PdtB/view</link>
 <link>$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y6jm4qbt$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y6sn66ks$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
@@ -473,8 +473,8 @@
 <title>[COLOR white][B]Astro Kid[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,3/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]O jovem Willy se perde de seus pais depois que a nave espacial deles é destruída por uma chuva de meteoros. Sua cápsula aterriza em um planeta selvagem e inexplorado, e Willy deve aprender a sobreviver nele. Graças à ajuda de Buck, um robô de sobrevivência, ele espera até a chegada da missão de resgate enquanto descobre a fauna, a flora e também os perigos do planeta com seu novo amigo alienígena, Flash.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=SuLb3MX5q8M$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1YXfJHI2GO9a_PmMM8OciZayiesFGBQ5D$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1HrDn2aVDYQBcWf561YZw522Y1i0a4EQR$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YXfJHI2GO9a_PmMM8OciZayiesFGBQ5D/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HrDn2aVDYQBcWf561YZw522Y1i0a4EQR/view</link>
 <link>$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y3p7wgr7$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y6acdau4$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
@@ -489,8 +489,8 @@
 <title>[COLOR white][B]Campo do Medo[/B][/COLOR] --> [COLOR yellow][B](IMDB: 5,5/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Os irmãos Becky e Cal entram em um matagal quando ouvem o choro de uma criança. Ao seguirem o barulho, a dupla percebe que não há caminho de volta. Isolados do mundo e incapazes de escapar, eles logo descobrem que a única coisa pior do que se perderem é serem encontrados[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=XA-od7-JSfg$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1lJDK9vxQBHLVOJagbVCi9CpcOpnZM509$nome=[COLOR white][B]1 Opcao[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1_tF2cLK_skiubO0HZrBTnb1kvKP8pMK7https://tinyurl.com/y62emjh5$nome=[COLOR white][B]2 Opcao[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lJDK9vxQBHLVOJagbVCi9CpcOpnZM509/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_tF2cLK_skiubO0HZrBTnb1kvKP8pMK7/view</link>
 <link>$nome=[COLOR white][B]3 Opcao[/B][/COLOR]</link>
 <link>https://tinyurl.com/y2swxbok$nome=[COLOR white][B]4 Opcao[/B][/COLOR]</link>
 <link>$nome=[COLOR white][B]5 Opcao[/B][/COLOR]</link>
@@ -2184,6 +2184,8 @@ $nome=[COLOR white][B]2 Opcao[/B][/COLOR]
 <genre>[COLOR white][B]DRAMA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 40m[/B][/COLOR]</genre>
 <date>2019</date>
 </item>
+
+
 
 
 
