@@ -1,4 +1,14 @@
 <item>
+<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154m1e1jcv5p-Hy056dUV3vvNxKddrF5L/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+
+<item>
 <title>[COLOR white][B]Abominável[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=mM8yOgbr0Hw$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
 <link>https://drive.google.com/open?id=154m1e1jcv5p-Hy056dUV3vvNxKddrF5L$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
