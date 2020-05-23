@@ -104,9 +104,9 @@
 <item>
 <title>[COLOR white][B]Centro de Trauma[/B][/COLOR] --> [COLOR yellow][B](IMDB: 4,9/10)[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Y2DrOhVpPZo$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=110ITRIBTkzGcJ9AJQdpCa2u8Jv2cFmcj$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1klASdxBZ2IFmgV2V6x31uMfBqoAWiPb_$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1KhPc5X67BWK6aXonVxYFHeGZUy0oadID$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=110ITRIBTkzGcJ9AJQdpCa2u8Jv2cFmcj</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/110ITRIBTkzGcJ9AJQdpCa2u8Jv2cFmcj/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KhPc5X67BWK6aXonVxYFHeGZUy0oadID/view</link>
 <fanart>https://image.tmdb.org/t/p/original/cFzDMJG8gSPLbGn3gzLgrTARwTz.jpg</fanart>
 <thumbnail>https://i.imgur.com/EDL6Aak.png</thumbnail>
 <info>[COLOR white][B]Um ex-paramédico fica ferido depois que ela testemunha um fogo cruzado envolvendo dois policiais corruptos. Despachado para o hospital, a mulher deve sobreviver a noite enquanto os homens a caçam. Felizmente, um policial veterano é designado para protegê-la, e ele se torna seu protetor à medida que a noite se torna mais perigosa.[/B][/COLOR]</info>
@@ -118,9 +118,9 @@
 <title>[COLOR white][B]Code 8: Renegados[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,0/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Em um mundo onde pessoas com habilidades "especiais" vivem na pobreza, Conner Reed (Robbie Amell) é um jovem poderoso que está lutando para pagar pelo tratamento médico de sua mãe doente. Para ganhar dinheiro, ele se junta a um mundo criminoso e lucrativo, liderado por Garrett (Stephen Amell), que trabalha para um traficante de drogas.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=wHN3MOCns4Y$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1ZNQZHxhAdmPMcn4qRwenmmOv4oQrnBda$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1g9t08-FmgESGH_WdH_dHQ2SHwsmMu83M$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1Y1GuIAm95d5fNvCy4BV7crqCeKIaN7gD$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZNQZHxhAdmPMcn4qRwenmmOv4oQrnBda/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g9t08-FmgESGH_WdH_dHQ2SHwsmMu83M/view</link>>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y1GuIAm95d5fNvCy4BV7crqCeKIaN7gD/view</link>
 <fanart>https://image.tmdb.org/t/p/original/wlnDNMQlnwl5ETlVY6n9CEtR5s0.jpg</fanart>
 <thumbnail>https://i.imgur.com/lVjd7NH.png</thumbnail>
 <genre>[COLOR white][B]FICÇÃO CIENTÍFICA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 38m[/B][/COLOR]</genre>
@@ -131,9 +131,8 @@
 <title>[COLOR white][B]Corgi: Top Dog[/B][/COLOR] --> [COLOR yellow][B](IMDB: 4,7/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]O corgi Rex foi escolhido como "Top Dog", o cachorro preferido da Rainha. Ele vive cercado de outros cachorros no Palácio de Buckingham, repleto de alimentos finos e outras mordomias. Quando uma visita do presidente Donald Trump à Inglaterra tem desdobramentos negativos graças a Rex, o cachorro abandona o Palácio e se aventura por Londres. No caminho, faz novos amigos no canil e se apaixona por Wanda, uma cadela prometida ao cão mais valente do local. Rex precisará reunir todos os esforços necessários para conquistar o amor da sua vida e voltar aos braços da Rainha.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=-xObKiKqefs$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1l2HgE2_jaeNIUUxNLXwm90OH3CzUKaaj$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1w4VJ4Fbzr4uYSIedMm6iE2irPyPlj6Kt$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1Sng-tzFz2LotwU-hjlLeVaghKdye1lEP$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l2HgE2_jaeNIUUxNLXwm90OH3CzUKaaj/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w4VJ4Fbzr4uYSIedMm6iE2irPyPlj6Kt/view</link>
 <fanart>https://image.tmdb.org/t/p/original/73HA0iUkXarjzLjuy8Svey1gj7T.jpg</fanart>
 <thumbnail>https://i.imgur.com/k004nqQ.png</thumbnail>
 <genre>[COLOR white][B]ANIMAÇÃO, FAMÍLIA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 25m[/B][/COLOR]</genre>
@@ -144,9 +143,9 @@
 <title>[COLOR white][B]Dora e a Cidade Perdida[/B][/COLOR] --> [COLOR yellow][B](IMDB: 6,0/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Ambientado na floresta peruana, o filme narra as aventuras de Dora (Isabella Merced) junto de seu macaco Botas, amigos que acabou de fazer na escola e um misterioso explorador a fim de salvar seus pais de mercenários. Mas Dora também terá de solucionar um grande mistério envolvendo Parapata, uma antiga cidade perdida dos Incas.[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=i6AjfTxNOd4$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1xNe2TVog5obq98Yr71O8t_il0qcKjHAL$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1uEqp1nReu8kOtSfk1EpZo2s7w1QxHueO$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1VqgclO2tGVdygOWc3Phi5suhmK6REOoP$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xNe2TVog5obq98Yr71O8t_il0qcKjHAL/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uEqp1nReu8kOtSfk1EpZo2s7w1QxHueO/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VqgclO2tGVdygOWc3Phi5suhmK6REOoP/view</link>
 <fanart>https://image.tmdb.org/t/p/original/61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg</fanart>
 <thumbnail>https://i.imgur.com/W67WdEy.png</thumbnail>
 <genre>[COLOR white][B]AVENTURA, COMÉDIA, FAMÍLIA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 42m[/B][/COLOR]</genre>
@@ -157,9 +156,9 @@
 <title>[COLOR white][B]Era Uma Vez em… Hollywood[/B][/COLOR] --> [COLOR yellow][B](IMDB: 7,8/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).[/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=OYGUQmJlgiE$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1egcMn2mmBpNLKJTVL2FK7o_QJag5m6x0$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1WWDFoV_sK8luCX7mtIQMjiOzROMqlZSn$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1egcMn2mmBpNLKJTVL2FK7o_QJag5m6x0$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1egcMn2mmBpNLKJTVL2FK7o_QJag5m6x0/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WWDFoV_sK8luCX7mtIQMjiOzROMqlZSn/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1egcMn2mmBpNLKJTVL2FK7o_QJag5m6x0/view</link>
 <fanart>https://image.tmdb.org/t/p/original/aQLygZOIKai6aaiBAeeKpIWO5nc.jpg</fanart>
 <thumbnail>https://i.imgur.com/Y98rBS2.png</thumbnail>
 <genre>[COLOR white][B]DRAMA, COMÉDIA, THRILLER[/B][/COLOR] --> [COLOR blue][B]Duração: 2h 42m[/B][/COLOR]</genre>
@@ -170,9 +169,9 @@
 <title>[COLOR white][B]Hala[/B][/COLOR] --> [COLOR yellow][B](IMDB: 4,6/10)[/B][/COLOR]</title>
 <info>[COLOR white][B]Acostumada a guardar sempre seus sentimentos e pensamentos para si, a adolescente muçulmana Hala (Geraldine Viswanathan) está constantemente tentando criar válvulas de escape devido ao lar conservador onde mora. Quando ela se apaixona por um vizinho e contraria todos os ensinamentos que recebeu, precisa achar uma maneira de lidar com os seus pais. [/B][/COLOR]</info>
 <link>plugin://plugin.video.youtube/play/?video_id=4aS-qGHH6E0$nome=[COLOR white][B]Trailer[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1i0pLETbH6rj028CLwHgjkU17YQk_YDFt$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=13AGI3-nUoJWXfftxFDImlXhMUBEEd6-t$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
-<link>https://drive.google.com/open?id=1f6sVt0gXZLYM6Pg5a-wyIibH7xJZI1NA$nome=[COLOR white][B]PLAY - DUBLADO[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i0pLETbH6rj028CLwHgjkU17YQk_YDFt/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13AGI3-nUoJWXfftxFDImlXhMUBEEd6-t/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f6sVt0gXZLYM6Pg5a-wyIibH7xJZI1NA/view</link>>
 <fanart>https://image.tmdb.org/t/p/original/afFHOWMMMCji7T3mhZJdL77N0Gh.jpg</fanart>
 <thumbnail>https://i.imgur.com/T9S8M1c.png</thumbnail>
 <genre>[COLOR white][B]DRAMA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 34m[/B][/COLOR]</genre>
@@ -2187,3 +2186,7 @@ $nome=[COLOR white][B]2 Opcao[/B][/COLOR]
 <genre>[COLOR white][B]DRAMA[/B][/COLOR] --> [COLOR blue][B]Duração: 1h 40m[/B][/COLOR]</genre>
 <date>2019</date>
 </item>
+
+
+
+
