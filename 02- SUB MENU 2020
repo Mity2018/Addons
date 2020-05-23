@@ -2,32 +2,21 @@
  
 <channels>
  
- <channel>
-      <name>[COLOR cyan][COLOR  Yellow]•///   [/COLOR] Idioma Español [/COLOR]</name>
-  <thumbnail>https://oedimdecor.com/wp-content/uploads/2019/02/paraguay-1333x1000.jpg</thumbnail>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]IDIOMA ESPAÑOL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://oedimdecor.com/wp-content/uploads/2019/02/paraguay-1333x1000.jpg</thumbnail>
+<externallink>https://</externallink>
 <fanart>https://oedimdecor.com/wp-content/uploads/2019/02/paraguay-1333x1000.jpg</fanart>
-   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/05-%20SUB%20MENU%20ESPA%C3%91OL</externallink>
-[COLOR deeppink]|[/COLOR] Exclusivo en el Idioma Español (LATINO) [COLOR deeppink]|[/COLOR]</info>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] IDIOMA EXCLUSIVO EN ESPAÑOL (LATINO) [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channel>
-      <name>[COLOR cyan][COLOR  Yellow]•///   [/COLOR] Idioma Portugues [/COLOR]</name>
-  <thumbnail>https://oedimdecor.com/wp-content/uploads/2019/02/brasil.jpg</thumbnail>
-<fanart>https://oedimdecor.com/wp-content/uploads/2019/02/brasil.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/06-%20SUB%20MENU%20BRASIL%202020</externallink>
-</channel>
-[COLOR deeppink]|[/COLOR] Exclusivo en el Idioma Portugues (BRASIL)[COLOR deeppink]|[/COLOR]</info>
-  </channels> 
-</channels> 
-
-
-
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]IDIOMA ESPAÑOL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]IDIOMA PORTUGUES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://oedimdecor.com/wp-content/uploads/2019/02/brasil.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://oedimdecor.com/wp-content/uploads/2019/02/brasil.jpg</fanart>
