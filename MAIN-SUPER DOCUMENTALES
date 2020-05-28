@@ -9,7 +9,7 @@
 <thumbnail>http://veracidadchannel.com/_site/wp-content/uploads/2017/08/documentales-752x440.png</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/watch?v=jmhftA1CO-Y&list=PLybVCOVMPtkpil_MBi9jR333PX3KN7iWk</page>
+<page>https://www.youtube.com/playlist?list=PLybVCOVMPtkpil_MBi9jR333PX3KN7iWk</page>
 </regex>
 </item>
 
