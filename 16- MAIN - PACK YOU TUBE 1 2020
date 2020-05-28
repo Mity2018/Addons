@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK 1 [/COLOR][COLOR white]VARIOS HD 2019[/COLOR][/B]</title>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK 1 [/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -12,4 +12,54 @@
 <page>https://www.youtube.com/playlist?list=PLNq2eaZvd5PsY9bF9QTeJ30IRscWVT_4c</page>
 </regex>
 </item>
+
+
+<item>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK 2 [/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/F0lIJkuzkXFw5GWXizFhX0ygPZux1DSQ-FcTeB0CUJSfaOvYg5WQbXsEnehgr2l9dMOr0T2_dNrZUjJQbnZgvVKJegAZtkIBtQ-pwLxncdIMiVhvqZ6xB5M0</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLEC84DA8F03E861CE</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK INFANTIL 3 [/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/F0lIJkuzkXFw5GWXizFhX0ygPZux1DSQ-FcTeB0CUJSfaOvYg5WQbXsEnehgr2l9dMOr0T2_dNrZUjJQbnZgvVKJegAZtkIBtQ-pwLxncdIMiVhvqZ6xB5M0</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLNq2eaZvd5PsV1JBCbij0U6igns0HnXew</page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK ACCION 4 [/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/F0lIJkuzkXFw5GWXizFhX0ygPZux1DSQ-FcTeB0CUJSfaOvYg5WQbXsEnehgr2l9dMOr0T2_dNrZUjJQbnZgvVKJegAZtkIBtQ-pwLxncdIMiVhvqZ6xB5M0</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PL5x9ymZoo7lF2c-ujYwUrIfCKRx0VpcUh</page>
+</regex>
+</item>
+
+
+
+
 
