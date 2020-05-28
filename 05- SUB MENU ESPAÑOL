@@ -2,30 +2,30 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]PELICULAS 1 2020[/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<name>[COLOR lime][B]PELICULAS 1 2020[/B][/COLOR] - [COLOR blue][B]CrisIPTV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/0sHkjtN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/13-%20MAIN%20PELCULAS%20ESPA%C3%91OL%202020</externallink>
 <fanart>https://i.imgur.com/IrtpLv1.jpg</fanart>
-<info>Os Melhores Filmes Lançamentos, Você Só Encontra Aqui, Vem Para O Bluray!</info>
+<info>Buenas Peliculas en CrisIPTV 2020</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERIES 2020[/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<name>[COLOR lime][B]SERIES 2020[/B][/COLOR] - [COLOR blue][B]CrisIPTV[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/0sHkjtN.png</thumbnail>
 <externallink>http://bluerayplay.com/kodi/Premium/Filmesbase.xml</externallink>
 <fanart>https://i.imgur.com/IrtpLv1.jpg</fanart>
-<info>Os Melhores Filmes Lançamentos, Você Só Encontra Aqui, Vem Para O Bluray!</info>
+<info>Buena Series en CrisIPTV 2020</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR white][B]Super Documentarios[/B][/COLOR] - [COLOR red][B]CrisIPTV[/B][/COLOR]</name>
+<name>[COLOR lime][B]Super Documentarios[/B][/COLOR] - [COLOR blue][B]CrisIPTV[/B][/COLOR]</name>
 <thumbnail>https://yogavivencia.files.wordpress.com/2017/11/documentarios.jpg?w=1180&h=435&crop=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN-SUPER%20DOCUMENTALES</externallink>
 <fanart>https://yogavivencia.files.wordpress.com/2017/11/documentarios.jpg?w=1180&h=435&crop=1</fanart>
-<info>Os Melhores Filmes Lançamentos, Você Só Encontra Aqui, Vem Para O Bluray!</info>
+<info>Documentarios en CrisIPTV 2020</info>
 </channel>
 </channels>
