@@ -1,0 +1,14 @@
+<item>
+<title>[COLOR red]* [/COLOR][B][COLOR blue]DOCUMENTALES[/COLOR][COLOR white] VARIOS HD 2019[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/F0lIJkuzkXFw5GWXizFhX0ygPZux1DSQ-FcTeB0CUJSfaOvYg5WQbXsEnehgr2l9dMOr0T2_dNrZUjJQbnZgvVKJegAZtkIBtQ-pwLxncdIMiVhvqZ6xB5M0</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLNq2eaZvd5PsY9bF9QTeJ30IRscWVT_4c</page>
+</regex>
+</item>
