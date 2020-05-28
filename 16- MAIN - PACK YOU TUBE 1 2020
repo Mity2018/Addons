@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK 1 [/COLOR][COLOR white] :::VARIOS HD 2019[/COLOR][/B]</title>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]PACK 1 [/COLOR][COLOR white]VARIOS HD 2019[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -12,3 +12,4 @@
 <page>https://www.youtube.com/playlist?list=PLNq2eaZvd5PsY9bF9QTeJ30IRscWVT_4c</page>
 </regex>
 </item>
+
