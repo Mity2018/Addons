@@ -29,3 +29,13 @@
 <info>Documentarios en CrisIPTV 2020</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]:::Varios:::[/B][/COLOR] - [COLOR blue][B]CrisIPTV[/B][/COLOR]</name>
+<thumbnail>https://dl1.cbsistatic.com/i/2019/06/03/08c7f8fd-e44f-43d0-96ef-d264608e5e19/b8c283c2da0077128d61f02a1405fa0a/imgingest-5233272396232916547.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN-SUPER%20DOCUMENTALES</externallink>
+<fanart>https://dl1.cbsistatic.com/i/2019/06/03/08c7f8fd-e44f-43d0-96ef-d264608e5e19/b8c283c2da0077128d61f02a1405fa0a/imgingest-5233272396232916547.png</fanart>
+<info>Documentarios en CrisIPTV 2020</info>
+</channel>
+</channels>
