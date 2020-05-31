@@ -27,3 +27,18 @@
 <page>https://www.youtube.com/playlist?list=PLuJOC0dzJ9jZwIjTOS11figvWjlFjeod_</page>
 </regex>
 </item>
+
+<item>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]TOM & JERRY[/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://pics.filmaffinity.com/El_Chapul_n_Colorado_Serie_de_TV-834427314-large.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=BRkQ-ZGiNbc&list=PLwp8m9anCLK3jmItMyLTgfNpM-526z8Cl</page>
+</regex>
+</item>
