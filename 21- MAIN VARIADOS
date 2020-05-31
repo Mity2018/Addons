@@ -1,0 +1,14 @@
+<item>
+<title>[COLOR lime]::: [/COLOR][B][COLOR blue]CHAVO DEL 8 El Chavo Del Ocho | Orden cronológico (1972-1979) [/COLOR][COLOR white]CrisIPTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR tomato][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ebayimg.com/images/g/wMEAAOxyzGlQ7D3I/s-l600.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLXAYjeU9uqrSjUfOAkuxQr2bHPb2MzzSL</page>
+</regex>
+</item>
