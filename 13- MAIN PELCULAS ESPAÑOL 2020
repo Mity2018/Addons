@@ -27,6 +27,15 @@
 
 <channels>
 <channel>
+<name>[COLOR blue][B]Tomb Raider Trilogia (2001 - 2018) [/B][/COLOR]</name>
+<thumbnail>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/SERIES.png</thumbnail>
+<fanart>https://ia801507.us.archive.org/17/items/colecoesdefilmes_201911/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/19-%20TRILOGIA%20INVICTO%202020</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR lime]SAGA ALIEN[/COLOR]</name>
 <thumbnail>https://giaitriso.org/wp-content/uploads/2019/07/alien-covenant-10.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/13-%20SAGAS%20ALIEN%202020</externallink>
