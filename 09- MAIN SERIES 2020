@@ -1,23 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
 <channels>
+
 <channel>
-<name>[COLOR blue][B]Narcos: México (2018)[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w154/gQQGxVhdBvT2l7G1Zz6JYSCmL6q.jpg</thumbnail>
-<fanart>https://www.datamanager.it/wp-content/uploads/2019/04/energy-green.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/15-%20Narcos%20Mexico%202020</externallink>
-<info>Narcos: México (2018)
-@ Narcos: México
-
-Sinopsis:
-
-La historia empezará en una época donde el mundo del narcotráfico mexicano era una estructura desorganizada de productores y traficantes independientes. La serie mostrará el nacimiento del cártel de Guadalajara en los años 80, cuando Félix Gallardo (Luna) toma el mando, unificando a los traficantes para construir un imperio. Cuando el agente de la DEA, Kiki Camarena (Peña), se traslada con su mujer y su hijo pequeño de California a Guadalajara para asumir un nuevo cargo, enseguida se da cuenta de que su tarea será más desafiante de lo que jamás hubiera imaginado. A medida que Kiki va recopilando información sobre Félix y se involucra más en su caso, se desarrollan una serie de acontecimientos que afectarán al tráfico de drogas y a la guerra contra las mismas en los años venideros..
-Actores: Michael Peña Diego Luna Tenoch Huerta Mark Kubr Alyssa Diaz Joaquín Cosio Matt Letscher Aaron Staton
-Director: N/A
-Escritor: Carlo Bernard Chris Brancato Doug Miro
-Pais: N/A
-Fecha de estreno: 16 Nov 2018</info>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Smallville: As Aventuras do Superboy[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/smallville/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/smallville/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/smallville/fanart.jpg</fanart>
+<info>
+Uma interpretação da história de Superman mostra o jovem Clark Kent aprendendo a usar seus superpoderes em Kansas.
+</info>
 </channel>
-</channels>
 
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Todxs Nós[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/todox/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/todox/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/todox/fanart.jpg</fanart>
+<info>
+‘Todxs Nós’: Série da HBO quer superar clichês do universo LGBT
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - La Casa De Papel[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/lacasadepapel/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/lacasadepapel/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/lacasadepapel/fanart.jpg</fanart>
+<info>Um grupo de nove ladrões, liderados por um Professor, prepara o roubo do século na Casa da Moeda da Espanha, com o objetivo de fabricar o próprio dinheiro em quantidades incalculáveis e nunca antes vista.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Snowfall[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/snowfall/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/snowfall/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/snowfall/fanart.jpg</fanart>
+<info>
+Pessoas entram em uma colisão violenta durante a epidemia de crack em Los Angeles.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Deus Me Adicionou (God Friended Me)[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/god/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/god/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/god/fanart.jpg</fanart>
+<info>
+Um pedido de amizade de Deus nas mídias sociais leva um ateu a um caminho inesperado enquanto ele trabalha para chegar ao fundo do que ele acredita ser uma farsa.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Charmed – Nova Geração[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/charmed/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/charmed/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/charmed/fanart.jpg</fanart>
+<info>
+Após a trágica morte da mãe, três irmãs em uma cidade universitária descobrem que são poderosas bruxas. Entre vencer demônios sobrenaturais, derrubar o patriarcado e manter laços familiares, o trabalho delas nunca acaba.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - The Outsider[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/outside/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/outside/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/outside/fanart.jpg</fanart>
+<info>
+A investigação do assassinato de um menino se torna obscura quando uma entidade sobrenatural faz com que a equipe encarregada questione suas próprias crenças.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Tô de Graça[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/todegraca/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/todegraca/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/todegraca/fanart.jpg</fanart>
+<info>
+Dona Graça é uma catadora de latinhas que sustenta 13 filhos e o marido desempregado, além de fazer todas as funções de uma dona de casa.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Sintonia[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/sintonia/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/sintonia/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/sintonia/fanart.jpg</fanart>
+<info>
+Doni, Nando e Rita cresceram juntos na mesma favela, influenciados pelo fascínio do funk, do tráfico de drogas e da igreja. Cada um deles transforma suas experiências de infância em caminhos muito divergentes, até perceberem que precisam um do outro.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - South of Hell: Caçadores de Demônios[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/southofhell/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/southofhell/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/southofhell/fanart.jpg</fanart>
+<info>
+Maria Abascal é uma caçadora de demônios, mas que lida também com a própria possessão. Ao lado de seu irmão, David, ela luta contra os demônios que vivem em outras pessoas, enquanto se alimenta do mal que exorciza dos outros.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Reunião de Família[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/reuniaofamilia/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/reuniaofamilia/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/reuniaofamilia/fanart.jpg</fanart>
+<info>
+Quando a família McKellan se muda de Seattle para uma cidadezinha na Georgia, a vida no sul dos EUA e os avós conservadores desafiam seu estilo de vida.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Jornada nas Estrelas: Picard[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/picard/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/picard/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/picard/fanart.jpg</fanart>
+<info>
+Jornada nas Estrelas: Picard apresenta o Sir Patrick Stewart revivendo seu icônico papel como Jean-Luc Picard, que ele interpretou durante sete temporadas em Jornada nas Estrelas: A Nova Geração. A nova série acompanhará este personagem icônico no capítulo seguinte de sua vida.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Olhos que Condenam[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/olhosquecondenam/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/olhosquecondenam/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/olhosquecondenam/fanart.jpg</fanart>
+<info>
+Cinco adolescentes do Harlem vivem um pesadelo depois de serem injustamente acusados de um ataque brutal no Central Park. Baseada em uma história real.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Messiah[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/messiah/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/messiah/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/messiah/fanart.jpg</fanart>
+<info>
+Uma agente da CIA investiga uma figura carismática que inicia um movimento espiritual e provoca instabilidade política. Uma história de ficção não baseada em fatos reais.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Me Encontra em Paris[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/encontraemparis/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/encontraemparis/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/encontraemparis/fanart.jpg</fanart>
+<info>
+Lena Grisky é uma jovem bailarina com um segredo: ela viajou no tempo desde o passado.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Love Alarm[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/lovealarm/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/lovealarm/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/lovealarm/fanart.jpg</fanart>
+<info>
+Em um mundo em que um aplicativo avisa seus usuários se alguém por perto gosta deles, Kim Jojo descobre o amor e encara as adversidades da vida.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Avenue 5[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/avenue/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/avenue/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/avenue/fanart.jpg</fanart>
+<info>
+Num futuro próximo, Ryan Clark (Hugh Laurie) é o charmoso e controlador capitão da Avenue 5, uma famosa nave especializada em turismo espacial. Mas quando o veículo começa a apresentar problemas de funcionamento, ele precisa unir sua equipe para garantir a segurança dos passageiros, desesperados para sair daquela situação.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - October Faction[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/october-faction/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/october-faction/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/october-faction/fanart.jpg</fanart>
+<info>
+Emoções monstruosas envolvem a família de Fred e Deloris, caçadores do sobrenatural e pais dos gêmeos Viv e Geoff, que também escondem seus próprios segredos.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - O Assassino Confesso[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/assassinoconfesso/thumbnail.png</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/assassinoconfesso/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/assassinoconfesso/fanart.jpg</fanart>
+<info>
+Henry Lee Lucas ficou famoso depois de confessar centenas de assassinatos. Esta série documental mostra a verdade e suas terríveis consequências.
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]NETFREE PLAY[/COLOR] - Vai Que Cola[/B]<name>
+<thumbnail>http://noticias.fphosting.com.br/series/serie-d/vqcl/thumbnail.jpg</thumbnail>
+<externallink>http://noticias.fphosting.com.br/series/serie-d/vqcl/index.html</externallink>
+<fanart>http://noticias.fphosting.com.br/series/serie-d/vqcl/fanart.jpeg</fanart>
+<info>
+Após se meter em uma falcatrua, o malandro Valdomiro Lacerda (Paulo Gustavo) vai morar em uma pensão, localizada no bairro do Méier, na cidade do Rio de Janeiro, tentando fugir da Polícia Federal. A dona da pensão, Dona Jô (Catarina Abdala), acaba recebendo-o como hóspede.
+</info>
+</channel>
 <channels>
 <channel>
 <name>[COLOR lime]13 Reasons Why (2017)[/COLOR]</name>
